@@ -1,0 +1,108 @@
+{
+    "establishment": ["restaurante"],
+    "name": "bok2",
+    "address": {
+        "city": "la habana",
+        "town": "plaza de la revolución",
+        "coordinates": {
+            "latitude": 23.14067652925281,
+            "longitude": -82.37851087833417
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": "@bok2_habana",
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1200-2400",
+        "tuesday": "1200-2400",
+        "wednesday": "1200-2400",
+        "thursday": "1200-2400",
+        "friday": "1200-2400",
+        "saturday": "1200-2400",
+        "sunday": "1200-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["americana", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "Croquetas BOK2", "price": 1000},
+                {"name": "Papas Fritas", "price": 1200},
+                {"name": "Tabla de Jamón Serrano", "price": 3500},
+                {"name": "Cesta de Pan", "price": 400},
+                {"name": "Tabla BOK2", "price": 4800}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "fajitas d' pollo", "price": 1800},
+                {"name": "eperlan", "price": 2000},
+                {"name": "huevos rotos", "price": 2100},
+                {"name": "pollo loco", "price": 1300},
+                {"name": "ceviche bok2", "price": 2700},
+                {"name": "ropa vieja", "price": 3200},
+                {"name": "cerdo asado", "price": 3000},
+                {"name": "supremo d' pollo grille", "price": 2800},
+                {"name": "fajitas d' pollo salteadas", "price": 2950},
+                {"name": "filete d' pescado", "price": 3500},
+                {"name": "camaron al gusto", "price": 3800},
+                {"name": "langosta al gusto", "price": 4100},
+                {"name": "pasta napoles", "price": 2000},
+                {"name": "pasta boloñesa", "price": 2700},
+                {"name": "pasta carbonara", "price": 3100},
+                {"name": "sandwich jq", "price": 1500},
+                {"name": "sandwich cubanito", "price": 1900},
+                {"name": "sandwich marinero", "price": 2500},
+                {"name": "cheese burger", "price": 1700},
+                {"name": "american burger", "price": 1950}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "mayonesa", "price": 250},
+                {"name": "huevo", "price": 310},
+                {"name": "aceitunas", "price": 370},
+                {"name": "queso gouda", "price": 580},
+                {"name": "jamón", "price": 600},
+                {"name": "chorizo", "price": 590},
+                {"name": "bacon", "price": 650},
+                {"name": "jamón serrano", "price": 900},
+                {"name": "atún", "price": 500},
+                {"name": "piña", "price": 280},
+                {"name": "cebolla", "price": 350},
+                {"name": "pimiento", "price": 290}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "helado montado", "price": 720},
+                {"name": "postre del dia", "price": 900}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

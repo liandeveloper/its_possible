@@ -1,0 +1,123 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "amalfi",
+    "address": {
+        "city": "la habana",
+        "town": "playa",
+        "coordinates": {
+            "latitude": 23.118857756567763,
+            "longitude": -82.42952136001638
+        }
+    },
+    "contact": {
+        "facebook": "amalfi",
+        "instagram": "@amalfi_havana_restaurant",
+        "whatsapp": "59495759",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1200-2230",
+        "tuesday": "1200-2230",
+        "wednesday": "1200-2230",
+        "thursday": "1200-2230",
+        "friday": "1200-2230",
+        "saturday": "1200-2230",
+        "sunday": "1200-2230"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["italiana", "mediterranea", "europea"],
+    "menu": {
+        "starter": {
+            "items": [null]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "salsiccia italiana la plancha", "price": 3840},
+                {"name": "fantasia di mare", "price": 4800},
+                {"name": "gambari al limone", "price": 3840},
+                {"name": "profumo mediterraneo", "price": 5120},
+                {"name": "pomodoro fresco", "price": 3520},
+                {"name": "carbonara", "price": 3520},
+                {"name": "amatriciana", "price": 3520},
+                {"name": "carbonara salsiccia", "price": 3840},
+                {"name": "puttanesca", "price": 3840},
+                {"name": "ragu malale", "price": 3840},
+                {"name": "zucca e salsiccia", "price": 3840},
+                {"name": "funghi e salsiccia", "price": 4800},
+                {"name": "penne a la sorrentina", "price": 3840},
+                {"name": "spaghetti con bottarga", "price": 3200},
+                {"name": "penne al salmon", "price": 3840},
+                {"name": "pasta amalfi", "price": 3840},
+                {"name": "spaghetti cetara", "price": 3840},
+                {"name": "linguine con calamar", "price": 5120},
+                {"name": "pasta mediterranea", "price": 5120},
+                {"name": "pizza margarita", "price": 1920},
+                {"name": "pizza de la casa", "price": 3520},
+                {"name": "pizza vegetariana", "price": 2560},
+                {"name": "pizza mixta", "price": 3200},
+                {"name": "pizza de atun", "price": 3200},
+                {"name": "pizza de brocoli y salchicha", "price": 2880},
+                {"name": "pizza diavola", "price": 3880},
+                {"name": "pizza de serrano", "price": 3200},
+                {"name": "pizza romana", "price": 3200},
+                {"name": "pizza de jamon barra", "price": 2560}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "ensalada de estacion", "price": 1280},
+                {"name": "ensalada positano", "price": 1920},
+                {"name": "ensalada ravello", "price": 1920},
+                {"name": "ensalada vettica", "price": 1920}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "torta al limon", "price": 1280},
+                {"name": "tortino al cioccolato", "price": 1600},
+                {"name": "profiterol", "price": 1280},
+                {"name": "tiramisu", "price": 1280},
+                {"name": "tiramisu pan di stelle", "price": 1600},
+                {"name": "delicia del dia", "price": 1280}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza", "price": 980}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "daiquiri", "price": 1400},
+                {"name": "cuba libre", "price": 1400},
+                {"name": "cubanito", "price": 1400},
+                {"name": "cubata", "price": 1400},
+                {"name": "mojito", "price": 1400},
+                {"name": "caipiroska", "price": 1400},
+                {"name": "caipirinna", "price": 1400},
+                {"name": "caipirissima", "price": 1400},
+                {"name": "sangria", "price": 1400},
+                {"name": "margarita", "price": 1400},
+                {"name": "gin tonic", "price": 1400},
+                {"name": "pina colada", "price": 1400},
+                {"name": "negroni", "price": 2240}
+            ]
+        }
+    }
+}

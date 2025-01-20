@@ -1,0 +1,167 @@
+{
+    "establishment": ["restaurante"],
+    "name": "al campestre",
+    "address": {
+        "city": "la habana",
+        "town": "habana del este",
+        "coordinates": {
+            "latitude": 23.155282399334702,
+            "longitude": -82.27081842086241
+        }
+    },
+    "contact": {
+        "facebook": "alcampestre",
+        "instagram": "@alcampestre",
+        "whatsapp": "58893858",
+        "web": null,
+        "telephone": "77657743"
+    },
+    "schedule": {
+        "monday": "1000-2200",
+        "tuesday": "1000-2200",
+        "wednesday": "1000-2200",
+        "thursday": "1000-2200",
+        "friday": "1000-2200",
+        "saturday": "1000-2200",
+        "sunday": "1000-2200"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla", "cubana", "italiana"],
+    "menu": {
+        "starter": {
+            "items": [
+                "vianda hervida", 
+                "vianda frita", 
+                "tostones criollos", 
+                "croquetas de la casa", 
+                "tostones en tapas", 
+                "fritura de malanga", 
+                "ensalada fria", 
+                "papas fritas", 
+                "ceviche", 
+                "crema de queso", 
+                "crema aurora", 
+                "crema virginia", 
+                "fajitas de pollo", 
+                "eperlan", 
+                "coctel de camarones", 
+                "brusquetas", 
+                "tabla charcutera"
+            ]
+        },
+        "main_courses": {
+            "items": [
+                "pizza napolitana", 
+                "pizza bambina", 
+                "pizza al campestre", 
+                "spaghetti con queso", 
+                "spaghetti frutti di mare", 
+                "spaghetti aioli", 
+                "spaghetti al pesto", 
+                "spaghetti bolonesa", 
+                "spaghetti carbonara", 
+                "spaghetti alfredo", 
+                "spaghetti primavera", 
+                "ropa vieja de res", 
+                "vaca frita", 
+                "filete de res a la deuch", 
+                "calamar al ajillo", 
+                "calamar grille", 
+                "calamar en salsa de tomate", 
+                "pulpo grille", 
+                "pulpo enchilado", 
+                "pulpo al ajillo", 
+                "langosta grille", 
+                "langosta americana", 
+                "langosta termidor", 
+                "tacos al chili", 
+                "tacos de res", 
+                "tacos de pollo", 
+                "tacos de cerdo", 
+                "tacos del mar", 
+                "tacos de queso", 
+                "arroz frito", 
+                "estofado de conejo", 
+                "fricase de conejo", 
+                "entrecot", 
+                "churrasco de res", 
+                "chuleton de res", 
+                "paella al campestre"
+            ]
+        },
+        "sides": {
+            "items": [
+                "piña", 
+                "cebolla", 
+                "chorizo", 
+                "pimiento", 
+                "jamón", 
+                "bacon", 
+                "queso gouda", 
+                "aceituna", 
+                "atún", 
+                "camarones", 
+                "ropa vieja de cerdo", 
+                "ropa vieja de res", 
+                "pepperoni", 
+                "ensalada de estacion", 
+                "arroz blanco", 
+                "arroz moro", 
+                "arroz con vegetales", 
+                "vegetales salteados", 
+                "frijoles negros", 
+                "frijoles colorados"
+            ]
+        },
+        "desserts": {
+            "items": [
+                "dulces caseros", 
+                "torrejas de la casa", 
+                "cuna de mousse", 
+                "tarta de mousse", 
+                "cuna cheesecake", 
+                "tarta cheesecake", 
+                "tarta tiramisu", 
+                "cuna tiramisu"
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [
+                "alexander", 
+                "bloddy marry", 
+                "cubanito", 
+                "daiquiri", 
+                "daiquiri rebelde", 
+                "martin", 
+                "mojito", 
+                "piña colada", 
+                "sangría", 
+                "virgen colada", 
+                "caipirina", 
+                "caipiroska", 
+                "caipirisima", 
+                "canchanchara", 
+                "margarita", 
+                "tinto verano"
+            ]
+        }
+    }
+}

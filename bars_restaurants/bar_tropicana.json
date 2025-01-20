@@ -1,0 +1,103 @@
+{
+    "establishment": ["bar"],
+    "name": "bar tropicana",
+    "address": {
+        "city": "la habana",
+        "town": "marianao",
+        "coordinates": {
+            "latitude": 23.09481372818826,
+            "longitude": -82.41919746499825
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": "@cabarettropicana",
+        "whatsapp": null,
+        "web": "https://www.cabaret-tropicana.com",
+        "telephone": "77279147"
+    },
+    "schedule": {
+        "monday": "1200-2200",
+        "tuesday": "1200-2200",
+        "wednesday": "1200-2200",
+        "thursday": "1200-2200",
+        "friday": "1200-2200",
+        "saturday": "1200-2200",
+        "sunday": "1200-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["cubana"],
+    "menu": {
+        "starter": {
+            "items": [null]
+        },
+        "main_courses": {
+            "items": [null]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "aguas nacionales", "price": 100},
+                {"name": "agua saborizada", "price": 100},
+                {"name": "agua natural", "price": 100},
+                {"name": "refresco", "price": 60},
+                {"name": "jugos de frutas en conserva", "price": 100},
+                {"name": "jugos de frutas naturales", "price": 100}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cervezas nacionales o importadas", "price": 200},
+                {"name": "cerveza dispensada", "price": 160}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "ballentinees finest", "price": 500},
+                {"name": "j&b", "price": 650},
+                {"name": "johnnie walker etiqueta roja", "price": 550},
+                {"name": "jameson", "price": 650},
+                {"name": "vat", "price": 580},
+                {"name": "tequila 3 sombreros", "price": 300},
+                {"name": "brandy napoleón", "price": 190},
+                {"name": "cremas y licores (cacao)", "price": 85},
+                {"name": "cremas y licores (café)", "price": 85},
+                {"name": "cremas y licores (menta)", "price": 85},
+                {"name": "cremas y licores (marrasquino)", "price": 85},
+                {"name": "cremas y licores (triple sec)", "price": 85},
+                {"name": "cremas y licores (curacao azul)", "price": 85},
+                {"name": "cremas y licores (piña)", "price": 85},
+                {"name": "daiquiri natural", "price": 450},
+                {"name": "daiquiri frapeado natural", "price": 450},
+                {"name": "cuba libre", "price": 730},
+                {"name": "cubata", "price": 700},
+                {"name": "daiquiri mulata", "price": 620},
+                {"name": "daiquiri saborizado", "price": 450},
+                {"name": "gin cola", "price": 750},
+                {"name": "gin tonic", "price": 785},
+                {"name": "rom tonic", "price": 550},
+                {"name": "tropicana special", "price": 450},
+                {"name": "cocteles internacionales", "price": 500},
+                {"name": "canchánchara", "price": 450},
+                {"name": "piña colada", "price": 450}
+            ]
+        }
+    }
+}

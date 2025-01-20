@@ -1,0 +1,99 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "café del ángel",
+    "address": {
+        "city": "la habana",
+        "town": "la habana vieja",
+        "coordinates": {
+            "latitude": 23.142051017464148,
+            "longitude": -82.35552776299248
+        }
+    },
+    "contact": {
+        "facebook": "jacqueline fumero - cafe del angel",
+        "instagram": "@cafedelangeljf",
+        "whatsapp": null,
+        "web": "https://linktr.ee/cafedelangeljf",
+        "telephone": "78015162"
+    },
+    "schedule": {
+        "monday": "0800-2200",
+        "tuesday": "0800-2200",
+        "wednesday": "0800-2200",
+        "thursday": "0800-2200",
+        "friday": "0800-2200",
+        "saturday": "0800-2200",
+        "sunday": "0800-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["española", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "croquetas serrano", "price": 1480},
+                {"name": "rillete de cerdo", "price": 1500},
+                {"name": "tacos de cerdo", "price": 2200},
+                {"name": "mixto de brusquetas", "price": 2200},
+                {"name": "tacos de camarones", "price": 2380},
+                {"name": "empanadillas de queso", "price": 1400},
+                {"name": "tabla charcuteria", "price": 4000},
+                {"name": "ensalada del angel", "price": 2340},
+                {"name": "baguette de jamon & queso", "price": 1600},
+                {"name": "bocata catalana", "price": 2400},
+                {"name": "sandwich de atun", "price": 1530},
+                {"name": "sandwich vegetales", "price": 1530},
+                {"name": "sandwich cubano", "price": 2600},
+                {"name": "huevos & pesto", "price": 2400}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "solomillo de cerdo", "price": 4200},
+                {"name": "pescado a la siciliana", "price": 3580},
+                {"name": "ropa vieja", "price": 3580},
+                {"name": "costillas de cerdo", "price": 4950},
+                {"name": "hamburguesa de res", "price": 3200},
+                {"name": "langosta caribena", "price": 5400},
+                {"name": "pollo mediterraneo", "price": 2340},
+                {"name": "spaghetti pomodoro", "price": 1880},
+                {"name": "ragu de cordero", "price": 3450},
+                {"name": "ravioli carbonara", "price": 3200},
+                {"name": "spaghetti al pesto", "price": 2200},
+                {"name": "rigatoni amatriciana", "price": 3200},
+                {"name": "spaghetti altamar", "price": 3450}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "mousse de chocolate", "price": 1925},
+                {"name": "esfera de maracuya", "price": 1925},
+                {"name": "arroz con leche", "price": 1500},
+                {"name": "dados de guayaba", "price": 1500}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

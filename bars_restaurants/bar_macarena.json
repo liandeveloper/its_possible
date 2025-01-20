@@ -1,0 +1,114 @@
+{
+    "establishment": ["bar"],
+    "name": "macarena",
+    "address": {
+        "city": "la habana",
+        "town": "centro habana",
+        "coordinates": {
+            "latitude": 23.140032524116656,
+            "longitude": -82.37801794949878
+        }
+    },
+    "contact": {
+        "facebook": "cafe bar macarena",
+        "instagram": "@cafe_bar_macarena",
+        "whatsapp": "58723821",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0700-1200",
+        "tuesday": "1600-0300",
+        "wednesday": "1600-0300",
+        "thursday": "1600-0300",
+        "friday": "1600-0300",
+        "saturday": "1600-0300",
+        "sunday": "1600-0300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "croquetas de la casa", "price": 550},
+                {"name": "jamón y queso", "price": 650},
+                {"name": "rollitos a la macarena", "price": 700},
+                {"name": "tostones rellenos", "price": 750},
+                {"name": "surtida queso y embutido", "price": 1200},
+                {"name": "mixta la macarena", "price": 2200}
+            ]
+        },
+        "main_courses": {
+            "items": [null]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [
+                {"name": "expreso", "price": 150},
+                {"name": "cortado", "price": 250},
+                {"name": "carajillo", "price": 450},
+                {"name": "frappuccino", "price": 750}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua 500 ml", "price": 200},
+                {"name": "agua tónica 330 ml", "price": 220},
+                {"name": "energizante", "price": 350},
+                {"name": "refresco limón", "price": 300},
+                {"name": "refresco cola", "price": 200},
+                {"name": "limonada frappe", "price": 600},
+                {"name": "limonada blue", "price": 600},
+                {"name": "limonada roja", "price": 600},
+                {"name": "limonada natural", "price": 600},
+                {"name": "limonada frescura", "price": 700}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza cristal de botella", "price": 420},
+                {"name": "cerveza bucanero de botella", "price": 400},
+                {"name": "cerveza importada", "price": 300}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "caipiroska", "price": 750},
+                {"name": "sex on the beach", "price": 550},
+                {"name": "screw driver", "price": 550},
+                {"name": "kamikase", "price": 650},
+                {"name": "black russian", "price": 550},
+                {"name": "cosmopolitan", "price": 600},
+                {"name": "camino al cielo", "price": 550},
+                {"name": "blue hawaii", "price": 550},
+                {"name": "vodka tonic", "price": 750},
+                {"name": "bloody mary", "price": 550},
+                {"name": "mojitos", "price": 650},
+                {"name": "cuba libre", "price": 550},
+                {"name": "bello monte", "price": 550},
+                {"name": "cuba bella", "price": 750},
+                {"name": "mary pickford", "price": 550},
+                {"name": "havana especial", "price": 500},
+                {"name": "presidente", "price": 500},
+                {"name": "piña colada", "price": 900},
+                {"name": "daikiri", "price": 750},
+                {"name": "caipirissima", "price": 750},
+                {"name": "cubanito", "price": 400}
+            ]
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "establishment": ["restaurante"],
+    "name": "anillo habanero",
+    "address": {
+        "city": "la habana",
+        "town": "guanabacoa",
+        "coordinates": {
+            "latitude": 23.098281020180526,
+            "longitude": -82.26561429377226
+        }
+    },
+    "contact": {
+        "facebook": "anillo habanero",
+        "instagram": "@anillohabanerooficial",
+        "whatsapp": "52042710",
+        "web": "https://anillohabanero.com",
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1000-2300",
+        "tuesday": "1000-2300",
+        "wednesday": "1000-2300",
+        "thursday": "1000-2300",
+        "friday": "1000-2300",
+        "saturday": "1000-2300",
+        "sunday": "1000-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "picadera anillo", "price": 3000},
+                {"name": "tacos de vegetales", "price": 600},
+                {"name": "croquetas habaneras", "price": 400},
+                {"name": "nachos, salsa rosa y guacamole", "price": 400},
+                {"name": "brochetas", "price": 1300},
+                {"name": "coctel de camarones", "price": 2000},
+                {"name": "frituras", "price": 300},
+                {"name": "tostones rellenos", "price": 550},
+                {"name": "tacos de pollo", "price": 800}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "lomo ahumado", "price": 2000},
+                {"name": "chuletas de cerdo", "price": 3000},
+                {"name": "ropa vieja", "price": 3000},
+                {"name": "vaca frita", "price": 3000},
+                {"name": "camarones enchilados", "price": 3500},
+                {"name": "camarones al ajillo", "price": 3500},
+                {"name": "pizza napolitana", "price": 800},
+                {"name": "spaghetti napoles", "price": 850}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "tarta de vainilla", "price": 750},
+                {"name": "cheesecake de limón", "price": 750},
+                {"name": "coctel de frutas importadas", "price": 350}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "expresso", "price": 100},
+                {"name": "cortadito", "price": 200},
+                {"name": "capuchino", "price": 250}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua natural", "price": 200},
+                {"name": "energizantes importados", "price": 500},
+                {"name": "maltas importadas", "price": 320},
+                {"name": "pepsi refresco gaseado", "price": 400},
+                {"name": "refrescos importados", "price": 300},
+                {"name": "jugos naturales", "price": 250},
+                {"name": "kermato", "price": 700}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza nacional", "price": 350},
+                {"name": "cerveza importada", "price": 300}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "michelada", "price": 600},
+                {"name": "margarita", "price": 800},
+                {"name": "caipiroska", "price": 800},
+                {"name": "cocteles analcohólicos", "price": 500},
+                {"name": "caipirisima", "price": 800},
+                {"name": "vodka tonic", "price": 900},
+                {"name": "screwdriver", "price": 800},
+                {"name": "gin tonic", "price": 900},
+                {"name": "agua marina", "price": 800},
+                {"name": "cancha", "price": 800},
+                {"name": "tinto de verano", "price": 800},
+                {"name": "limonada frappé", "price": 250},
+                {"name": "daiquirí", "price": 800},
+                {"name": "chelada", "price": 450},
+                {"name": "piña colada", "price": 1000},
+                {"name": "sangría", "price": 1000},
+                {"name": "trago jonny walker", "price": 500},
+                {"name": "william lawsons", "price": 350},
+                {"name": "lyubov vodka", "price": 200}
+            ]
+        }
+    }
+}

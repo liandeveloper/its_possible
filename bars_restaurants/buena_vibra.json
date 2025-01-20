@@ -1,0 +1,85 @@
+{
+    "establishment": ["restaurant"],
+    "name": "buena vibra",
+    "address": {
+        "city": "la habana",
+        "town": "san miguel del padrón",
+        "coordinates": {
+            "latitude": 23.09939463317276,
+            "longitude": -82.3324060073085
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1200-2200",
+        "tuesday": "1200-2200",
+        "wednesday": "1200-2200",
+        "thursday": "1200-2200",
+        "friday": "1200-2200",
+        "saturday": "1200-2200",
+        "sunday": "1200-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["cubana", "criolla"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "croquetas", "price": 400},
+                {"name": "fritura de malanga", "price": 400},
+                {"name": "vianda frita", "price": 300},
+                {"name": "tostones tradicionales", "price": 300},
+                {"name": "tostones rellenos", "price": 500}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "hamburguesa de pollo", "price": 300},
+                {"name": "bistec de pollo", "price": 850},
+                {"name": "bistec de pollo empanado", "price": 900},
+                {"name": "higado de cerdo", "price": 800},
+                {"name": "lomo ahumado", "price": 900},
+                {"name": "bistec de cerdo", "price": 900},
+                {"name": "pechuga de pollo", "price": 900},
+                {"name": "espaguetti con queso", "price": 400},
+                {"name": "espaguetti de jamon", "price": 550}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "tequila reposado", "price": 300},
+                {"name": "licor crema", "price": 200},
+                {"name": "piña colada", "price": 300}
+            ]
+        }
+    }
+}

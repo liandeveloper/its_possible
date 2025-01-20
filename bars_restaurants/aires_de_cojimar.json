@@ -1,0 +1,111 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "aires de cojimar",
+    "address": {
+        "city": "la habana",
+        "town": "habana del este",
+        "coordinates": {
+            "latitude": 23.16213337258811,
+            "longitude": -82.29442813615995
+        }
+    },
+    "contact": {
+        "facebook": "aires de cojimar",
+        "instagram": "@aires_decojimar",
+        "whatsapp": "58385050",
+        "web": null,
+        "telephone": "77666890"
+    },
+    "schedule": {
+        "monday": "1200-2400",
+        "tuesday": "1200-2400",
+        "wednesday": "1200-2400",
+        "thursday": "1200-2400",
+        "friday": "1200-2400",
+        "saturday": "1200-2400",
+        "sunday": "1200-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["caribeña", "latina", "española", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "coctel de pescado", "price": 550},
+                {"name": "ensalada mixta", "price": 400},
+                {"name": "picadera mixta", "price": 1200},
+                {"name": "coctel bella mar", "price": 750},
+                {"name": "ceviche aires de cojimar", "price": 850},
+                {"name": "lomo de pescado en escabeche", "price": 950},
+                {"name": "bolitas de queso", "price": 550},
+                {"name": "eperlan", "price": 950},
+                {"name": "frituras de malanga", "price": 550},
+                {"name": "tapas caprichosas", "price": 425},
+                {"name": "surtido de croquetas", "price": 450},
+                {"name": "tostones al ajo", "price": 350},
+                {"name": "sopon de mariscos", "price": 750},
+                {"name": "sopa de pollo y vegetales", "price": 550},
+                {"name": "crema de calabaza y queso", "price": 500},
+                {"name": "crema de queso", "price": 500},
+                {"name": "crema de mariscos", "price": 600}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "costillas de cerdo fritas", "price": 1950},
+                {"name": "arroz con camarones", "price": 1450},
+                {"name": "milanesa a la napolitana", "price": 1450},
+                {"name": "uruguayo de cerdo", "price": 1750},
+                {"name": "camaron al ajillo", "price": 1550},
+                {"name": "langosta varadero", "price": 1950},
+                {"name": "langosta busito", "price": 2000},
+                {"name": "langosta aires de cojimar", "price": 5500},
+                {"name": "pulpo al vino tinto", "price": 2850},
+                {"name": "pulpo al ajillo", "price": 2850},
+                {"name": "filete de pescado grille", "price": 1250},
+                {"name": "filete de pescado en salsa de romero y limon", "price": 1350},
+                {"name": "filete de pescado con camarones al graten", "price": 1650},
+                {"name": "filete de pescado canciller", "price": 1650},
+                {"name": "camarones tropicales", "price": 1550},
+                {"name": "enchilado de camarones", "price": 1450},
+                {"name": "camarones al sesamo", "price": 1450},
+                {"name": "caldereta dona blanca", "price": 3500},
+                {"name": "dados de cerdo a la cojimera", "price": 1400},
+                {"name": "bistec de cerdo al mojo criollo", "price": 1400},
+                {"name": "pollo con camarones al graten", "price": 1450},
+                {"name": "pollo hawaiano", "price": 1150},
+                {"name": "sabor del cielo", "price": 1550}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "ensalada mixta", "price": 400}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "dulces finos", "price": 450}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

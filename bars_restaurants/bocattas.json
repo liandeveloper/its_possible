@@ -1,0 +1,148 @@
+{
+    "establishment": ["restaurante"],
+    "name": "bocattas",
+    "address": {
+        "city": "la habana",
+        "town": "playa",
+        "coordinates": {
+            "latitude": 23.12046138313826,
+            "longitude": -82.41683832082161
+        }
+    },
+    "contact": {
+        "facebook": "cafe bocattas",
+        "instagram": "@cafe_bocattas",
+        "whatsapp": "53190043",
+        "web": "https://linktr.ee/cafe_bocattas",
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0000-2400",
+        "tuesday": "0000-2400",
+        "wednesday": "0000-2400",
+        "thursday": "0000-2400",
+        "friday": "0000-2400",
+        "saturday": "0000-2400",
+        "sunday": "0000-2400"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["cubana", "internacional"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "bistec con baguette", "price": 1700},
+                {"name": "bistec con pan suave", "price": 1500},
+                {"name": "hamburguesa de res", "price": 1000},
+                {"name": "hamburguesa de cerdo", "price": 780},
+                {"name": "pan con lechón", "price": 840},
+                {"name": "pan redondo suave", "price": 160},
+                {"name": "pan baguette", "price": 240},
+                {"name": "pan suave", "price": 160},
+                {"name": "tostadas", "price": 240},
+                {"name": "smashburger bocattas de res", "price": 1500},
+                {"name": "smashburger bocattas de cerdo", "price": 1500},
+                {"name": "pasta napolitana", "price": 900},
+                {"name": "pasta boloñesa", "price": 2000},
+                {"name": "pasta con bacon", "price": 1500},
+                {"name": "pasta con jamon pierna especial", "price": 1800},
+                {"name": "pasta con jamon barra", "price": 1100}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "bistec con baguette", "price": 1700},
+                {"name": "bistec con pan suave", "price": 1500},
+                {"name": "hamburguesa de res", "price": 1000},
+                {"name": "hamburguesa de cerdo", "price": 780},
+                {"name": "pan con lechón", "price": 840},
+                {"name": "pan redondo suave", "price": 160},
+                {"name": "pan baguette", "price": 240},
+                {"name": "pan suave", "price": 160},
+                {"name": "tostadas", "price": 240},
+                {"name": "smashburger bocattas de res", "price": 1500},
+                {"name": "smashburger bocattas de cerdo", "price": 1500},
+                {"name": "pasta napolitana", "price": 900},
+                {"name": "pasta boloñesa", "price": 2000},
+                {"name": "pasta con bacon", "price": 1500},
+                {"name": "pasta con jamon pierna especial", "price": 1800},
+                {"name": "pasta con jamon barra", "price": 1100}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "queso gouda 100g", "price": 430},
+                {"name": "jamón barra", "price": 300},
+                {"name": "jamón serrano", "price": 570},
+                {"name": "jamón pierna especial", "price": 650},
+                {"name": "queso gouda", "price": 380},
+                {"name": "queso azul", "price": 500},
+                {"name": "chorizo español", "price": 400},
+                {"name": "bacon", "price": 500},
+                {"name": "huevo", "price": 150},
+                {"name": "mantequilla", "price": 75},
+                {"name": "agrego de cerdo", "price": 400},
+                {"name": "atún", "price": 500},
+                {"name": "vianda frita", "price": 170},
+                {"name": "mayonesa", "price": 50},
+                {"name": "tomate", "price": 100},
+                {"name": "cebolla", "price": 70},
+                {"name": "pepinillo", "price": 35},
+                {"name": "pico de gallo", "price": 70},
+                {"name": "lechuga", "price": 35},
+                {"name": "piña", "price": 35}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "dulces finos", "price": 1000},
+                {"name": "bola de helado", "price": 150},
+                {"name": "copa golosa", "price": 800}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "expresso", "price": 130},
+                {"name": "capuchino", "price": 225},
+                {"name": "cortado", "price": 150},
+                {"name": "americano", "price": 210},
+                {"name": "frappuccino", "price": 600},
+                {"name": "cafe con leche", "price": 275}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "refresco importado y nacional", "price": 260},
+                {"name": "malta", "price": 300},
+                {"name": "energizantes", "price": 400},
+                {"name": "agua natural 500 ml", "price": 200},
+                {"name": "limonada frappe", "price": 600},
+                {"name": "jugos naturales", "price": 250},
+                {"name": "batido de fruta", "price": 350},
+                {"name": "suero bocatta", "price": 800},
+                {"name": "suero de helado", "price": 650}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza importada", "price": 280},
+                {"name": "cerveza nacional", "price": 400},
+                {"name": "michelada con cerv import", "price": 660},
+                {"name": "michelada con cerv nacional", "price": 750},
+                {"name": "chelada", "price": 180},
+                {"name": "preparado de michelada", "price": 340}
+            ]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

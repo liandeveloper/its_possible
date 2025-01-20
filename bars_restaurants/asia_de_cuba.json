@@ -1,0 +1,117 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "asia de cuba",
+    "address": {
+        "city": "la habana",
+        "town": "plaza de la revolución",
+        "coordinates": {
+            "latitude": 23.128994860348442,
+            "longitude": -82.39670541533232
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": "@asia_cuba",
+        "whatsapp": "50956929",
+        "web": "http://asiadecubarestaurant.com/menu",
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0730-2300",
+        "tuesday": "0730-2300",
+        "wednesday": "0730-2300",
+        "thursday": "0730-2300",
+        "friday": "0730-2300",
+        "saturday": "0730-2300",
+        "sunday": "0730-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["asiática", "japonesa", "china", "caribeña", "fusion"],
+    "menu": {
+        "starter": {
+            "items": [null]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "bonito tai red", "price": 3840},
+                {"name": "maki saiko ebi hana", "price": 2080},
+                {"name": "brasa patagonia", "price": 6560},
+                {"name": "langosta coco verde", "price": 5760},
+                {"name": "uramaki umi no haikiri", "price": 1950},
+                {"name": "nigiri ika no yume", "price": 2400},
+                {"name": "brocheta dak galbi", "price": 3840},
+                {"name": "brocheta gochu vermounth harmony", "price": 4480},
+                {"name": "char siu delhi", "price": 4160},
+                {"name": "ssamn kimuchi tropical", "price": 3200}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "sensei borracho", "price": 1920},
+                {"name": "maestro shifu", "price": 2080},
+                {"name": "mei mei", "price": 1800},
+                {"name": "maestro shinobi", "price": 1760}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "daiquirí", "price": 900},
+                {"name": "daiquirí de fruta", "price": 1100},
+                {"name": "gin tonic simple", "price": 1400},
+                {"name": "margarita", "price": 900},
+                {"name": "martini dry", "price": 1100},
+                {"name": "michelada", "price": 1100},
+                {"name": "mojito", "price": 900},
+                {"name": "negroni", "price": 1200},
+                {"name": "aperol spritz", "price": 1400},
+                {"name": "bloody mary", "price": 1100},
+                {"name": "caipirísima", "price": 900},
+                {"name": "caipiroska", "price": 900},
+                {"name": "canchánchara", "price": 900},
+                {"name": "coctel danzon", "price": 1200},
+                {"name": "coctel mambo", "price": 1200},
+                {"name": "coctel son", "price": 1500},
+                {"name": "coctel tecno sour", "price": 1100},
+                {"name": "coctel tango", "price": 1200},
+                {"name": "cuba libre", "price": 900},
+                {"name": "cubanito", "price": 1200},
+                {"name": "sambuca san faustino", "price": 600},
+                {"name": "old fashioned", "price": 1500},
+                {"name": "piña colada", "price": 1200},
+                {"name": "pisco sour", "price": 1400},
+                {"name": "sangría", "price": 1500},
+                {"name": "penicillin", "price": 1400},
+                {"name": "lemon song", "price": 1100},
+                {"name": "okinawa spritz", "price": 1400},
+                {"name": "crema bailys", "price": 950},
+                {"name": "frangelico", "price": 1000},
+                {"name": "limoncello", "price": 600},
+                {"name": "sirope de kiwi", "price": 600},
+                {"name": "sirope de manzana", "price": 125},
+                {"name": "campari", "price": 850},
+                {"name": "licor de café", "price": 740}
+            ]
+        }
+    }
+}

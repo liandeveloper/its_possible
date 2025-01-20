@@ -1,0 +1,113 @@
+{
+    "establishment": ["restaurante"],
+    "name": "28 y mar",
+    "address": {
+        "city": "la habana",
+        "town": "playa",
+        "coordinates": {
+            "latitude": 23.12361712886297,
+            "longitude": -82.4271050650417
+        }
+    },
+    "contact": {
+        "facebook": "28 y mar restaurante",
+        "instagram": "@28_y_mar_restaurante",
+        "whatsapp": null,
+        "web": null,
+        "telephone": "72125013"
+    },
+    "schedule": {
+        "monday": "0830-2400",
+        "tuesday": "0830-2400",
+        "wednesday": "0830-2400",
+        "thursday": "0830-2400",
+        "friday": "0830-2400",
+        "saturday": "0830-2400",
+        "sunday": "0830-2400"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["internacional", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [null]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pechuga de pollo", "price": 3500},
+                {"name": "solomillo de res", "price": 6500},
+                {"name": "solomillo de cerdo", "price": 4500},
+                {"name": "pollo y cerdo", "price": 4000},
+                {"name": "pollo y res", "price": 5000},
+                {"name": "res y cerdo", "price": 5500},
+                {"name": "trio de fantasia", "price": 7250},
+                {"name": "ensalada primavera", "price": 1350},
+                {"name": "ensalada caprichosa", "price": 1750},
+                {"name": "ensalada verano", "price": 1650},
+                {"name": "ensalada marinera", "price": 1600},
+                {"name": "spaghetti", "price": 1150},
+                {"name": "lasagna de jamon", "price": 1750},
+                {"name": "lasagna de bolonesa", "price": 2150}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "jamon serrano", "price": 850},
+                {"name": "jamon barra", "price": 400},
+                {"name": "jamon pierna", "price": 450},
+                {"name": "chorizo", "price": 450},
+                {"name": "bacon", "price": 450},
+                {"name": "salsa bolonesa", "price": 550},
+                {"name": "pechuga de pollo", "price": 650},
+                {"name": "atun", "price": 450},
+                {"name": "champinon", "price": 350},
+                {"name": "aceitunas", "price": 350},
+                {"name": "vegetal de estacion", "price": 350},
+                {"name": "vianda frita", "price": 350},
+                {"name": "papas fritas", "price": 550},
+                {"name": "pina glaseada", "price": 350},
+                {"name": "queso gouda", "price": 450},
+                {"name": "queso mozzarella", "price": 450},
+                {"name": "queso parmesano", "price": 550},
+                {"name": "queso azul", "price": 550},
+                {"name": "nutella", "price": 450}
+            ]
+        },
+        "desserts": [null],
+        "coffee": {
+            "items": [
+                {"name": "cafe expresso", "price": 350},
+                {"name": "cafe americano", "price": 350},
+                {"name": "cafe nespresso", "price": 700},
+                {"name": "cafe bombon", "price": 550},
+                {"name": "cafe capuchino", "price": 700},
+                {"name": "cafe capuchino nespresso", "price": 950},
+                {"name": "cafe cortado", "price": 400},
+                {"name": "cafe con leche", "price": 600},
+                {"name": "cafe irlandes", "price": 700},
+                {"name": "frapuccino", "price": 750},
+                {"name": "chocolate a la espanola", "price": 600},
+                {"name": "te caliente o frio", "price": 350}
+            ]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza", "price": 650}
+            ]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

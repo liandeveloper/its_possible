@@ -1,0 +1,81 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": " ",
+    "address": {
+        "city": "la habana",
+        "town": " ",
+        "coordinates": {
+            "latitude": "",
+            "longitude": ""
+        }
+    },
+    "contact": {
+        "facebook": "",
+        "instagram": "",
+        "whatsapp": "",
+        "web": "",
+        "telephone": ""
+    },
+    "schedule": {
+        "monday": "0700-1900",
+        "tuesday": "0700-1900",
+        "wednesday": "0700-1900",
+        "thursday": "0700-1900",
+        "friday": "0700-1900",
+        "saturday": "0700-1900",
+        "sunday": "0700-1900"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": true
+    },
+    "specialties": [" "],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "", "price": 0}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "", "price": 0}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "", "price": 0}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "", "price": 0}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "", "price": 0}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "", "price": 0}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "", "price": 0}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "", "price": 0}
+            ]
+        }
+    }
+}

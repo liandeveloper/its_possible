@@ -1,0 +1,94 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "2kfÉ",
+    "address": {
+        "city": "la habana",
+        "town": "regla",
+        "coordinates": {
+            "latitude": 23.12805874474967,
+            "longitude": -82.33435589367647
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": "@2kfe_bar",
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1000-2000",
+        "tuesday": "1000-2000",
+        "wednesday": "1000-2000",
+        "thursday": "1000-2000",
+        "friday": "1000-2000",
+        "saturday": "1000-2000",
+        "sunday": "1000-2000"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["cubana", "mexicana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "croquetas", "price": 300},
+                {"name": "viandas fritas", "price": 100},
+                {"name": "brusquetas", "price": 250},
+                {"name": "entremes surtido", "price": 800},
+                {"name": "mini gordon bleu", "price": 800},
+                {"name": "plato combinado", "price": 1200}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "tacos carnitas", "price": 850},
+                {"name": "tacos res", "price": 900},
+                {"name": "tacos pollo", "price": 600},
+                {"name": "tacos vegetariano", "price": 400},
+                {"name": "tacos vegetales salteados en mantequilla y limon", "price": 500},
+                {"name": "tacos jamon y queso", "price": 650}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [
+                {"name": "expresso", "price": 100},
+                {"name": "americano", "price": 100},
+                {"name": "cortadito", "price": 150},
+                {"name": "con leche", "price": 200},
+                {"name": "expresso macchiato", "price": 180},
+                {"name": "caramel macchiato", "price": 250},
+                {"name": "cappuccino", "price": 220},
+                {"name": "frappuccino", "price": 500},
+                {"name": "irlandes", "price": 250},
+                {"name": "caribeno", "price": 180},
+                {"name": "alma mia", "price": 180},
+                {"name": "minty coffee", "price": 250},
+                {"name": "2kf", "price": 250},
+                {"name": "lujo", "price": 600}
+            ]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

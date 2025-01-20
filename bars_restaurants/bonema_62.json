@@ -1,0 +1,146 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "bone'ma 62",
+    "address": {
+        "city": "la habana",
+        "town": "centro habana",
+        "coordinates": {
+            "latitude": 23.137430101331596,
+            "longitude": -82.35973216484062
+        }
+    },
+    "contact": {
+        "facebook": "bone ma 62",
+        "instagram": "@bonema_62",
+        "whatsapp": "53470440",
+        "web": null,
+        "telephone": "78602134"
+    },
+    "schedule": {
+        "monday": "0900-2400",
+        "tuesday": "0900-2400",
+        "wednesday": "0900-2400",
+        "thursday": "0900-2400",
+        "friday": "0900-2400",
+        "saturday": "0900-2400",
+        "sunday": "0900-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["turca", "internacional", "italiana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "papas fritas", "price": 1050},
+                {"name": "falafel", "price": 1050},
+                {"name": "sopa de lentejas", "price": 1350},
+                {"name": "ensalada mixta", "price": 950},
+                {"name": "coban salata", "price": 1200},
+                {"name": "caprese", "price": 1450},
+                {"name": "ensalada nizarda", "price": 1800}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "sándwich de vegetales", "price": 1400},
+                {"name": "sándwich de jamón y queso", "price": 1650},
+                {"name": "sándwich de res", "price": 1800},
+                {"name": "sándwich de atún", "price": 1700},
+                {"name": "sándwich de jamón serrano", "price": 2250},
+                {"name": "hamburguesa natural smash", "price": 2150},
+                {"name": "hamburguesa de falafel", "price": 1900},
+                {"name": "hamburguesa smash con aguacate", "price": 2250},
+                {"name": "hamburguesa smash con bacon y huevo frito", "price": 2500},
+                {"name": "döner kebab (pan)", "price": 1700},
+                {"name": "dürüm kebab (tortilla)", "price": 1750},
+                {"name": "döner falafel", "price": 1300},
+                {"name": "dürüm köfte", "price": 1750},
+                {"name": "plato de döner kebab", "price": 2300},
+                {"name": "iskender kebab", "price": 2400},
+                {"name": "plato de köfte de res", "price": 2500},
+                {"name": "pizza margarita", "price": 2000},
+                {"name": "pizza friarielli y salchicha italiana", "price": 3000},
+                {"name": "pizza funghi", "price": 2200},
+                {"name": "pizza vegetariana", "price": 2300},
+                {"name": "pizza 4 quesos", "price": 2600},
+                {"name": "pizza hawaiana", "price": 2600},
+                {"name": "pizza pepperoni / diabola", "price": 2700},
+                {"name": "pizza de salami", "price": 2800},
+                {"name": "pizza de jamón serrano, rúcula y parmesano", "price": 3200},
+                {"name": "pizza de atún y cebolla", "price": 2600},
+                {"name": "pasta napolitana", "price": 1900},
+                {"name": "pasta arrabiata", "price": 2000},
+                {"name": "pasta pesto", "price": 2200},
+                {"name": "pasta bolognesa", "price": 2800},
+                {"name": "pasta carbonara", "price": 2650}
+            ]
+        },
+        "sides": null,
+        "desserts": {
+            "items": [
+                {"name": "flan", "price": 700},
+                {"name": "copa de helado", "price": 900},
+                {"name": "copa lolita", "price": 1050},
+                {"name": "cheesecake", "price": 1150}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "té", "price": 400},
+                {"name": "café expreso", "price": 380},
+                {"name": "espresso macchiato (cortado)", "price": 400},
+                {"name": "americano", "price": 420},
+                {"name": "cappuccino", "price": 650},
+                {"name": "café con leche", "price": 700},
+                {"name": "leche con chocolate", "price": 700}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua natural", "price": 450},
+                {"name": "agua gaseada", "price": 950},
+                {"name": "agua tónica mg", "price": 700},
+                {"name": "coca cola", "price": 800},
+                {"name": "coca cola zero", "price": 800},
+                {"name": "sprite", "price": 800},
+                {"name": "energy drink", "price": 850},
+                {"name": "jugo de fruta nat.", "price": 600},
+                {"name": "limonada natural", "price": 500},
+                {"name": "limonada frappe", "price": 550},
+                {"name": "ayran", "price": 500}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "ginger ale", "price": 700},
+                {"name": "cerveza cristal", "price": 600},
+                {"name": "cerveza heineken", "price": 750},
+                {"name": "cerveza corona", "price": 800}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "chelada (servicio)", "price": 250},
+                {"name": "michelada (servicio)", "price": 300},
+                {"name": "cuba libre", "price": 1500},
+                {"name": "mojito", "price": 1600},
+                {"name": "gin basil smash", "price": 1700},
+                {"name": "caipirinha", "price": 1400},
+                {"name": "strawberry caipi", "price": 1550},
+                {"name": "daiquiri", "price": 1500},
+                {"name": "strawberry daiquiri", "price": 1600},
+                {"name": "piña colada", "price": 1700},
+                {"name": "strawberry colada", "price": 1800},
+                {"name": "margarita", "price": 1600}
+            ]
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "beirut",
+    "address": {
+        "city": "la habana",
+        "town": "plaza de la revolución",
+        "coordinates": {
+            "latitude": 23.14155904081577,
+            "longitude": -82.40118050679031
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": "@beiruthabana",
+        "whatsapp": "55924333",
+        "web": null,
+        "telephone": "78315883"
+    },
+    "schedule": {
+        "monday": "1100-2300",
+        "tuesday": "1100-2300",
+        "wednesday": "1100-2300",
+        "thursday": "1100-2300",
+        "friday": "1100-2300",
+        "saturday": "1100-2300",
+        "sunday": "1100-2300"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["arabe", "libanesa"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "shawarma de pollo", "price": 1520},
+                {"name": "shawarma árabe", "price": 1520},
+                {"name": "sandwich falafel", "price": 1420},
+                {"name": "sandwich shish taouk", "price": 1720},
+                {"name": "sandwich kabab", "price": 1720}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "shish taouk", "price": 2950},
+                {"name": "kabab", "price": 2900},
+                {"name": "shish taouk-kabab", "price": 2800},
+                {"name": "shish kabab", "price": 2000},
+                {"name": "tajin", "price": 3500},
+                {"name": "mixto beirut", "price": 3700},
+                {"name": "fetuche", "price": 1500},
+                {"name": "ensalada mixta", "price": 2000},
+                {"name": "betabel", "price": 2000},
+                {"name": "ensalada beirut", "price": 2100},
+                {"name": "tabule", "price": 3000}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [
+                {"name": "expresso", "price": 125},
+                {"name": "capuccino", "price": 300},
+                {"name": "americano", "price": 160},
+                {"name": "cortado", "price": 200},
+                {"name": "te", "price": 150}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua natural", "price": 175},
+                {"name": "refrescos importados", "price": 290},
+                {"name": "maltas", "price": 290},
+                {"name": "limonada", "price": 410},
+                {"name": "jugos naturales", "price": 410},
+                {"name": "cervezas", "price": 390}
+            ]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}
