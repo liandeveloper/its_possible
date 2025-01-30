@@ -1,0 +1,85 @@
+{
+    "establishment": ["restaurante"],
+    "name": "crispy chicken",
+    "address": {
+        "city": "la habana",
+        "town": "diez de octubre",
+        "coordinates": {
+            "latitude": 23.089713179451753,
+            "longitude": -82.37605099342609
+        }
+    },
+    "contact": {
+        "facebook": "crispy chicken",
+        "instagram": "@crispy.chicken.monaco",
+        "whatsapp": "63182745",
+        "web": "elyerromenu.com/b/crispy-chicken",
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1100-2400",
+        "tuesday": "1100-2400",
+        "wednesday": "1100-2400",
+        "thursday": "1100-2400",
+        "friday": "1100-2400",
+        "saturday": "1100-2400",
+        "sunday": "1100-2400"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["americana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "mini hot dog", "price": 300},
+                {"name": "chips de boniato", "price": 500},
+                {"name": "tostones rellenos", "price": 800},
+                {"name": "flamenquin", "price": 1000},
+                {"name": "san jacobo", "price": 1000},
+                {"name": "entremés de jamón y queso", "price": 1200},
+                {"name": "picadera de la casa", "price": 2500}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "sandwich de pollo", "price": 900},
+                {"name": "nuggets de pollo", "price": 1000},
+                {"name": "pollo frito", "price": 1300},
+                {"name": "pollo chiflado", "price": 1600},
+                {"name": "pollo chiflado (sin hueso)", "price": 1800},
+                {"name": "pollo relleno (jamón y queso)", "price": 2000}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "jugo natural", "price": 400},
+                {"name": "vaca negra", "price": 800},
+                {"name": "malteada", "price": 900},
+                {"name": "batido de helado", "price": 1000}
+            ]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

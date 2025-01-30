@@ -1,0 +1,143 @@
+{
+    "establishment": ["restaurante"],
+    "name": "el vampirito",
+    "address": {
+        "city": "la habana",
+        "town": "plaza de la revolución",
+        "coordinates": {
+            "latitude": 23.131548646310556,
+            "longitude": -82.39857068812692
+        }
+    },
+    "contact": {
+        "facebook": "vampiritocafeteria",
+        "instagram": "@vampiritocafeteria",
+        "whatsapp": null,
+        "web": "http://www.elvampirito.com",
+        "telephone": "78300774"
+    },
+    "schedule": {
+        "monday": "1100-2330",
+        "tuesday": "0900-2330",
+        "wednesday": "0900-2330",
+        "thursday": "0900-2330",
+        "friday": "0900-2330",
+        "saturday": "0900-2330",
+        "sunday": "0900-2330"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["italiana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "bruschettas naturales", "price": 780},
+                {"name": "bruschettas con atun, carne o ropa vieja", "price": 930},
+                {"name": "entremes de queso, jamon y bruschettas", "price": 1180},
+                {"name": "picadera especial de la casa", "price": 2620},
+                {"name": "crema de queso", "price": 570},
+                {"name": "crema aurora", "price": 600},
+                {"name": "crema virginia", "price": 690}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "hamburguesa sencilla", "price": 1090},
+                {"name": "hamburguesa doble", "price": 2000},
+                {"name": "sandwich de queso gouda", "price": 960},
+                {"name": "sandwich de ropa vieja", "price": 960},
+                {"name": "sandwich de bacon, huevo y queso", "price": 1390},
+                {"name": "sandwich de lechón asado", "price": 1050},
+                {"name": "sandwich de atun", "price": 1390},
+                {"name": "sandwich de pechuga de pollo con queso crema y jalea de fresa", "price": 1260},
+                {"name": "ensalada de vegetales salteados", "price": 520},
+                {"name": "garbanzos fritos", "price": 1290},
+                {"name": "pollo (a gusto)", "price": 1390},
+                {"name": "cerdo (a gusto)", "price": 1610},
+                {"name": "res (a gusto)", "price": 2570},
+                {"name": "solomillo de cerdo", "price": 2340},
+                {"name": "carne asada en cazuela", "price": 2340},
+                {"name": "lasaña de jamon", "price": 1530},
+                {"name": "lasaña de carne", "price": 1530},
+                {"name": "lasaña hawaiana", "price": 1570},
+                {"name": "spaghettis", "price": 1090},
+                {"name": "media racion de spaghettis con media racion de lasaña", "price": 1310},
+                {"name": "pizza de queso", "price": 1220},
+                {"name": "pizza pequeña", "price": 590}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "tomates", "price": 200},
+                {"name": "cebolla (50g)", "price": 200},
+                {"name": "pimiento (50g)", "price": 200},
+                {"name": "jamon (50g)", "price": 320},
+                {"name": "bacon (50g)", "price": 420},
+                {"name": "atun (80g)", "price": 535},
+                {"name": "chorizo (50g)", "price": 490},
+                {"name": "queso (50g)", "price": 370},
+                {"name": "piña glaseada (50g)", "price": 200},
+                {"name": "boloñesa (100g)", "price": 535},
+                {"name": "aceituna (40g)", "price": 280}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "helado montado", "price": 300},
+                {"name": "canoa de helado", "price": 1500},
+                {"name": "postre del dia", "price": 780},
+                {"name": "tarta", "price": 975},
+                {"name": "torrejas", "price": 700},
+                {"name": "media racion de torrejas", "price": 360},
+                {"name": "torrejas con helado", "price": 550}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "expreso", "price": 180},
+                {"name": "cortado", "price": 200},
+                {"name": "capuchino", "price": 280},
+                {"name": "con leche", "price": 280},
+                {"name": "con ron", "price": 280},
+                {"name": "con licor", "price": 280}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua natural/gaseada", "price": 200},
+                {"name": "refresco", "price": 400},
+                {"name": "malta", "price": 460},
+                {"name": "malteada", "price": 700},
+                {"name": "jugo natural", "price": 250},
+                {"name": "limonada frappé", "price": 620},
+                {"name": "limonada con hierba buena", "price": 700},
+                {"name": "suero de helado", "price": 1200}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza importada", "price": 400},
+                {"name": "cerveza nacional", "price": 500}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "michelada c/n cerveza importada", "price": 500},
+                {"name": "michelada c/n cerveza nacional", "price": 600},
+                {"name": "caipiriña", "price": 750},
+                {"name": "daiquiri", "price": 750},
+                {"name": "sangria", "price": 750},
+                {"name": "copa de vino", "price": 550},
+                {"name": "mojito frappé", "price": 750}
+            ]
+        }
+    }
+}

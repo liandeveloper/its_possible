@@ -1,0 +1,82 @@
+{
+    "establishment": ["restaurante"],
+    "name": "cafeteria obelisco",
+    "address": {
+        "city": "la habana",
+        "town": "marianao",
+        "coordinates": {
+            "latitude": 23.084914482920695,
+            "longitude": -82.42430664968636
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0900-1800",
+        "tuesday": "0900-1800",
+        "wednesday": "0900-1800",
+        "thursday": "0900-1800",
+        "friday": "0900-1800",
+        "saturday": "0900-1800",
+        "sunday": "0900-1800"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": false,
+        "credit_card": false
+    },
+    "specialties": ["criolla"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "bolitas de carne", "price": 20},
+                {"name": "dados de queso", "price": 180}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pizza de queso", "price": 200}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "frijol negro", "price": 55},
+                {"name": "arroz blanco", "price": 70}
+            ]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua saborizada", "price": 50},
+                {"name": "agua natural", "price": 180}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza cristal", "price": 180},
+                {"name": "cerveza", "price": 50}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "vino blanco entre rio", "price": 160},
+                {"name": "vino blanco", "price": 160}
+            ]
+        }
+    }
+}

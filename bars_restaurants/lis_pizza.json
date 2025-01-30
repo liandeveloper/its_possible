@@ -1,0 +1,120 @@
+{
+    "establishment": ["restaurante"],
+    "name": "doña lis pizza",
+    "address": {
+        "city": "la habana",
+        "town": "plaza de la revolución",
+        "coordinates": {
+            "latitude": 23.138392393516753,
+            "longitude": -82.37023852767982
+        }
+    },
+    "contact": {
+        "facebook": "doña lis",
+        "instagram": "@donalis_pizza",
+        "whatsapp": "5510909",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1030-2400",
+        "tuesday": "1030-2400",
+        "wednesday": "1030-2400",
+        "thursday": "1030-2400",
+        "friday": "1030-2400",
+        "saturday": "1030-2400",
+        "sunday": "1030-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["italiana", "caribeña", "latina"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "croquetas", "price": 400},
+                {"name": "bolitas de queso/jamon", "price": 500},
+                {"name": "bolitas de pescado", "price": 450},
+                {"name": "frituras malanga", "price": 350},
+                {"name": "papas fritas", "price": 500},
+                {"name": "fajitas de pollo", "price": 600},
+                {"name": "tostones rellenos", "price": 500},
+                {"name": "nachos", "price": 300},
+                {"name": "racion yuca/mojo", "price": 250}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "don hamburgueso/vianda frita", "price": 550},
+                {"name": "hamburguesa doña lis/vianda frita", "price": 1000},
+                {"name": "cheeseburger/vianda frita", "price": 650},
+                {"name": "sándwich atún/vianda frita", "price": 650},
+                {"name": "sándwich jamón y queso/vianda frita", "price": 550},
+                {"name": "sándwich pollo y vegetales/vianda frita", "price": 650},
+                {"name": "tacos al pastor", "price": 700},
+                {"name": "tacos cerdo", "price": 800},
+                {"name": "tacos pollo/vegetales", "price": 700},
+                {"name": "tacos de pescado", "price": 750},
+                {"name": "pechuga grillé", "price": 800},
+                {"name": "pechuga empanada", "price": 850},
+                {"name": "fajitas salteadas", "price": 700},
+                {"name": "bistec de cerdo", "price": 900},
+                {"name": "bistec de cerdo gratinado", "price": 1000},
+                {"name": "filete de pescado grillé", "price": 900},
+                {"name": "pizza napolitana", "price": 650},
+                {"name": "pizza margarita", "price": 700},
+                {"name": "pizza hawaiana", "price": 900},
+                {"name": "pizza doña lis", "price": 1400},
+                {"name": "pasta napolitana", "price": 500},
+                {"name": "pasta vegetariana", "price": 650},
+                {"name": "lasaña", "price": 800}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "pote de helado", "price": 750},
+                {"name": "paleta de helado", "price": 200}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua", "price": 180},
+                {"name": "malteada", "price": 500},
+                {"name": "malta", "price": 300},
+                {"name": "energizante", "price": 250},
+                {"name": "refresco", "price": 280},
+                {"name": "jugo natural", "price": 150},
+                {"name": "limonada frappé", "price": 300},
+                {"name": "batido de fruta", "price": 350},
+                {"name": "batido de trigo", "price": 500},
+                {"name": "batido de helado", "price": 500}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza nacional", "price": 300},
+                {"name": "cerveza de botella", "price": 300},
+                {"name": "cerveza importada", "price": 280}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "servicio michelada", "price": 300},
+                {"name": "servicio chelada", "price": 200}
+            ]
+        }
+    }
+}

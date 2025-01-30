@@ -1,0 +1,88 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "café bulevar",
+    "address": {
+        "city": "la habana",
+        "town": "centro habana",
+        "coordinates": {
+            "latitude": 23.136606572526283,
+            "longitude": -82.36299826271366
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1100-2300",
+        "tuesday": "1100-2300",
+        "wednesday": "1100-2300",
+        "thursday": "1100-2300",
+        "friday": "1100-2300",
+        "saturday": "1100-2300",
+        "sunday": "1100-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "ensalada de estacion", "price": 200},
+                {"name": "papas fritas", "price": 150}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "caldosa boulevard", "price": 200},
+                {"name": "arroz con subproductos", "price": 300},
+                {"name": "fajitas de cerdo", "price": 1350},
+                {"name": "fajitas de pollo", "price": 1300},
+                {"name": "filete de merluza", "price": 550}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "jugo de fruta", "price": 100}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza importada", "price": 180}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "vino tinto cabernet", "price": 1340},
+                {"name": "licor paso pondal (30ml)", "price": 75},
+                {"name": "licor fenet blanca (30ml)", "price": 75},
+                {"name": "grappa carolina bianca (30ml)", "price": 75},
+                {"name": "ron legendario añejo (45ml)", "price": 90},
+                {"name": "ron legendario dorado (45ml)", "price": 100},
+                {"name": "trago legendario ronse (45ml)", "price": 75},
+                {"name": "licor de cafe (30ml)", "price": 75},
+                {"name": "copa de vino blanco (125ml)", "price": 145}
+            ]
+        }
+    }
+}

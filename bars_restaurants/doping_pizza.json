@@ -1,0 +1,99 @@
+{
+    "establishment": ["restaurante"],
+    "name": "doping pizza",
+    "address": {
+        "city": "la habana",
+        "town": "centro habana",
+        "coordinates": {
+            "latitude": 23.13389533564469,
+            "longitude": -82.37685653415737
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": "@dopingpizzas",
+        "whatsapp": "51260311",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1200-2400",
+        "tuesday": "1200-2400",
+        "wednesday": "1200-2400",
+        "thursday": "1200-2400",
+        "friday": "1200-2400",
+        "saturday": "1200-2400",
+        "sunday": "1200-2400"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["italiana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "ensalada fria natural", "price": 500},
+                {"name": "ensalada fria de jamon", "price": 600},
+                {"name": "ensalada fria de atun", "price": 700}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pizza napolitana", "price": 1000},
+                {"name": "pizza de jamon", "price": 1100},
+                {"name": "pizza hawaiana", "price": 1300},
+                {"name": "pizza de atun", "price": 1300},
+                {"name": "pizza de chorizo", "price": 1400},
+                {"name": "pizza de bacon", "price": 1400},
+                {"name": "pizza doping extreme", "price": 1500},
+                {"name": "spaghetti napoles", "price": 900}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "queso", "price": 450},
+                {"name": "jamon", "price": 350},
+                {"name": "chorizo", "price": 350},
+                {"name": "atun", "price": 400},
+                {"name": "cebolla", "price": 200},
+                {"name": "pimiento", "price": 200},
+                {"name": "aceituna", "price": 300},
+                {"name": "bacon", "price": 400}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "paletica de helado clasica", "price": 150}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua", "price": 150},
+                {"name": "refresco", "price": 250},
+                {"name": "malta", "price": 300},
+                {"name": "malteada", "price": 650},
+                {"name": "jugos", "price": 300},
+                {"name": "batido de helado (12oz)", "price": 550},
+                {"name": "batido de helado (16oz)", "price": 750}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza", "price": 300}
+            ]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "yesterday havana",
+    "address": {
+        "city": "la habana",
+        "town": "san miguel del padrón",
+        "coordinates": {
+            "latitude": "23.099170645364698",
+            "longitude": "-82.33964892703689"
+        }
+    },
+    "contact": {
+        "facebook": "yesterday habana",
+        "instagram": "@yesterdayhabanabarrest",
+        "whatsapp": "",
+        "web": "",
+        "telephone": "76930649"
+    },
+    "schedule": {
+        "monday": "cerrado",
+        "tuesday": "cerrado",
+        "wednesday": "1200-0200",
+        "thursday": "1200-0200",
+        "friday": "1200-0200",
+        "saturday": "1200-0200",
+        "sunday": "1200-0200"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla", "internacional"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "picadera yesterday", "price": 3000},
+                {"name": "papas fritas", "price": 600},
+                {"name": "tacos de cerdo", "price": 800},
+                {"name": "tacos de pollo", "price": 800},
+                {"name": "ceviche", "price": 800},
+                {"name": "eperlan", "price": 900},
+                {"name": "coctel de camarones", "price": 1000},
+                {"name": "entremes de jamon, queso y chorizo", "price": 800},
+                {"name": "ensalada fria", "price": 650},
+                {"name": "toston al ajo", "price": 600},
+                {"name": "frituras de malanga", "price": 500},
+                {"name": "croquetas de la casa", "price": 500},
+                {"name": "fajitas de pollo", "price": 950},
+                {"name": "fajitas de cerdo", "price": 950},
+                {"name": "brochetas mixtas", "price": 2500},
+                {"name": "garbanzo frito", "price": 2000},
+                {"name": "fabada", "price": 2000},
+                {"name": "cema del dia", "price": 1000}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "mariscada yesterday", "price": 7000},
+                {"name": "calamar al gusto", "price": 3000},
+                {"name": "langosta al gusto", "price": 3000},
+                {"name": "3 delicias", "price": 3000},
+                {"name": "camarones al ajo", "price": 2000},
+                {"name": "camarones grille", "price": 2000},
+                {"name": "enchilado de camarones", "price": 2000},
+                {"name": "camaron empanado", "price": 2500},
+                {"name": "filete de pescado", "price": 1800},
+                {"name": "filete de pescado jhombill", "price": 2200},
+                {"name": "rueda de pescado frito", "price": 2500},
+                {"name": "bistec de cerdo", "price": 1800},
+                {"name": "cerdo encebollado", "price": 2000},
+                {"name": "pechuga de pollo grille", "price": 1800},
+                {"name": "mar y tierra", "price": 5500},
+                {"name": "mar y tierra res", "price": 5500},
+                {"name": "cordero al vino", "price": 3000},
+                {"name": "costillas de cerdo", "price": 3000},
+                {"name": "cerdo desmechado", "price": 3000},
+                {"name": "masas fritas", "price": 3000},
+                {"name": "lonjas de cerdo", "price": 3000},
+                {"name": "lonjas ahumadas", "price": 3000},
+                {"name": "uruguayo", "price": 2500},
+                {"name": "canciller", "price": 2500},
+                {"name": "corden bleu", "price": 2500},
+                {"name": "solomillo de cerdo", "price": 4000},
+                {"name": "arroz a la marinera", "price": 3500},
+                {"name": "arroz campesino", "price": 3000},
+                {"name": "arroz frito (camaron)", "price": 2000},
+                {"name": "arroz frito (langosta)", "price": 2500},
+                {"name": "ropa vieja", "price": 2500}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

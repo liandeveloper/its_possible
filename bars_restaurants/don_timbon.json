@@ -1,0 +1,76 @@
+{
+    "establishment": ["restaurante"],
+    "name": "don timbon",
+    "address": {
+        "city": "la habana",
+        "town": "san miguel del padrón",
+        "coordinates": {
+            "latitude": 23.078091931411176,
+            "longitude": -82.31932677141849
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0900-2200",
+        "tuesday": "0900-2200",
+        "wednesday": "0900-2200",
+        "thursday": "0900-2200",
+        "friday": "0900-2200",
+        "saturday": "0900-2200",
+        "sunday": "0900-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla", "italiana"],
+    "menu": {
+        "starter": {
+            "items": [null]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "hamburguesa sencilla", "price": 350},
+                {"name": "pan con bistec", "price": 550},
+                {"name": "arroz salteado", "price": 500},
+                {"name": "lasaña", "price": 550},
+                {"name": "spaghetti", "price": 300},
+                {"name": "pizza napolitana", "price": 160}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "jamon", "price": 80},
+                {"name": "chorizo", "price": 100},
+                {"name": "atun", "price": 100}
+            ]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

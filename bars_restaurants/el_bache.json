@@ -1,0 +1,81 @@
+{
+    "establishment": ["restaurante"],
+    "name": "el bache",
+    "address": {
+        "city": "la habana",
+        "town": "cotorro",
+        "coordinates": {
+            "latitude": 23.04303644487019,
+            "longitude": -82.26306815148284
+        }
+    },
+    "contact": {
+        "facebook": "pizzería el bache",
+        "instagram": "@_elbache",
+        "whatsapp": "54703920",
+        "web": "https://el-bache.ola.click/",
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1030-2230",
+        "tuesday": "1030-2230",
+        "wednesday": "1030-2230",
+        "thursday": "1030-2230",
+        "friday": "1030-2230",
+        "saturday": null,
+        "sunday": null
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["italiana"],
+    "menu": {
+        "starter": {
+            "items": [null]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pizza napolitana", "price": 600},
+                {"name": "pizza doble queso", "price": 800},
+                {"name": "pizza queso gouda", "price": 900},
+                {"name": "pizza jamón", "price": 800},
+                {"name": "pizza chorizo", "price": 800},
+                {"name": "pizza aceituna", "price": 800},
+                {"name": "pizza aceituna", "price": 1350},
+                {"name": "pizza atún", "price": 800},
+                {"name": "pizza cebolla", "price": 1100},
+                {"name": "pizza hawaiana", "price": 1450},
+                {"name": "pizza 4 estaciones", "price": 1450},
+                {"name": "lasaña", "price": 800},
+                {"name": "lasaña de queso gouda", "price": 1200},
+                {"name": "spaguetti con queso gouda", "price": 900},
+                {"name": "spaguetti", "price": 600}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}
