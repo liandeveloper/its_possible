@@ -17,8 +17,9 @@ def places(df, list, town):
         df['address.town'].apply(lambda x: x == town)
     ]
 
-def delivery(df, town, service):
-    return df[
-        df['address.town'].apply(lambda x: x == town) &
-        df['services.delivery'].apply(lambda x: x == service)
+def boolean(df, bool, town, string):
+    code = df[
+        (df[bool] == True) &
+        (df[town] == string)
     ]
+    return code
