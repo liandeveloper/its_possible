@@ -1,0 +1,78 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "shapuseros",
+    "address": {
+        "city": "la habana",
+        "town": "cerro",
+        "coordinates": {
+            "latitude": 23.117562853692327,
+            "longitude": -82.38451702024058
+        }
+    },
+    "contact": {
+        "facebook": "shapuseros habana",
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0900-2100",
+        "tuesday": "0900-2100",
+        "wednesday": "0900-2100",
+        "thursday": "0900-2100",
+        "friday": "0900-2100",
+        "saturday": "0900-2100",
+        "sunday": "0900-2100"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["americana"],
+    "menu": {
+        "starter": {
+            "items": [null]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "hamburguesa de pollo", "price": 500},
+                {"name": "hamburguesa de cerdo", "price": 550},
+                {"name": "hamburguesa de res", "price": 600},
+                {"name": "hamburguesa shapusero", "price": 1200}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "queso", "price": 150},
+                {"name": "jamon", "price": 120},
+                {"name": "chorizo", "price": 150},
+                {"name": "bacon", "price": 155},
+                {"name": "huevo", "price": 150},
+                {"name": "cebolla", "price": 50},
+                {"name": "salsa bbq", "price": 30}
+            ]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

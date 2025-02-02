@@ -1,0 +1,128 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "la ruta de hemingway",
+    "address": {
+        "city": "la habana",
+        "town": "habana del este",
+        "coordinates": {
+            "latitude": 23.167411943757887,
+            "longitude": -82.29565904965052
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": "@la_ruta_de_hemingway",
+        "whatsapp": "50813470",
+        "web": "larutadehemingway.godaddysites.com",
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1200-2300",
+        "tuesday": "1200-2300",
+        "wednesday": "1200-2300",
+        "thursday": "1200-2300",
+        "friday": "1200-2300",
+        "saturday": "1200-2300",
+        "sunday": "1200-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["criolla", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "croquetas de la casa", "price": 500},
+                {"name": "ceviche de pescado", "price": 1300},
+                {"name": "tostones rellenos", "price": 1150},
+                {"name": "eperlan de pescado", "price": 1300},
+                {"name": "garbanzos fritos", "price": 1350},
+                {"name": "ensalada fria", "price": 1050},
+                {"name": "brusquetas", "price": 450}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pincho pio", "price": 2500},
+                {"name": "bistec de cerdo a la campesina", "price": 2400},
+                {"name": "el balsero", "price": 3100},
+                {"name": "pulpo a las brasas", "price": 3500},
+                {"name": "camarón a la mantequilla", "price": 2900},
+                {"name": "langosta al carbon", "price": 3600},
+                {"name": "fajas ibericas", "price": 4250},
+                {"name": "chilindron de cordero", "price": 3450},
+                {"name": "fricase de costilla", "price": 3650},
+                {"name": "masas de cerdo a la campesina", "price": 3200},
+                {"name": "pescado entero", "price": 3100},
+                {"name": "tambor cubano", "price": 3100},
+                {"name": "rueda de pescado", "price": 2700},
+                {"name": "pizza napolitana", "price": 2000}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "viandas fritas", "price": 300},
+                {"name": "vianda con mojo", "price": 300},
+                {"name": "ensalada estacion", "price": 400},
+                {"name": "arroz blanco", "price": 300},
+                {"name": "arroz moro", "price": 400}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "postre del dia", "price": 750}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "cafe expresso", "price": 250}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua natural", "price": 250},
+                {"name": "agua tonica", "price": 700},
+                {"name": "malta", "price": 360},
+                {"name": "malteada", "price": 500},
+                {"name": "refresco importado", "price": 300},
+                {"name": "energizante", "price": 300},
+                {"name": "jugo en lata", "price": 300},
+                {"name": "jugo de fruta", "price": 300},
+                {"name": "limonada frappe", "price": 450},
+                {"name": "limonada frescura", "price": 480},
+                {"name": "kermato", "price": 500},
+                {"name": "batido de fruta", "price": 420}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza nacional", "price": 300},
+                {"name": "cerveza en lata importada", "price": 250},
+                {"name": "cerveza presidente", "price": 300},
+                {"name": "cerveza heineken", "price": 400},
+                {"name": "cerveza corona", "price": 450}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "todos los cocteles", "price": 450},
+                {"name": "sangria", "price": 800},
+                {"name": "piña colada", "price": 700},
+                {"name": "gin tonic", "price": 800},
+                {"name": "brandy", "price": 600},
+                {"name": "ginebra tanqueray", "price": 600},
+                {"name": "jagermeifter", "price": 700},
+                {"name": "bucana", "price": 1650},
+                {"name": "tequila olmeca", "price": 800},
+                {"name": "ginebra", "price": 600}
+            ]
+        }
+    }
+}

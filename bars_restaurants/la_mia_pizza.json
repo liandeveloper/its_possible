@@ -1,0 +1,105 @@
+{
+    "establishment": ["restaurante"],
+    "name": "la mia pizza",
+    "address": {
+        "city": "la habana",
+        "town": "la lisa",
+        "coordinates": {
+            "latitude": 23.07138320836101,
+            "longitude": -82.4600607155514
+        }
+    },
+    "contact": {
+        "facebook": "la mía pizza",
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": "72718614"
+    },
+    "schedule": {
+        "monday": "1100-2300",
+        "tuesday": "1100-2300",
+        "wednesday": "1100-2300",
+        "thursday": "1100-2300",
+        "friday": "1100-2300",
+        "saturday": "1100-0200",
+        "sunday": "1100-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["italiana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "entremes de jamon y queso", "price": 1440},
+                {"name": "entremes de jamon", "price": 500},
+                {"name": "entremes de ahumados", "price": 440},
+                {"name": "entremes de aceitunas", "price": 300},
+                {"name": "dados de queso", "price": 300},
+                {"name": "croquetas de embutidos", "price": 220},
+                {"name": "crema de queso", "price": 250},
+                {"name": "crema aurora", "price": 300},
+                {"name": "crema virginia", "price": 430}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pizza napolitana", "price": 700},
+                {"name": "pizza la mia", "price": 2500},
+                {"name": "pizza la mia de queso", "price": 1900},
+                {"name": "pizza tres quesos", "price": 1700},
+                {"name": "pizza la mia familiar", "price": 4800},
+                {"name": "pizza la mia familiar de queso", "price": 4000},
+                {"name": "pizza familiar napolitana", "price": 2500},
+                {"name": "lasagna de jamon", "price": 500},
+                {"name": "lasagna de jamon y chorizo", "price": 610},
+                {"name": "spaghetti napolitanos", "price": 700},
+                {"name": "spaghetti la carbonara", "price": 860}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "helado montado", "price": 350}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua", "price": 160},
+                {"name": "agua saborizada", "price": 170},
+                {"name": "refresco", "price": 220},
+                {"name": "refresco de pomo", "price": 280},
+                {"name": "malta", "price": 250},
+                {"name": "bebida energizante", "price": 250},
+                {"name": "jugo de frutas naturales", "price": 200},
+                {"name": "limonada frappe", "price": 1500},
+                {"name": "batido de frutas naturales", "price": 250},
+                {"name": "suero de helado", "price": 350}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza", "price": 270},
+                {"name": "michelada", "price": 420}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "pina colada", "price": 250}
+            ]
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "lo de monik",
+    "address": {
+        "city": "la habana",
+        "town": "la habana vieja",
+        "coordinates": {
+            "latitude": 23.141360421965942,
+            "longitude": -82.35554676484041
+        }
+    },
+    "contact": {
+        "facebook": "lo de monik",
+        "instagram": "@lodemonik_restaurants",
+        "whatsapp": "52811595",
+        "web": null,
+        "telephone": "78644029"
+    },
+    "schedule": {
+        "monday": "1100-2300",
+        "tuesday": "1100-2300",
+        "wednesday": "1100-2300",
+        "thursday": "1100-2300",
+        "friday": "1100-2300",
+        "saturday": "1100-2300",
+        "sunday": "1100-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["caribeña", "latina", "internacional", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "yucas bravas / yucca with hot tacos sauce", "price": 600},
+                {"name": "croquetas / croquette", "price": 560},
+                {"name": "tamal en cazuela", "price": 1500},
+                {"name": "tostones rellenos de jamon y queso", "price": 1100},
+                {"name": "ropa vieja", "price": 1200},
+                {"name": "cerdo", "price": 1300},
+                {"name": "fituras de malanga", "price": 600},
+                {"name": "sandwich de vegetales", "price": 850},
+                {"name": "sandwich de jamon y queso", "price": 1000},
+                {"name": "sandwich de pollo", "price": 1500},
+                {"name": "sandwich de atun", "price": 1000},
+                {"name": "sandwich cubano", "price": 2000}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pasta napolitana", "price": 1700},
+                {"name": "pasta de pollo con salsa alfredo", "price": 2000},
+                {"name": "pasta frutti di mare", "price": 2300},
+                {"name": "pasta napolitana", "price": 1700},
+                {"name": "pasta de pollo con salsa alfredo", "price": 2000},
+                {"name": "pasta frutti di mare", "price": 2300},
+                {"name": "vegetales / vegetables tacos", "price": 1200},
+                {"name": "pollo / chicken tacos", "price": 1500},
+                {"name": "cerdo / pork tacos", "price": 2200},
+                {"name": "ropa vieja / shredded beef tacos", "price": 2000},
+                {"name": "camarón / shrimps tacos", "price": 3000},
+                {"name": "pescado / fish tacos", "price": 2300},
+                {"name": "punta de filete / beef tacos", "price": 3800},
+                {"name": "langosta / lobster tacos", "price": 2200},
+                {"name": "pulpo / octopus tacos", "price": 2500},
+                {"name": "pollo grillado / grilled chicken", "price": 1500},
+                {"name": "camarón grillado / grilled shrimps", "price": 3000},
+                {"name": "ropa vieja / shredded beef", "price": 2000},
+                {"name": "ropa vieja con garbanzos / shredded beef with chic", "price": 2400},
+                {"name": "pescado empanado / fish and chips", "price": 2500},
+                {"name": "masas de cerdo / pork masses", "price": 2800},
+                {"name": "pescado grillado / grilled fish", "price": 2300},
+                {"name": "pulpo grillado / grilled octopus", "price": 3800},
+                {"name": "langosta / lobster", "price": 3000},
+                {"name": "punta de filete a la deutch", "price": 3800}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "side dish", "price": 300}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "postre de la casa / house's dessert", "price": 600}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

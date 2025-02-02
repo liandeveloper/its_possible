@@ -1,0 +1,116 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "tonyzz bar",
+    "address": {
+        "city": "la habana",
+        "town": "centro habana",
+        "coordinates": {
+            "latitude": 23.13799192742151,
+            "longitude": -82.36028647833432
+        }
+    },
+    "contact": {
+        "facebook": "tonyzz bar",
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1200-2400",
+        "tuesday": "1200-2400",
+        "wednesday": "1200-2400",
+        "thursday": "1200-2400",
+        "friday": "1200-2400",
+        "saturday": "1200-2400",
+        "sunday": "1200-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["italiana", "americana", "india", "caribeña", "asiática", "cubana", "ceilanesa"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "croquetas", "price": 490},
+                {"name": "fajitas de pollo", "price": 1090},
+                {"name": "entremés de jamón y queso", "price": 990},
+                {"name": "empanadas españolas (atún/pollo/queso)", "price": 640},
+                {"name": "papas bravas españolas", "price": 690},
+                {"name": "tacos (pollo o atún)", "price": 1280},
+                {"name": "papas fritas", "price": 690},
+                {"name": "picadera familiar", "price": 2690}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "sándwich c/ jamón", "price": 600},
+                {"name": "sándwich c/ queso", "price": 600},
+                {"name": "sándwich c/ jamón y queso", "price": 890},
+                {"name": "sándwich c/ huevo (frito o tortilla)", "price": 600},
+                {"name": "sándwich c/ atún y mayonesa", "price": 1300},
+                {"name": "sándwich tonyzzz", "price": 1290}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "helado (diferentes sabores)", "price": 130}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "café expreso", "price": 290},
+                {"name": "café cortado", "price": 300},
+                {"name": "café con leche", "price": 490},
+                {"name": "cappuccino", "price": 490},
+                {"name": "café americano", "price": 350}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua natural 500ml", "price": 180},
+                {"name": "agua natural 1500ml", "price": 300},
+                {"name": "malta", "price": 300},
+                {"name": "refrescos lata", "price": 300},
+                {"name": "refresco pomo", "price": 300},
+                {"name": "refresco pomo 1500ml", "price": 300},
+                {"name": "tigon", "price": 300},
+                {"name": "red bull", "price": null},
+                {"name": "jugos naturales", "price": 250},
+                {"name": "batido de helado", "price": 510}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza nacional", "price": 300},
+                {"name": "cerveza colonia", "price": 220}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "mojito", "price": 890},
+                {"name": "cuba libre", "price": 790},
+                {"name": "daiquirí", "price": 790},
+                {"name": "cubata", "price": 790},
+                {"name": "canchánchara", "price": 1190},
+                {"name": "caipiriña", "price": 1190},
+                {"name": "caipirísima", "price": 1190},
+                {"name": "caipiroska", "price": 1190},
+                {"name": "chelada", "price": 490},
+                {"name": "michelada", "price": 850},
+                {"name": "piña colada", "price": 1190},
+                {"name": "vodka tonic", "price": 990}
+            ]
+        }
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "la ronda",
+    "address": {
+        "city": "la habana",
+        "town": "diez de octubre",
+        "coordinates": {
+            "latitude": 23.1055829712021,
+            "longitude": -82.35832236452364
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": "@restaurante.laronda",
+        "whatsapp": null,
+        "web": "bit.ly/amigosdelaronda",
+        "telephone": "76990583"
+    },
+    "schedule": {
+        "monday": "1000-2300",
+        "tuesday": "1000-2300",
+        "wednesday": "1000-2300",
+        "thursday": "1000-2300",
+        "friday": "1000-2300",
+        "saturday": "1000-2300",
+        "sunday": "1000-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "vianda frita", "price": 380},
+                {"name": "tostones naturales", "price": 370},
+                {"name": "fajita cerdo salteada", "price": 980},
+                {"name": "tostones rellenos jamón y queso", "price": 620},
+                {"name": "fajita de cerdo empanada", "price": 1180},
+                {"name": "tabla ronda", "price": 1200},
+                {"name": "alitas empanadas", "price": 1100},
+                {"name": "coctel de pescado", "price": 600},
+                {"name": "tamal en cazuela", "price": 300},
+                {"name": "coctel de camarones", "price": 1500},
+                {"name": "entremés de jamón, queso, chorizo y aceituna", "price": 1050},
+                {"name": "epertán", "price": 960},
+                {"name": "ensalada fría", "price": 500},
+                {"name": "pan con bistec", "price": 580},
+                {"name": "pan con cerdo", "price": 1840},
+                {"name": "pan cubano", "price": 980},
+                {"name": "hamburguesa de cerdo", "price": 640},
+                {"name": "hamburguesa de chorizo", "price": 640}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "masa de cerdo frita", "price": 1890},
+                {"name": "lomo a la barbacoa", "price": 1180},
+                {"name": "bistec de cerdo grille", "price": 1100},
+                {"name": "fricase de cerdo", "price": 1950},
+                {"name": "cerdo salteado con vegetales", "price": 1300},
+                {"name": "cerdo agridulce", "price": 1140},
+                {"name": "bistec uruguayo de cerdo", "price": 1450},
+                {"name": "lonjas de cerdo asado", "price": 1460},
+                {"name": "brochetas de cerdo", "price": 2350},
+                {"name": "bistec de cerdo empanado", "price": 1250},
+                {"name": "bistec de cerdo encebollado", "price": 1160},
+                {"name": "lomo de cerdo a la piña", "price": 1220},
+                {"name": "filete de pescado empanado", "price": 1200},
+                {"name": "pollo asado a la criolla", "price": 1030},
+                {"name": "pollo frito a la criolla", "price": 1030},
+                {"name": "pollo a la barbacoa", "price": 1150},
+                {"name": "arroz frito sin mariscos", "price": 690},
+                {"name": "arroz frito con camarones", "price": 1150},
+                {"name": "monte mary (para 2 pers.)", "price": 3500},
+                {"name": "enchilado de camarones", "price": 1850},
+                {"name": "camarones empanados", "price": 1920},
+                {"name": "camarones al ajillo", "price": 1920},
+                {"name": "grillada del mar", "price": 2800},
+                {"name": "paella marinera para dos", "price": 2100},
+                {"name": "filete de pescado grille", "price": 1090},
+                {"name": "bistec de res encebollado", "price": 1060},
+                {"name": "pizza napolitana", "price": 980},
+                {"name": "pizza napolitana doble queso", "price": 1300},
+                {"name": "pizza con jamón", "price": 1220},
+                {"name": "pizza con chorizo", "price": 1280},
+                {"name": "pizza con cebolla", "price": 1080},
+                {"name": "pizza hawaiana", "price": 1450},
+                {"name": "pizza con aceituna", "price": 1380},
+                {"name": "pizza super ronda", "price": 2100},
+                {"name": "pizza con camarones", "price": 1750},
+                {"name": "spaghetti napolitano", "price": 780},
+                {"name": "spaghetti doble queso", "price": 950},
+                {"name": "spaghetti con jamón", "price": 840},
+                {"name": "spaghetti con chorizo", "price": 840},
+                {"name": "spaghetti con cebolla", "price": 780},
+                {"name": "spaghetti con camarones", "price": 1300},
+                {"name": "spaghetti a la boloñesa", "price": 980}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "arroz blanco", "price": 180},
+                {"name": "arroz moro", "price": 290},
+                {"name": "vegetales salteados", "price": 380},
+                {"name": "ensalada a la estación", "price": 370},
+                {"name": "kétchup", "price": 160},
+                {"name": "mostaza", "price": 160},
+                {"name": "mayonesa", "price": 160},
+                {"name": "lechuga", "price": 160},
+                {"name": "tomate", "price": 160},
+                {"name": "pepinillo", "price": 170},
+                {"name": "cebolla", "price": 210},
+                {"name": "piña", "price": 240},
+                {"name": "aceituna", "price": 230},
+                {"name": "chorizo", "price": 260},
+                {"name": "jamón", "price": 260},
+                {"name": "queso gouda", "price": 380},
+                {"name": "pimiento", "price": 210}
+            ]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

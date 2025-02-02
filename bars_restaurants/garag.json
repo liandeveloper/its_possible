@@ -1,0 +1,110 @@
+{
+    "establishment": ["restaurante"],
+    "name": "garag",
+    "address": {
+        "city": "la habana",
+        "town": "san miguel del padrón",
+        "coordinates": {
+            "latitude": 23.137384204567816,
+            "longitude": -82.30805504947449
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1200-2400",
+        "tuesday": "1200-2400",
+        "wednesday": "1200-2400",
+        "thursday": "1200-2400",
+        "friday": "1200-2400",
+        "saturday": "1200-2400",
+        "sunday": "1200-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "picadera garag", "price": 3500},
+                {"name": "toston alfredo", "price": 750},
+                {"name": "eperlan", "price": 1650},
+                {"name": "fajitas de pollo", "price": 1225},
+                {"name": "fajitas de cerdo", "price": 1550},
+                {"name": "croquetas de mima", "price": 750},
+                {"name": "ceviche", "price": 900},
+                {"name": "tacos de carnita", "price": 1205},
+                {"name": "tacos marinesos", "price": 1295},
+                {"name": "ensalada fria", "price": 750},
+                {"name": "coctel de camaron", "price": 1250}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "filete de pescado grille", "price": 1920},
+                {"name": "filete de pescado empanado", "price": 1980},
+                {"name": "filete de pescado garag", "price": 2225},
+                {"name": "canciller", "price": 2150},
+                {"name": "filete alfredo", "price": 2150},
+                {"name": "masas de pescado al ajito", "price": 1920},
+                {"name": "pargo frito", "price": 2150},
+                {"name": "pollo frito", "price": 1350},
+                {"name": "bistec de pollo grille", "price": 1350},
+                {"name": "pollo empanado", "price": 1450},
+                {"name": "cordon blue", "price": 1925},
+                {"name": "bistec de cerdo encebollado", "price": 1950},
+                {"name": "cerdo grille", "price": 1700},
+                {"name": "cerdo empanado", "price": 1750},
+                {"name": "cerdo uruguayo", "price": 1955},
+                {"name": "masa de cerdo frita", "price": 2200},
+                {"name": "cerdo asado", "price": 2150},
+                {"name": "camaron al ajillo", "price": 2300},
+                {"name": "camaron grille", "price": 2105},
+                {"name": "camaron enchilado", "price": 2230},
+                {"name": "camaron empanado", "price": 2290},
+                {"name": "aporreado de res", "price": 1950},
+                {"name": "ropa vieja", "price": 1930},
+                {"name": "arroz frito especial", "price": 1350},
+                {"name": "arroz frito", "price": 1200},
+                {"name": "ensalada estacion", "price": 350},
+                {"name": "vegetal salteado", "price": 350},
+                {"name": "pizza napoles", "price": 930},
+                {"name": "pizza antihawaiana", "price": 1555},
+                {"name": "pizza lechocita", "price": 1595},
+                {"name": "pizza 5 quesos", "price": 1650},
+                {"name": "pasta napoles", "price": 930}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "establishment": ["restaurante"],
+    "name": "jorgito's pizza",
+    "address": {
+        "city": "la habana",
+        "town": "cerro",
+        "coordinates": {
+            "latitude": 23.120895150022783,
+            "longitude": -82.37362585134757
+        }
+    },
+    "contact": {
+        "facebook": "jorgito's pizzas",
+        "instagram": "@jorgitospizza",
+        "whatsapp": "54031349",
+        "web": null,
+        "telephone": "78780156"
+    },
+    "schedule": {
+        "monday": "1100-2300",
+        "tuesday": "1100-2300",
+        "wednesday": "1100-2300",
+        "thursday": "1100-2300",
+        "friday": "1100-2300",
+        "saturday": "1100-2300",
+        "sunday": "1100-2300"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["italiana"],
+    "menu": {
+        "starter": {
+            "items": [null]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pizza de queso gouda (20cm)", "price": 410},
+                {"name": "pizza de queso gouda (32cm)", "price": 750},
+                {"name": "pizza de 2 quesos (32cm)", "price": 990},
+                {"name": "pizza hawaiana (32cm)", "price": 1110},
+                {"name": "pizza de 3 quesos (32cm)", "price": 1320},
+                {"name": "pizza de 4 quesos (32cm)", "price": 1500},
+                {"name": "pizza de vegetales (32cm)", "price": 1650},
+                {"name": "pizza familiar de queso gouda (40x50cm)", "price": 1820},
+                {"name": "pizza familiar de 2 quesos (40x50cm)", "price": 2780},
+                {"name": "pizza familiar hawaiana (40x50cm)", "price": 3260},
+                {"name": "pizza familiar de 3 quesos (40x50cm)", "price": 3345},
+                {"name": "pizza familiar de 4 quesos (40x50cm)", "price": 3470},
+                {"name": "pizza familiar de vegetales (40x50cm)", "price": 5420},
+                {"name": "spaghetti c/queso gouda", "price": 690}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "chorizo", "price": 170},
+                {"name": "chorizo (familiar)", "price": 680},
+                {"name": "piña", "price": 180},
+                {"name": "jamon", "price": 180},
+                {"name": "jamon (familiar)", "price": 720},
+                {"name": "queso nacional", "price": 180},
+                {"name": "queso mozzarella", "price": 240},
+                {"name": "pimiento", "price": 250},
+                {"name": "pimiento (familiar)", "price": 1000},
+                {"name": "cebolla", "price": 300},
+                {"name": "cebolla (familiar)", "price": 1200},
+                {"name": "queso gouda", "price": 300},
+                {"name": "queso gouda (familiar)", "price": 1200},
+                {"name": "queso parmesano", "price": 330},
+                {"name": "atun", "price": 330},
+                {"name": "aceituna", "price": 350}
+            ]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "establishment": ["restaurante"],
+    "name": "pal'karajo",
+    "address": {
+        "city": "la habana",
+        "town": "cotorro",
+        "coordinates": {
+            "latitude": 23.03093446114541,
+            "longitude": -82.26395872798486
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": "63436878",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1000-2200",
+        "tuesday": "1000-2200",
+        "wednesday": "1000-2200",
+        "thursday": "1000-2200",
+        "friday": "1000-2200",
+        "saturday": "1000-2200",
+        "sunday": "1000-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "chicharrita de boniato", "price": 200}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pan pal'karajo", "price": 790},
+                {"name": "pan con lechón", "price": 450},
+                {"name": "pan con jamón", "price": 300},
+                {"name": "pan con chorizo", "price": 250},
+                {"name": "pan con jamón y chorizo", "price": 400},
+                {"name": "tacos de cerdo mechados", "price": 890},
+                {"name": "tacos de cerdo estofados", "price": 990}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [
+                {"name": "expresso", "price": 100},
+                {"name": "cortado", "price": 150},
+                {"name": "capuccino", "price": 300},
+                {"name": "frapuccino", "price": 400},
+                {"name": "bombón", "price": 300}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "malteada", "price": 500},
+                {"name": "jugo de mango", "price": 200},
+                {"name": "jugo de piña", "price": 200},
+                {"name": "piña colada", "price": 400},
+                {"name": "limonada", "price": 400}
+            ]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "michelada con cristal", "price": 550},
+                {"name": "chelada con cristal", "price": 550}
+            ]
+        }
+    }
+}

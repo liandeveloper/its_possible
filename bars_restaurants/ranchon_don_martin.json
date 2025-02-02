@@ -1,0 +1,115 @@
+{
+    "establishment": ["restaurante"],
+    "name": "ranchon don martin",
+    "address": {
+        "city": "la habana",
+        "town": "la lisa",
+        "coordinates": {
+            "latitude": 23.03192045701879,
+            "longitude": -82.47284867841391
+        }
+    },
+    "contact": {
+        "facebook": "ranchón don martín",
+        "instagram": "@ranchondonmartin",
+        "whatsapp": "63717638",
+        "web": null,
+        "telephone": "72677049"
+    },
+    "schedule": {
+        "monday": "1100-2100",
+        "tuesday": "1100-2100",
+        "wednesday": "1100-2100",
+        "thursday": "1100-2100",
+        "friday": "1100-2100",
+        "saturday": "1100-2200",
+        "sunday": "1100-2200"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["criolla", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "ensalada fria", "price": 400},
+                {"name": "coctel de camarones", "price": 950},
+                {"name": "fritura de malanga", "price": 470},
+                {"name": "toston con mojo", "price": 470},
+                {"name": "chicharritas", "price": 380},
+                {"name": "papa frita", "price": 370},
+                {"name": "toston relleno", "price": 700}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "masa frita de cerdo", "price": 2030},
+                {"name": "fricase de cerdo", "price": 2030},
+                {"name": "bistec de cerdo grille", "price": 1400},
+                {"name": "bistec de cerdo uruguayo", "price": 2050},
+                {"name": "bistec de cerdo empanado", "price": 1600},
+                {"name": "bistec de cerdo al graten", "price": 1600},
+                {"name": "bistec de cerdo a la reina", "price": 1700},
+                {"name": "vaca frita", "price": 2820},
+                {"name": "ropa vieja", "price": 2850},
+                {"name": "pechuga", "price": 1440},
+                {"name": "pechuga grille", "price": 1530},
+                {"name": "pechuga empanada", "price": 1520},
+                {"name": "pechuga al graten", "price": 1580},
+                {"name": "pechuga a la reina", "price": 1780},
+                {"name": "gordon blue", "price": 1600},
+                {"name": "filete de pescado grille", "price": 1800},
+                {"name": "filete de pescado empanado", "price": 1800},
+                {"name": "filete de pescado al graten", "price": 2000},
+                {"name": "canciller", "price": 2450},
+                {"name": "filete don martin", "price": 2000},
+                {"name": "camaron enchilado", "price": 2000},
+                {"name": "camaron al ajillo", "price": 2100},
+                {"name": "camaron rebozado", "price": 3600},
+                {"name": "langosta al ajillo", "price": 3650},
+                {"name": "langosta enchilado", "price": 1810},
+                {"name": "chilindron de cordero", "price": 900},
+                {"name": "pan con hamburguesa", "price": 1280},
+                {"name": "pan con hamburguesa, jamon y queso", "price": 840},
+                {"name": "pizza", "price": 860},
+                {"name": "spaghetti", "price": 860}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "flan", "price": 350}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua", "price": 180},
+                {"name": "refresco de lata", "price": 220},
+                {"name": "malta caribia", "price": 230},
+                {"name": "refresco manzanita", "price": 290},
+                {"name": "seven-up", "price": 240},
+                {"name": "piñita", "price": 225},
+                {"name": "energizante", "price": 245},
+                {"name": "jugo de caja", "price": 175}
+            ]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "la pelota",
+    "address": {
+        "city": "la habana",
+        "town": "plaza de la revolución",
+        "coordinates": {
+            "latitude": 23.127810894630507,
+            "longitude": -82.39959798623943
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0945-2145",
+        "tuesday": "0945-2145",
+        "wednesday": "0945-2145",
+        "thursday": "0945-2145",
+        "friday": "0945-2145",
+        "saturday": "0945-2145",
+        "sunday": "0945-2145"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": false,
+        "credit_card": false
+    },
+    "specialties": ["cubana", "internacional"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "chicharrón 58g", "price": 120},
+                {"name": "croqueta 36g", "price": 15},
+                {"name": "entrante de jamón", "price": 300}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "bistec de cerdo", "price": 600},
+                {"name": "masa de cerdo frita", "price": 600},
+                {"name": "costilla de credo frito", "price": 600},
+                {"name": "pollo grillé", "price": 550},
+                {"name": "pollo asado", "price": 550},
+                {"name": "picadillo", "price": 250}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "arroz moro", "price": 100},
+                {"name": "vianda hervida", "price": 40}
+            ]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "energizante", "price": 200},
+                {"name": "refresco de cola", "price": 190},
+                {"name": "jugo de frutas", "price": 180},
+                {"name": "cerveza importada", "price": 200}
+            ]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

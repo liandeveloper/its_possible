@@ -1,0 +1,120 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "planh enoteca & restaurante mithai",
+    "address": {
+        "city": "la habana",
+        "town": "la habana vieja",
+        "coordinates": {
+            "latitude": 23.139568075702893,
+            "longitude": -82.35939313561359
+        }
+    },
+    "contact": {
+        "facebook": "planh - enoteca & delicatessen",
+        "instagram": null,
+        "whatsapp": "53867350",
+        "web": null,
+        "telephone": "78616212"
+    },
+    "schedule": {
+        "monday": "1130-2400",
+        "tuesday": "1130-2400",
+        "wednesday": "1130-2400",
+        "thursday": "1130-2400",
+        "friday": "1130-2400",
+        "saturday": "1130-2400",
+        "sunday": "1130-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["asiática", "internacional", "tailandesa"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "ceviche de pescado plan h", "price": 2000},
+                {"name": "tapache serrano", "price": 1900},
+                {"name": "ceviche de atun de verano", "price": 2382},
+                {"name": "ceviche de pulpo", "price": 2450},
+                {"name": "croquetas plan h", "price": 1000},
+                {"name": "brochetas de pollo", "price": 2300},
+                {"name": "tapa de pulpo a la habanera", "price": 2600},
+                {"name": "mix de casabe crujiente", "price": 2050},
+                {"name": "ensalada salachic", "price": 1447},
+                {"name": "ensalada vegana", "price": 765},
+                {"name": "tabla de 5 quesos", "price": 3658},
+                {"name": "tabla parrillera", "price": 3320},
+                {"name": "tabla mixta plan h", "price": 4138},
+                {"name": "aceitunas negras", "price": 350},
+                {"name": "aceitunas verdes", "price": 250},
+                {"name": "papas fritas", "price": 773}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pollo california", "price": 2465},
+                {"name": "lomo de res", "price": 3350},
+                {"name": "atun natural", "price": 3500}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [
+                {"name": "expresso", "price": 260},
+                {"name": "americano", "price": 260},
+                {"name": "cortado", "price": 350},
+                {"name": "cafe con leche", "price": 650},
+                {"name": "capuchino", "price": 600},
+                {"name": "cafe bombon", "price": 670},
+                {"name": "frapuchino", "price": 630},
+                {"name": "mocachino", "price": 555},
+                {"name": "te", "price": 150}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua natural don aguiar", "price": 420},
+                {"name": "agua tonica me", "price": 584},
+                {"name": "agua ginger ale", "price": 650},
+                {"name": "refresco ritz cola", "price": 300},
+                {"name": "refresco ritz naranja", "price": 300},
+                {"name": "redbull", "price": 450},
+                {"name": "limonada frappe", "price": 540},
+                {"name": "limonada frescura", "price": 550},
+                {"name": "jugo natural", "price": 498}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza cristal", "price": 600},
+                {"name": "michelada", "price": 700},
+                {"name": "chelada", "price": 600}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "cuba libre", "price": 800},
+                {"name": "pina colada", "price": 1000},
+                {"name": "mojito natural", "price": 850},
+                {"name": "mojito tonic", "price": 1020},
+                {"name": "daiquiri", "price": 850},
+                {"name": "mimosas", "price": 900},
+                {"name": "aperol spritz", "price": 1450},
+                {"name": "sangria tonic blanca", "price": 1100},
+                {"name": "sangria tinta", "price": 1100}
+            ]
+        }
+    }
+}

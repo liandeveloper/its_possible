@@ -1,0 +1,159 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "la francesa",
+    "address": {
+        "city": "la habana",
+        "town": "centro habana",
+        "coordinates": {
+            "latitude": 23.13770661497965,
+            "longitude": -82.35930123279326
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0800-2000",
+        "tuesday": "0800-2000",
+        "wednesday": "0800-2000",
+        "thursday": "0800-2000",
+        "friday": "0800-2000",
+        "saturday": "0800-2000",
+        "sunday": "0800-2000"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["italiana", "mediterranea"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "toston relleno 3.0", "price": 1500},
+                {"name": "brusquetas", "price": 1500},
+                {"name": "coctel de camarones", "price": 1800},
+                {"name": "tostas de jamon serrano", "price": 1800},
+                {"name": "bolitas de queso estilo la francesa", "price": 1600},
+                {"name": "ceviche de pesca blanca", "price": 1800},
+                {"name": "ensalada capricho", "price": 1800},
+                {"name": "papas bravas", "price": 1500},
+                {"name": "papas fritas", "price": 1600},
+                {"name": "frituritas de malanga", "price": 950},
+                {"name": "sandwich cubano", "price": 1900},
+                {"name": "sandwich clasico", "price": 1750},
+                {"name": "sandwich club", "price": 2500},
+                {"name": "sandwich de atun", "price": 2500},
+                {"name": "croissant clasico", "price": 1500},
+                {"name": "croissant natural", "price": 750},
+                {"name": "hamburguesa la francesa", "price": 2500},
+                {"name": "croquetas de la casa", "price": 1600},
+                {"name": "tabla fria", "price": 3200},
+                {"name": "tabla caliente", "price": 3500},
+                {"name": "tabla de jamon serrano", "price": 3500}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pasta napolitana", "price": 1250},
+                {"name": "pasta bolonesa", "price": 1000},
+                {"name": "pasta carbonara", "price": 1800},
+                {"name": "pasta al pesto", "price": 1800},
+                {"name": "pasta aglio olio", "price": 1260},
+                {"name": "brochetas de cerdo", "price": 2500},
+                {"name": "tacos de cerdo", "price": 2000},
+                {"name": "dados de pescado frito con acompanamiento de salsa tartara", "price": 1800},
+                {"name": "nuggets de pollo", "price": 1800}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "nutella", "price": 300},
+                {"name": "miel", "price": 300},
+                {"name": "mantequilla", "price": 300},
+                {"name": "bacon", "price": 350},
+                {"name": "vegetales", "price": 250},
+                {"name": "huevo", "price": 300},
+                {"name": "cesta de pan", "price": 250}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "brownie de chocolate", "price": 1200},
+                {"name": "mousse de cafe", "price": 950},
+                {"name": "pie de limon", "price": 1200},
+                {"name": "chesse cake", "price": 1200},
+                {"name": "copa de helado", "price": 1200}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "espresso", "price": 300},
+                {"name": "cortado", "price": 350},
+                {"name": "capuccino", "price": 450},
+                {"name": "frapuccino", "price": 550},
+                {"name": "bombon", "price": 550},
+                {"name": "carajillo", "price": 550},
+                {"name": "espresso martini", "price": 700},
+                {"name": "cafe con leche", "price": 700},
+                {"name": "leche con chocolate", "price": 750},
+                {"name": "te", "price": 300}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua natural", "price": 450},
+                {"name": "agua gaseada", "price": 600},
+                {"name": "malteada", "price": 500},
+                {"name": "refrescos (cola, limon y naranja)", "price": 500},
+                {"name": "malta", "price": 500},
+                {"name": "limonada frescura", "price": 700},
+                {"name": "jugos de frutas", "price": 700},
+                {"name": "batidos de frutas", "price": 500},
+                {"name": "batido de helado", "price": 500}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cristal", "price": 650},
+                {"name": "cristal extra", "price": 750},
+                {"name": "corona", "price": 600},
+                {"name": "bucanero", "price": 650}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "cuba libre", "price": 750},
+                {"name": "mojito", "price": 750},
+                {"name": "pina colada", "price": 950},
+                {"name": "pina colada sin alcohol", "price": 900},
+                {"name": "margarita", "price": 900},
+                {"name": "daiquiri", "price": 900},
+                {"name": "daiquiri frapeado", "price": 900},
+                {"name": "caipirinha", "price": 900},
+                {"name": "caipiroska", "price": 900},
+                {"name": "caipirisima", "price": 900},
+                {"name": "sangria", "price": 900},
+                {"name": "tinto de verano", "price": 750},
+                {"name": "mimosa", "price": 750},
+                {"name": "aperol spritz", "price": 900},
+                {"name": "michelada", "price": 900},
+                {"name": "havana especial", "price": 900},
+                {"name": "cubata", "price": 900},
+                {"name": "cubanito", "price": 900},
+                {"name": "mary pickford", "price": 900},
+                {"name": "bloody mary", "price": 900},
+                {"name": "gin tonic", "price": 950}
+            ]
+        }
+    }
+}

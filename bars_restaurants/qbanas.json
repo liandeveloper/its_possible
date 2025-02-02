@@ -1,0 +1,135 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "qbanas 60",
+    "address": {
+        "city": "la habana",
+        "town": "playa",
+        "coordinates": {
+            "latitude": 23.077784762125038,
+            "longitude": -82.46936259237634
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": "@qbanas.60",
+        "whatsapp": null,
+        "web": "https://qbanas60.com",
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0000-2400",
+        "tuesday": "0000-2400",
+        "wednesday": "0000-2400",
+        "thursday": "0000-2400",
+        "friday": "0000-2400",
+        "saturday": "0000-2400",
+        "sunday": "0000-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["americana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "bolitas de queso", "price": 800},
+                {"name": "croquetas de pollo", "price": 650},
+                {"name": "frituras de malanga", "price": 500},
+                {"name": "papas fritas", "price": 500},
+                {"name": "papas fritas con bacon y queso", "price": 950}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "hamburguesa de cerdo", "price": 1400},
+                {"name": "pizza cubana", "price": 400},
+                {"name": "pizza trufada con tomate asado", "price": 1500},
+                {"name": "pollo chiflado", "price": 1200},
+                {"name": "sandwich de queso", "price": 600},
+                {"name": "huevos rotos", "price": 1500},
+                {"name": "hamburguesa americana", "price": 1700}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "cheddar", "price": 300},
+                {"name": "bacon", "price": 500},
+                {"name": "huevo", "price": 300},
+                {"name": "gouda", "price": 300},
+                {"name": "cebolla", "price": 250}
+            ]
+        },
+        "desserts": {
+            "item": [null]
+        },
+        "coffee": {
+            "items": [
+                {"name": "expresso", "price": 200},
+                {"name": "cortadito", "price": 300},
+                {"name": "capuchino", "price": 350},
+                {"name": "bombon", "price": 500},
+                {"name": "frapuccino", "price": 1200}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "daiquiri", "price": 900},
+                {"name": "old fashion", "price": 1800},
+                {"name": "sangria", "price": 1000},
+                {"name": "servicio de michelada", "price": 600},
+                {"name": "servicio de chelada", "price": 350},
+                {"name": "pina colada", "price": 1000},
+                {"name": "cervezas nacionales", "price": 250},
+                {"name": "cerveza tagu", "price": 250},
+                {"name": "cervezas importadas", "price": 220},
+                {"name": "cervezas importadas", "price": 22000},
+                {"name": "margarita", "price": 900},
+                {"name": "aperol spritz", "price": 1500},
+                {"name": "7años", "price": 500},
+                {"name": "especial", "price": 400},
+                {"name": "red label", "price": 600},
+                {"name": "tequila olmeca", "price": 700},
+                {"name": "tequila don julio", "price": 1500},
+                {"name": "heineken", "price": 400},
+                {"name": "daiquiri de arandano o fresa", "price": 1200},
+                {"name": "mojito", "price": 700},
+                {"name": "gin tonic", "price": 1500},
+                {"name": "caipis", "price": 800},
+                {"name": "cubata", "price": 700}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cervezas nacionales", "price": 250},
+                {"name": "cerveza tagu", "price": 250},
+                {"name": "cervezas importadas", "price": 220},
+                {"name": "cervezas importadas", "price": 22000},
+                {"name": "heineken", "price": 400}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "daiquiri", "price": 900},
+                {"name": "old fashion", "price": 1800},
+                {"name": "sangria", "price": 1000},
+                {"name": "servicio de michelada", "price": 600},
+                {"name": "servicio de chelada", "price": 350},
+                {"name": "pina colada", "price": 1000},
+                {"name": "margarita", "price": 900},
+                {"name": "aperol spritz", "price": 1500},
+                {"name": "daiquiri de arandano o fresa", "price": 1200},
+                {"name": "mojito", "price": 700},
+                {"name": "gin tonic", "price": 1500},
+                {"name": "caipis", "price": 800},
+                {"name": "cubata", "price": 700}
+            ]
+        }
+    }
+}

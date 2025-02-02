@@ -1,0 +1,104 @@
+{
+    "establishment": ["restaurante"],
+    "name": "mokalex",
+    "address": {
+        "city": "la habana",
+        "town": "playa",
+        "coordinates": {
+            "latitude": 23.11213749973173,
+            "longitude": -82.41048087665507
+        }
+    },
+    "contact": {
+        "facebook": "mokaléx",
+        "instagram": "@mokalex_cuba",
+        "whatsapp": "53674114",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "null",
+        "tuesday": "0900-1800",
+        "wednesday": "0900-1800",
+        "thursday": "0900-1800",
+        "friday": "0900-1800",
+        "saturday": "0900-1800",
+        "sunday": "0900-1400"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["internacional"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "sandwich cubano", "price": 1500},
+                {"name": "sandwich de jamón y queso", "price": 1300},
+                {"name": "empanada gallega", "price": 800},
+                {"name": "tabla de embutidos y quesos", "price": 2300},
+                {"name": "aceitunas", "price": 700},
+                {"name": "croissant con nutella", "price": 1300},
+                {"name": "croissant con jamon y queso", "price": 1800},
+                {"name": "ensalada fria", "price": 800}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "lasagna bolognesa", "price": 1800},
+                {"name": "spaghetti con jamón", "price": 1500},
+                {"name": "arroz frito", "price": 1800},
+                {"name": "ensalada de humus con pechuga de pollo y vegetales", "price": 1400}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "pastelería", "price": 350},
+                {"name": "torta de la casa", "price": 700}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "café exconvicto", "price": 400},
+                {"name": "café yuma", "price": 400},
+                {"name": "café suturado", "price": 500},
+                {"name": "café conde", "price": 600},
+                {"name": "café mulata", "price": 550},
+                {"name": "frapuchino", "price": 800},
+                {"name": "frapuhelado", "price": 900},
+                {"name": "capuchino", "price": 800},
+                {"name": "infusiones", "price": 300}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "h2o natural", "price": 300},
+                {"name": "h2o gaseada", "price": 400},
+                {"name": "h2o gaseada importada", "price": 600},
+                {"name": "refresco", "price": 400},
+                {"name": "malta", "price": 500},
+                {"name": "energizante", "price": 400},
+                {"name": "jugos naturales", "price": 400},
+                {"name": "jugo óxido rojo", "price": 600}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza", "price": 450},
+                {"name": "michelada", "price": 600}
+            ]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

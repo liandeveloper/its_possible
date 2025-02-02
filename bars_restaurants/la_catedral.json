@@ -1,0 +1,119 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "la catedral",
+    "address": {
+        "city": "la habana",
+        "town": "plaza de la revolución",
+        "coordinates": {
+            "latitude": 23.135892638151837,
+            "longitude": -82.40453312083959
+        }
+    },
+    "contact": {
+        "facebook": "mirestaurantencuba",
+        "instagram": "@lacatedralcuba",
+        "whatsapp": null,
+        "web": null,
+        "telephone": "78300793"
+    },
+    "schedule": {
+        "monday": "0800-2300",
+        "tuesday": "0800-2300",
+        "wednesday": "0800-2300",
+        "thursday": "0800-2300",
+        "friday": "0800-2300",
+        "saturday": "0800-2300",
+        "sunday": "0800-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["española", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "bombones de queso y pescado", "price": 499},
+                {"name": "mariquitas de yuca", "price": 350},
+                {"name": "brusquetas", "price": 350},
+                {"name": "garbanzos fritos", "price": 700},
+                {"name": "entremeses surtido", "price": 799},
+                {"name": "picadera obispo", "price": 1350},
+                {"name": "fuente de eperlan", "price": 1400},
+                {"name": "tabla de embutidos", "price": 1500},
+                {"name": "tacos de cerdo y pollo", "price": 1500},
+                {"name": "fajitas de pollo frito", "price": 1500},
+                {"name": "tabla de jamón serrano, chorizo y queso", "price": 1900}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "lasaña de res", "price": 1600},
+                {"name": "ropa vieja", "price": 1800},
+                {"name": "bistec de cerdo al mojo criollo", "price": 1500},
+                {"name": "fajita de cerdo al grill", "price": 1500},
+                {"name": "lonjas de pierna ahumado salsa agridulce", "price": 1700},
+                {"name": "lonjas de pierna ahumado con queso y piña", "price": 1800},
+                {"name": "milanesa de cerdo con espaguettis", "price": 1500},
+                {"name": "arroz frito", "price": 1500},
+                {"name": "arroz frito especial con camarones", "price": 1700},
+                {"name": "pollo deshuesado a la plancha", "price": 1400},
+                {"name": "fajitas de pollo salteadas", "price": 1400},
+                {"name": "milanesa de pollo con espaguettis", "price": 1400},
+                {"name": "arroz con pollo a la chorrera", "price": 1500},
+                {"name": "filete de pescado maitre de hotel", "price": 1700},
+                {"name": "filete de pescado frito", "price": 1800}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [
+                {"name": "cristal (barril) 500ml", "price": 350},
+                {"name": "cristal (botella)", "price": 350},
+                {"name": "bucanero (barril) 500ml", "price": 350},
+                {"name": "bucanero (botella)", "price": 350},
+                {"name": "cubetazo 4+1", "price": 1500},
+                {"name": "michelada clásica", "price": 425},
+                {"name": "michelada al mojito", "price": 425},
+                {"name": "michelada vampira", "price": 425},
+                {"name": "michelada salsanera", "price": 425}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "mojito", "price": 340},
+                {"name": "daiquirí", "price": 340},
+                {"name": "daiquirí de fresas", "price": 499},
+                {"name": "cubalibre", "price": 340},
+                {"name": "cubanito", "price": 399},
+                {"name": "blody mary", "price": 499},
+                {"name": "sangria", "price": 499},
+                {"name": "screw driver", "price": 599},
+                {"name": "caipiriña", "price": 599},
+                {"name": "piña colada", "price": 599},
+                {"name": "martini", "price": 599},
+                {"name": "old fashioned", "price": 599},
+                {"name": "whiskey sour", "price": 599},
+                {"name": "manhatan", "price": 599},
+                {"name": "negroni", "price": 599}
+            ]
+        }
+    }
+}

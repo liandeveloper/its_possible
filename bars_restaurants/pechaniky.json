@@ -1,0 +1,115 @@
+{
+    "establishment": ["restaurante"],
+    "name": "pechatniky",
+    "address": {
+        "city": "la habana",
+        "town": "playa",
+        "coordinates": {
+            "latitude": 23.117985952744846,
+            "longitude": -82.41582832900848
+        }
+    },
+    "contact": {
+        "facebook": "pechatniky",
+        "instagram": "@pechatniky",
+        "whatsapp": "50365341",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0000-2400",
+        "tuesday": "0000-2400",
+        "wednesday": "0000-2400",
+        "thursday": "0000-2400",
+        "friday": "0000-2400",
+        "saturday": "0000-2400",
+        "sunday": "0000-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["internacional"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "croquetas de la casa", "price": 950},
+                {"name": "frituras de malanga", "price": 820},
+                {"name": "fajitas de pollo", "price": 950},
+                {"name": "tostones rellenos", "price": 700},
+                {"name": "garbanzo", "price": 1000},
+                {"name": "papas fritas", "price": 800},
+                {"name": "picadera pechatniky", "price": 2900}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pollo", "price": 1050},
+                {"name": "arroz frito", "price": 1500},
+                {"name": "mariscos", "price": 3000},
+                {"name": "cerdo", "price": 1800},
+                {"name": "vegetales sarteados al carbon", "price": 900},
+                {"name": "ensalada vegetales", "price": 700},
+                {"name": "baguette de atun", "price": 950},
+                {"name": "baguette jamon y queso", "price": 750},
+                {"name": "baguette de pollo", "price": 780},
+                {"name": "hamburguesa clasica", "price": 750},
+                {"name": "pizza", "price": 1050},
+                {"name": "pastas", "price": 1300},
+                {"name": "pelmeni", "price": 1100},
+                {"name": "shawarma", "price": 1000}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "jamon", "price": 250},
+                {"name": "queso", "price": 300},
+                {"name": "pollo", "price": 350},
+                {"name": "huevo", "price": 300},
+                {"name": "atun", "price": 500}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "copa 2 bolas", "price": 320},
+                {"name": "copa 3 bolas", "price": 380},
+                {"name": "tarta pechatniky", "price": 590}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "expreso", "price": 200},
+                {"name": "cortado", "price": 280},
+                {"name": "capuchino", "price": 350},
+                {"name": "americano", "price": 200},
+                {"name": "pechatniky", "price": 680},
+                {"name": "te o infusion", "price": 180}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua natural", "price": 170},
+                {"name": "refresco importando", "price": 350},
+                {"name": "refresco nacional", "price": 250},
+                {"name": "malta", "price": 330},
+                {"name": "malteda", "price": 420},
+                {"name": "energizantes", "price": 350},
+                {"name": "jugo natural", "price": 280},
+                {"name": "jugo de lata", "price": 350},
+                {"name": "batidos de frutas", "price": 470},
+                {"name": "batidos de helado", "price": 550},
+                {"name": "cerveza nacional", "price": 350},
+                {"name": "cerveza importada", "price": 290}
+            ]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

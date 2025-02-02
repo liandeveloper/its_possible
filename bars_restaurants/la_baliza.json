@@ -1,0 +1,78 @@
+{
+    "establishment": ["restaurante"],
+    "name": "la baliza",
+    "address": {
+        "city": "la habana",
+        "town": "la lisa",
+        "coordinates": {
+            "latitude": 23.06752335433779,
+            "longitude": -82.46813129014343
+        }
+    },
+    "contact": {
+        "facebook": "la baliza",
+        "instagram": null,
+        "whatsapp": "53005060",
+        "web": null,
+        "telephone": "78322553"
+    },
+    "schedule": {
+        "monday": "0000-0000",
+        "tuesday": "1000-2130",
+        "wednesday": "1000-2130",
+        "thursday": "1000-2130",
+        "friday": "1000-2130",
+        "saturday": "1000-2130",
+        "sunday": "1000-2130"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["americana", "italiana"],
+    "menu": {
+        "starter": {
+            "items": [null]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "sandwich de jamon y queso", "price": 500},
+                {"name": "hamburguesa", "price": 490},
+                {"name": "super hamburguesa", "price": 950},
+                {"name": "pizza con queso gouda (small)", "price": 450},
+                {"name": "pizza con queso gouda (large)", "price": 700},
+                {"name": "pizza de queso blanco (small)", "price": 350},
+                {"name": "pizza de queso blanco (large)", "price": 520}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "queso", "price": 200},
+                {"name": "jamon", "price": 150}
+            ]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza importada", "price": 250}
+            ]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

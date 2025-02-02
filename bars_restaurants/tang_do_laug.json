@@ -1,0 +1,90 @@
+{
+    "establishment": ["restaurante"],
+    "name": "tong do laug",
+    "address": {
+        "city": "la habana",
+        "town": "centro habana",
+        "coordinates": {
+            "latitude": 23.134994228631488,
+            "longitude": -82.363759151347
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": "55100355",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1000-2100",
+        "tuesday": "1000-2100",
+        "wednesday": "1000-2100",
+        "thursday": "1000-2100",
+        "friday": "1000-2100",
+        "saturday": "1000-2100",
+        "sunday": "1000-2100"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["china"],
+    "menu": {
+        "starter": {
+            "items": [null]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "jiaozi ravioles", "price": 1350},
+                {"name": "bao", "price": 700},
+                {"name": "mia especial tallarines", "price": 1100},
+                {"name": "arroz frito especial", "price": 1100},
+                {"name": "siumi", "price": 1200},
+                {"name": "chunkun rollitos de primavera", "price": 1050},
+                {"name": "sopa china", "price": 990},
+                {"name": "lomo ahumado", "price": 2000},
+                {"name": "mariscos", "price": 2500},
+                {"name": "mar y tierra", "price": 3850},
+                {"name": "camarones", "price": 3600},
+                {"name": "pescado", "price": 1650},
+                {"name": "fajitas de pechuga", "price": 2200}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [
+                {"name": "café", "price": 390},
+                {"name": "té", "price": 170}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua", "price": 220},
+                {"name": "agua caliente", "price": 220}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza", "price": 300},
+                {"name": "cerveza nacional", "price": 500}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "cocteles", "price": 660}
+            ]
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "establishment": ["restaurante"],
+    "name": "entabla2",
+    "address": {
+        "city": "la habana",
+        "town": "boyeros",
+        "coordinates": {
+            "latitude": 23.00580536023271,
+            "longitude": -82.39597846641877
+        }
+    },
+    "contact": {
+        "facebook": "entablados habana/",
+        "instagram": "@entablados.habana",
+        "whatsapp": "51744817",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1000-2200",
+        "tuesday": "1000-2200",
+        "wednesday": "1000-2200",
+        "thursday": "1000-2200",
+        "friday": "1000-2200",
+        "saturday": "1000-2200",
+        "sunday": "1000-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": true,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "credit_card": true
+    },
+    "specialties": ["criolla", "cubana", "caribeña", "internacional"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "caldo de mariscos", "price": 1200},
+                {"name": "eperlan", "price": 1500},
+                {"name": "tacos de cerdo", "price": 1150},
+                {"name": "tacos de langosta", "price": 950},
+                {"name": "frituras de malanga", "price": 350},
+                {"name": "crujientes de pollo", "price": 800},
+                {"name": "coctel de camarón", "price": 1150},
+                {"name": "ceviche de pescado", "price": 1150},
+                {"name": "coctel de langosta", "price": 1050},
+                {"name": "pan con lechón", "price": 1100},
+                {"name": "huevo hervido", "price": 300},
+                {"name": "huevos fritos", "price": 380},
+                {"name": "revoltillo natural", "price": 380}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "langosta grille", "price": 1950},
+                {"name": "langosta al ajillo", "price": 1950},
+                {"name": "langosta enchilada", "price": 2250},
+                {"name": "camarón enchilado", "price": 2300},
+                {"name": "camarón grille", "price": 2150},
+                {"name": "costilla frita", "price": 2600},
+                {"name": "camarón al ajillo", "price": 2150},
+                {"name": "fricase de cerdo", "price": 2250},
+                {"name": "costilla en salsa bbq", "price": 2680},
+                {"name": "bistec gratinado", "price": 2150},
+                {"name": "bistec de cerdo", "price": 1850},
+                {"name": "chuleta de cerdo", "price": 1950},
+                {"name": "masa frita", "price": 2150},
+                {"name": "chuletón de cerdo", "price": 2500},
+                {"name": "super chuletón entabla2", "price": 3200},
+                {"name": "filete de pescado al vino", "price": 2000},
+                {"name": "filete de pescado mediterráneo", "price": 2050},
+                {"name": "filete don pedro", "price": 2900},
+                {"name": "lonja de cerdo", "price": 2150}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "vianda hervida con mojo", "price": 200},
+                {"name": "arroz moro", "price": 250},
+                {"name": "ensalada de vegetales", "price": 200},
+                {"name": "arroz blanco", "price": 200}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "copa de helado", "price": 500}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "café expreso", "price": 150},
+                {"name": "café cortadito", "price": 250},
+                {"name": "café bombón", "price": 550},
+                {"name": "capuchino", "price": 400},
+                {"name": "café con leche", "price": 400}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "jugos naturales", "price": 350},
+                {"name": "limonada frape", "price": 500},
+                {"name": "jugo importado fruta fresca", "price": 300},
+                {"name": "batido de frutas naturales", "price": 450}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza cristal", "price": 600},
+                {"name": "cerveza blue", "price": 450}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "caipirisima", "price": 650},
+                {"name": "cuba libre", "price": 460},
+                {"name": "sangria", "price": 650},
+                {"name": "cubata", "price": 480},
+                {"name": "caipirinha", "price": 550},
+                {"name": "canchanchara", "price": 450},
+                {"name": "caipiroska", "price": 550},
+                {"name": "tinto verano", "price": 600}
+            ]
+        }
+    }
+}

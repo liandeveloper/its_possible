@@ -1,0 +1,75 @@
+{
+    "establishment": ["restaurante"],
+    "name": "el vaquerito",
+    "address": {
+        "city": "la habana",
+        "town": "arroyo naranjo",
+        "coordinates": {
+            "latitude": 23.004387110083822,
+            "longitude": -82.32730012513493
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": "63712913",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1100-2300",
+        "tuesday": "1100-2300",
+        "wednesday": "1100-2300",
+        "thursday": "1100-2300",
+        "friday": "1100-2300",
+        "saturday": "1100-2300",
+        "sunday": "1100-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "credit_card": true
+    },
+    "specialties": ["criolla"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "croquetas", "price": 280},
+                {"name": "bolitas de carne", "price": 280},
+                {"name": "chicharron", "price": 280}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "arroz moro, cerdo asado, yuca con mojo, ensalada", "price": 1000},
+                {"name": "arroz moro, pollo asado, yuca con mojo, ensalada", "price": 750},
+                {"name": "ropa vieja, yuca, ensalada", "price": 600},
+                {"name": "enchilado de camaron, arroz moro, yuca, ensalada", "price": 560}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza de lata", "price": 280}
+            ]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

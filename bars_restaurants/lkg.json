@@ -1,0 +1,85 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "lkg",
+    "address": {
+        "city": "la habana",
+        "town": "la lisa",
+        "coordinates": {
+            "latitude": 23.070410939396403,
+            "longitude": -82.45756089679794
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1100-2200",
+        "tuesday": "1100-2200",
+        "wednesday": "1100-2200",
+        "thursday": "1100-2200",
+        "friday": "1100-2200",
+        "saturday": "1100-2200",
+        "sunday": "1100-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["caribeña"],
+    "menu": {
+        "starter": {
+            "items": [null]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "bistec", "price": 900},
+                {"name": "fricase", "price": 900},
+                {"name": "pollo", "price": 1200},
+                {"name": "cangrejo", "price": 550},
+                {"name": "arroz frito", "price": 600},
+                {"name": "langosta", "price": 1400},
+                {"name": "rueda de pescado", "price": 950},
+                {"name": "pescado entero", "price": 950},
+                {"name": "pizza de jamon", "price": 300},
+                {"name": "pizza de queso", "price": 200},
+                {"name": "pizza de doble queso", "price": 250},
+                {"name": "pizza de queso gouda", "price": 250}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [
+                {"name": "expresso", "price": 20}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua mineral", "price": 150},
+                {"name": "refresco importado", "price": 230},
+                {"name": "batido de frutas", "price": 235},
+                {"name": "cerveza", "price": 250}
+            ]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

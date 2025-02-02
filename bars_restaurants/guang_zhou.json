@@ -1,0 +1,127 @@
+{
+    "establishment": ["restaurante"],
+    "name": "guang zhou",
+    "address": {
+        "city": "la habana",
+        "town": "centro habana",
+        "coordinates": {
+            "latitude": 23.134985027583145,
+            "longitude": -82.36378331935656
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": "78615229"
+    },
+    "schedule": {
+        "monday": "1100-2400",
+        "tuesday": "1100-2400",
+        "wednesday": "1100-2400",
+        "thursday": "1100-2400",
+        "friday": "1100-2400",
+        "saturday": "1100-2400",
+        "sunday": "1100-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["china", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "arroz blanco", "price": 315},
+                {"name": "arroz frito", "price": 1710},
+                {"name": "arroz moro", "price": 415},
+                {"name": "arroz frito especial", "price": 2110},
+                {"name": "arroz frito familiar", "price": 2970},
+                {"name": "chao mian (fideos fritos)", "price": 900},
+                {"name": "chop suey de pollo", "price": 1700},
+                {"name": "chop suey de cerdo", "price": 1900},
+                {"name": "chop suey de vegetales", "price": 800},
+                {"name": "viandas fritas del día", "price": 300},
+                {"name": "yuca con mojo", "price": 250},
+                {"name": "ensalada mixta", "price": 300}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pollo a la plancha", "price": 1800},
+                {"name": "cerdo a la plancha", "price": 2000},
+                {"name": "res a la plancha", "price": 2100},
+                {"name": "pescado a la plancha", "price": 2100},
+                {"name": "pollo grille", "price": 1500},
+                {"name": "pescado grille", "price": 1500},
+                {"name": "marisco a la plancha", "price": 3100},
+                {"name": "marisco de la tierra", "price": 4200},
+                {"name": "marisco del mar", "price": 5500},
+                {"name": "mar y tierra", "price": 5900},
+                {"name": "cazuela de mariscos", "price": 5575},
+                {"name": "cerdo grille", "price": 1650},
+                {"name": "spaghetti napolitanos", "price": 1080},
+                {"name": "pizza napolitana con queso blanco", "price": 1150},
+                {"name": "pizza napolitana con queso gouda", "price": 1250}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "tomate natural", "price": 200},
+                {"name": "pimiento", "price": 200},
+                {"name": "cebolla", "price": 200},
+                {"name": "piña", "price": 200},
+                {"name": "jamón", "price": 450},
+                {"name": "chorizo", "price": 300},
+                {"name": "bacon", "price": 300},
+                {"name": "champiñones", "price": 300},
+                {"name": "aceitunas", "price": 250},
+                {"name": "atún", "price": 500},
+                {"name": "queso blanco", "price": 250},
+                {"name": "marisco", "price": 750},
+                {"name": "jamón serrano", "price": 500}
+            ]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [
+                {"name": "café expreso", "price": 100},
+                {"name": "café americano", "price": 150},
+                {"name": "café cortado", "price": 150},
+                {"name": "café capsula", "price": 300},
+                {"name": "té", "price": 60}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua", "price": 190},
+                {"name": "agua 1.5l", "price": 280},
+                {"name": "refresco nacional", "price": 350},
+                {"name": "refresco importado", "price": 350},
+                {"name": "malta", "price": 400},
+                {"name": "malteada (malta con leche)", "price": 550},
+                {"name": "kermato (jugo de tomate)", "price": 200},
+                {"name": "jugo natural", "price": 325},
+                {"name": "jugo en conserva", "price": 350}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza nacional", "price": 385},
+                {"name": "cerveza importada", "price": 300}
+            ]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "establishment": ["restaurante"],
+    "name": "foodtruck pelegrin",
+    "address": {
+        "city": "la habana",
+        "town": "playa",
+        "coordinates": {
+            "latitude": 23.111808672085502,
+            "longitude": -82.44090092922819
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": "@food_truck_pelegrin",
+        "whatsapp": "52819512",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0800-2100",
+        "tuesday": "0800-2100",
+        "wednesday": "0800-2100",
+        "thursday": "0800-2100",
+        "friday": "0800-2100",
+        "saturday": "0800-2100",
+        "sunday": "0800-2100"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["cubana", "internacional"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "bolitas de queso", "price": 850},
+                {"name": "papas fritas", "price": 600},
+                {"name": "croquetas", "price": 700},
+                {"name": "sándwich jamon y queso", "price": 750},
+                {"name": "sandwich atun", "price": 850},
+                {"name": "sándwich cubano", "price": 1200},
+                {"name": "sándwich pelegrin", "price": 1300},
+                {"name": "sandwich pechuga", "price": 2500},
+                {"name": "perro caliente", "price": 750},
+                {"name": "palomitas", "price": 850}
+            ]
+        },
+        "main_courses": {
+            "items": [null]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [
+                {"name": "expresso", "price": 150},
+                {"name": "cortado", "price": 250},
+                {"name": "capuchino", "price": 400},
+                {"name": "café bombon", "price": 450},
+                {"name": "frapuchino", "price": 550},
+                {"name": "carajillo", "price": 350},
+                {"name": "leche fría", "price": 370}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "jugos", "price": 270}
+            ]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

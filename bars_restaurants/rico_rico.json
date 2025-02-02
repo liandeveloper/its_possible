@@ -1,0 +1,104 @@
+{
+    "establishment": ["restaurante"],
+    "name": "rico rico",
+    "address": {
+        "city": "la habana",
+        "town": "cerro",
+        "coordinates": {
+            "latitude": 23.12627363995597,
+            "longitude": -82.38090833528463
+        }
+    },
+    "contact": {
+        "facebook": "ricoricopizzeria",
+        "instagram": "@ricoricopizzeria",
+        "whatsapp": "51483086",
+        "web": null,
+        "telephone": "78701632"
+    },
+    "schedule": {
+        "monday": "0900-2300",
+        "tuesday": "0900-2300",
+        "wednesday": "0900-2300",
+        "thursday": "0900-2300",
+        "friday": "0900-2300",
+        "saturday": "0900-2300",
+        "sunday": "0900-2300"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["italiana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "ensalada fria de atun (pequeña)", "price": 645},
+                {"name": "ensalada fria de atun (mediana)", "price": 1200},
+                {"name": "ensalada fria de atun (grande)", "price": 2205},
+                {"name": "ensalada fria de jamon y queso (pequeña)", "price": 495},
+                {"name": "ensalada fria de atun (mediana)", "price": 950},
+                {"name": "ensalada fria de atun (grande)", "price": 1745},
+                {"name": "pizzeta de napole", "price": 230},
+                {"name": "pizzeta de chorizo", "price": 325},
+                {"name": "bastones de queso", "price": 780},
+                {"name": "empanadas gallegas", "price": 380},
+                {"name": "tequeños", "price": 350}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pizza napoles", "price": 920},
+                {"name": "pasta napoles", "price": 920},
+                {"name": "pasta carbonara", "price": 1000},
+                {"name": "calzone napoles", "price": 1090},
+                {"name": "megacalzone", "price": 1440},
+                {"name": "lasaña boloñesa", "price": 1550},
+                {"name": "lasaña de jamon", "price": 1490}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "aceitunas", "price": 220},
+                {"name": "piña", "price": 220},
+                {"name": "cebolla", "price": 400},
+                {"name": "atun", "price": 550},
+                {"name": "chorizo", "price": 2390},
+                {"name": "bacon", "price": 360},
+                {"name": "jamon", "price": 320},
+                {"name": "jamon serrano", "price": 480},
+                {"name": "parmesano", "price": 350},
+                {"name": "gouda", "price": 360},
+                {"name": "lomo ahumado", "price": 380},
+                {"name": "queso azul", "price": 300}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "pastelito de ojaldre de guayaba o coco", "price": 260},
+                {"name": "pastelito de ojaldre de jamon y queso", "price": 280},
+                {"name": "flan", "price": 590}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "frappi rico", "price": 180}
+            ]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

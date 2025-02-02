@@ -1,0 +1,100 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "teniente rey 360",
+    "address": {
+        "city": "la habana",
+        "town": "la habana vieja",
+        "coordinates": {
+            "latitude": 23.136167028292387,
+            "longitude": -82.35497380716978
+        }
+    },
+    "contact": {
+        "facebook": "teniente rey 360",
+        "instagram": null,
+        "whatsapp": "52968939",
+        "web": null,
+        "telephone": "78602916"
+    },
+    "schedule": {
+        "monday": "1100-2130",
+        "tuesday": "1100-2130",
+        "wednesday": "1100-2130",
+        "thursday": "1100-2130",
+        "friday": "1100-2130",
+        "saturday": "1100-2130",
+        "sunday": "1100-2130"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["caribeña", "latina", "cubana", "sudamericana", "centroamericana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "croquetas", "price": 400},
+                {"name": "bolitas de queso", "price": 500},
+                {"name": "tostones rellenos", "price": 600},
+                {"name": "garbanzos fritos", "price": 700}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pechuga de pollo", "price": 1950},
+                {"name": "fajitas de pechuga de pollo", "price": 2000},
+                {"name": "spaguettis", "price": null},
+                {"name": "ropa vieja", "price": 2000},
+                {"name": "picadillo a la cubana", "price": 1500},
+                {"name": "masas de cerdo", "price": 1700},
+                {"name": "fricase de cerdo", "price": 1750},
+                {"name": "solomillo", "price": 1900}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "arroz", "price": 200},
+                {"name": "chatinos", "price": 300},
+                {"name": "yuca", "price": 200}
+            ]
+        },
+        "desserts": null,
+        "coffee": null,
+        "beverages": {
+            "items": [
+                {"name": "agua natural nacional", "price": 250},
+                {"name": "agua tonica", "price": 450},
+                {"name": "refrescos nacionales", "price": 380},
+                {"name": "refrescos importados", "price": 420},
+                {"name": "malta nacional", "price": 420},
+                {"name": "kermato", "price": 500},
+                {"name": "cerveza nacional lata", "price": 360},
+                {"name": "cerveza nacional botella", "price": 460},
+                {"name": "cerveza importada", "price": 460}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "coctel de camarones", "price": 700},
+                {"name": "coctel de langosta", "price": 700},
+                {"name": "langosta", "price": 250000},
+                {"name": "colas de langosta", "price": 260000},
+                {"name": "camarones a la orden", "price": 2500},
+                {"name": "camarones rebozados", "price": 2800},
+                {"name": "pulpo", "price": 2700},
+                {"name": "cazuelita tte rey", "price": 2900},
+                {"name": "mariscada tte rey", "price": 12900},
+                {"name": "filete de pescado", "price": 2400},
+                {"name": "filet mignon", "price": 3200},
+                {"name": "punta de filete", "price": 2900},
+                {"name": "filete jhonvill", "price": 3500}
+            ]
+        }
+    }
+}

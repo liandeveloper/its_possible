@@ -1,0 +1,78 @@
+{
+    "establishment": ["restaurante"],
+    "name": "hamburgo",
+    "address": {
+        "city": "la habana",
+        "town": "centro habana",
+        "coordinates": {
+            "latitude": 23.131235737365408,
+            "longitude": -82.37630082066377
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0900-1900",
+        "tuesday": "0900-1900",
+        "wednesday": "0900-1900",
+        "thursday": "0900-1900",
+        "friday": "0900-1900",
+        "saturday": "0900-1900",
+        "sunday": "0900-1900"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["americana"],
+    "menu": {
+        "starter": {
+            "items": [null]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "hamburguesa de cerdo (220g)", "price": 275},
+                {"name": "hamburguesa de res (220g)", "price": 275},
+                {"name": "hamburguesa vegetal con aderezos (235g)", "price": 300},
+                {"name": "super hamburguesa (435g)", "price": 550}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "queso gouda (50g)", "price": 150},
+                {"name": "jamon bravo (50g)", "price": 120},
+                {"name": "jamon serrano (50g)", "price": 250},
+                {"name": "aceitunas (50g)", "price": 120},
+                {"name": "vegetales encurtidos (50g)", "price": 80},
+                {"name": "papas fritas (50g)", "price": 75},
+                {"name": "papas fritas (100g)", "price": 150}
+            ]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

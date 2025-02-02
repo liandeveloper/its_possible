@@ -1,0 +1,166 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "jota_jota",
+    "address": {
+        "city": "la habana",
+        "town": "playa",
+        "coordinates": {
+            "latitude": 23.130053196144022,
+            "longitude": -82.41351684242505
+        }
+    },
+    "contact": {
+        "facebook": "jotajota",
+        "instagram": "@jota_jota_restaurante_habana",
+        "whatsapp": "50021059",
+        "web": "https://elyerromenu.com/b/jotajota/info",
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1200-2400",
+        "tuesday": "1200-2400",
+        "wednesday": "1200-2400",
+        "thursday": "1200-2400",
+        "friday": "1200-2400",
+        "saturday": "1200-2400",
+        "sunday": "1200-2400"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["cubana", "internacional"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "sw de atun", "price": 1200},
+                {"name": "sw de jamon y queso", "price": 920},
+                {"name": "jota jota", "price": 1600},
+                {"name": "cheeseburguer", "price": 1250},
+                {"name": "big tasty", "price": 1250},
+                {"name": "sencilla", "price": 1000},
+                {"name": "carpaccio res", "price": 4500},
+                {"name": "picadera jj", "price": 3800},
+                {"name": "desayuno ij", "price": 2500},
+                {"name": "tabla de jamon serrano", "price": 2000},
+                {"name": "ceviche", "price": 2000},
+                {"name": "coctel de langosta", "price": 1800},
+                {"name": "montado de salmon", "price": 1750},
+                {"name": "tabla de queso", "price": 1650},
+                {"name": "coctel de camaron", "price": 1600},
+                {"name": "eperlan de pescado", "price": 1500},
+                {"name": "queso frito 1", "price": 400},
+                {"name": "empanadas de la abuela", "price": 850},
+                {"name": "croquetas", "price": 800}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "filete mignon", "price": 6500},
+                {"name": "filete de douche", "price": 4500},
+                {"name": "rinonada", "price": 3500},
+                {"name": "vaca frita", "price": 2200},
+                {"name": "ropa vieja", "price": 2200},
+                {"name": "t bone de cerdo", "price": 3800},
+                {"name": "masa de cerdo", "price": 2500},
+                {"name": "pescado jon bille langosta", "price": 3800},
+                {"name": "pescado jon bille camarones", "price": 3500},
+                {"name": "filete de pescado", "price": 2500},
+                {"name": "camaron al gusto", "price": 3500},
+                {"name": "langosta al gusto", "price": 3000},
+                {"name": "pizza de jamon serrano", "price": 2750},
+                {"name": "pizza 4 quesos", "price": 2500},
+                {"name": "pizza de langosta", "price": 2200},
+                {"name": "pizza de camarones", "price": 2200},
+                {"name": "pizza c ropa vieja", "price": 2200},
+                {"name": "pizza de vegetales", "price": 2000},
+                {"name": "pizza salmon", "price": 1900},
+                {"name": "pizza hawaiana", "price": 1900},
+                {"name": "pizza jamon", "price": 1800},
+                {"name": "pizza de atun", "price": 1750},
+                {"name": "pizza de chorizo", "price": 1700},
+                {"name": "pizza margarita", "price": 1500},
+                {"name": "pizza de cebolla", "price": 1400},
+                {"name": "pizza napolitana", "price": 1200},
+                {"name": "focaccia", "price": 700},
+                {"name": "fettuccine frutti di mare", "price": 3200},
+                {"name": "fettuccine con camaron o langosta", "price": 3000},
+                {"name": "fettuccine carbonara", "price": 3000},
+                {"name": "fettuccine jamon serrano", "price": 2500},
+                {"name": "fettuccine 4 quesos", "price": 2500},
+                {"name": "fettuccine q parmesano y jamon", "price": 2350},
+                {"name": "fettuccine bolognesa", "price": 2200},
+                {"name": "fettuccine con q azul", "price": 2000},
+                {"name": "fettuccine salmon", "price": 1850},
+                {"name": "fettuccine de atun", "price": 1750},
+                {"name": "fettuccine alfredo", "price": 1700},
+                {"name": "fettuccine al pesto", "price": 1650}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "copa de helado", "price": 900}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "cafe expresso", "price": 200},
+                {"name": "cafe americano", "price": 200},
+                {"name": "cafe cortado", "price": 300},
+                {"name": "cafe capuchino", "price": 500},
+                {"name": "cafe frappuccino", "price": 550},
+                {"name": "cafe con leche", "price": 350},
+                {"name": "cafe bombon", "price": 500}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua natural 500ml", "price": 200},
+                {"name": "pepsy cola", "price": 350},
+                {"name": "refresco 7 up limon", "price": 350},
+                {"name": "energizante times flies", "price": 250},
+                {"name": "vaso jugo de frutas caja", "price": 250},
+                {"name": "jugo natural fruta", "price": 250},
+                {"name": "limonada frappe", "price": 650},
+                {"name": "limonada natural", "price": 650},
+                {"name": "limonada hierba buena", "price": 700}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza corona", "price": 650},
+                {"name": "cerveza cristal botella", "price": 450},
+                {"name": "cerveza cristal lata", "price": 400},
+                {"name": "cerveza modelo", "price": 650},
+                {"name": "cerveza bucanero botella", "price": 450},
+                {"name": "cerveza bucanero lata", "price": 400}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "mojito", "price": 900},
+                {"name": "caipiroska", "price": 850},
+                {"name": "caipiroska absoluta", "price": 1100},
+                {"name": "caipiroska ciroc", "price": 1200},
+                {"name": "caipiroska gordons", "price": 900},
+                {"name": "caipiroska grey goose", "price": 1200},
+                {"name": "caipiroska samaraskaya", "price": 670},
+                {"name": "caipirissima", "price": 550},
+                {"name": "caipirina", "price": 600},
+                {"name": "caipiriacho", "price": 550},
+                {"name": "canchanchara", "price": 500},
+                {"name": "sangria", "price": 850},
+                {"name": "gin tonic base", "price": 700}
+            ]
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "establishment": ["restaurante"],
+    "name": "la yaya",
+    "address": {
+        "city": "la habana",
+        "town": "marianao",
+        "coordinates": {
+            "latitude": 23.081534878689336,
+            "longitude": -82.42156649198839
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": "52016522",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1100-2300",
+        "tuesday": "1100-2300",
+        "wednesday": "1100-2300",
+        "thursday": "1100-2300",
+        "friday": "1200-2400",
+        "saturday": "1200-2400",
+        "sunday": "1200-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla", "italiana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "superpicadera", "price": 2500},
+                {"name": "tostones rellenos", "price": 600},
+                {"name": "frituras de malanga", "price": 500},
+                {"name": "papas fritas", "price": 500},
+                {"name": "croquetas", "price": 600}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "fajitas de pollo con papa", "price": 900},
+                {"name": "pizza napolitana", "price": 1000},
+                {"name": "pizza doble queso", "price": 1300},
+                {"name": "pizza de jamon", "price": 1350},
+                {"name": "spaghetti con queso gouda", "price": 700},
+                {"name": "spaghetti doble queso", "price": 1000}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "helados gusto", "price": 1000}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "refrescos importados", "price": 250},
+                {"name": "malta santa isabel", "price": 280},
+                {"name": "jugo de lata", "price": 280},
+                {"name": "jugos caja", "price": 650}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cervezas importadas", "price": 250},
+                {"name": "cerveza cubetazo", "price": 2700},
+                {"name": "termo de cerveza", "price": 2000}
+            ]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

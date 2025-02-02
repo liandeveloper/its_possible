@@ -1,0 +1,101 @@
+{
+    "establishment": ["restaurante"],
+    "name": "ivonne café",
+    "address": {
+        "city": "la habana",
+        "town": "centro habana",
+        "coordinates": {
+            "latitude": 23.138905560172887,
+            "longitude": -82.37656169182799
+        }
+    },
+    "contact": {
+        "facebook": "café ivonne",
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0900-2200",
+        "tuesday": "0900-2200",
+        "wednesday": "0900-2200",
+        "thursday": "0900-2200",
+        "friday": "0900-2200",
+        "saturday": "0900-2200",
+        "sunday": "0900-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["italiana", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [null]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pizza queso blanco", "price": 350},
+                {"name": "pizza grande queso blanco", "price": 500},
+                {"name": "pizza pequeña gouda", "price": 600},
+                {"name": "pizza grande gouda", "price": 850},
+                {"name": "spaghetti blanco", "price": 700},
+                {"name": "spaghetti gouda", "price": 850}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "cebolla", "price": 200},
+                {"name": "jamón", "price": 200},
+                {"name": "aceituna", "price": 200}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "tartaleta", "price": 350},
+                {"name": "donut", "price": 170},
+                {"name": "coffee cake", "price": 160},
+                {"name": "empanada", "price": 250},
+                {"name": "cangrejitos", "price": 250},
+                {"name": "rollitos", "price": 200},
+                {"name": "pasteles", "price": 100},
+                {"name": "cakes", "price": 4500}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "expreso", "price": 100},
+                {"name": "cortado", "price": 150},
+                {"name": "con leche", "price": 100},
+                {"name": "americano", "price": 100},
+                {"name": "capuchino", "price": 300},
+                {"name": "bombón", "price": 300},
+                {"name": "frappuccino", "price": 750}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "aguas", "price": 250},
+                {"name": "refrescos", "price": 250},
+                {"name": "limonada frappe", "price": 850},
+                {"name": "batido fruta", "price": 550},
+                {"name": "batido helado", "price": 850}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cervezas", "price": 300}
+            ]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "leyendhabana",
+    "address": {
+        "city": "la habana",
+        "town": "cerro",
+        "coordinates": {
+            "latitude": 23.119358590376347,
+            "longitude": -82.37193704950933
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": "@restaurante.leyendhabana",
+        "whatsapp": null,
+        "web": "leyendhabana.com",
+        "telephone": "78781332"
+    },
+    "schedule": {
+        "monday": "1200-2300",
+        "tuesday": "1200-2300",
+        "wednesday": "1200-2300",
+        "thursday": "1200-2300",
+        "friday": "1200-2300",
+        "saturday": "1200-2300",
+        "sunday": "1200-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["mexicana", "caribeña", "latina", "internacional", "cubana", "española"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "tartaletas mixtas", "price": 1220},
+                {"name": "pulpitos al ajillo", "price": 1250},
+                {"name": "pimientos de piquillo rellenos", "price": 1280},
+                {"name": "frituras de malanga", "price": 580},
+                {"name": "rollitos de salmón rellenos de queso crema y uvas pasas", "price": 1600}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "filete mignon con salsa a elección", "price": 3800},
+                {"name": "suprema de pollo a la crema", "price": 2080},
+                {"name": "cordero asado al romero", "price": 2180},
+                {"name": "filete de salmón rosa grillé", "price": 3280},
+                {"name": "langosta grille", "price": 3680},
+                {"name": "camarones leyendhabana perfumados al vino blanco", "price": 2480},
+                {"name": "filete de pescado con crema de limon, uvas pasas y frutos secos", "price": 2290}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "tarta de crema", "price": 1235},
+                {"name": "brownie", "price": 1235}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua ciego montero mineral gaseada", "price": 320},
+                {"name": "agua ciego montero mineral natural", "price": 320},
+                {"name": "agua ciego montero tónica", "price": 320},
+                {"name": "agua fever tree tonic", "price": 1600},
+                {"name": "agua mg tonic", "price": 960},
+                {"name": "agua panna", "price": 800},
+                {"name": "agua san pellegrino", "price": 800},
+                {"name": "agua schweppes tonic", "price": 1280},
+                {"name": "malta importada", "price": 480},
+                {"name": "malta nacional", "price": 385},
+                {"name": "refresco coca cola", "price": 625},
+                {"name": "refresco fanta", "price": 625},
+                {"name": "refresco ironbeer", "price": 320},
+                {"name": "refresco kermato", "price": 560},
+                {"name": "refresco limon", "price": 320},
+                {"name": "refresco naranja", "price": 320},
+                {"name": "refresco pepsi", "price": 625},
+                {"name": "refresco piñita", "price": 320},
+                {"name": "refresco sprite", "price": 625},
+                {"name": "refresco tukola", "price": 320},
+                {"name": "refresco tukola light", "price": 320},
+                {"name": "jugo la estancia", "price": 480},
+                {"name": "jugos naturales", "price": 480}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza importada", "price": 800},
+                {"name": "cerveza nacional", "price": 560}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "coctel sex on the beach", "price": 960},
+                {"name": "coctel screwdriver", "price": 960},
+                {"name": "coctel mojito", "price": 800},
+                {"name": "coctel cubanito", "price": 800},
+                {"name": "coctel cubalibre", "price": 800}
+            ]
+        }
+    }
+}

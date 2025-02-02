@@ -1,0 +1,100 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "tu tiempo",
+    "address": {
+        "city": "la habana",
+        "town": "centro habana",
+        "coordinates": {
+            "latitude": 23.1401557660662,
+            "longitude": -82.37586279184762
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": "52701451",
+        "web": null,
+        "telephone": "78737259"
+    },
+    "schedule": {
+        "monday": "0800-2000",
+        "tuesday": "0800-2000",
+        "wednesday": "0800-2000",
+        "thursday": "0800-2000",
+        "friday": "0800-2000",
+        "saturday": "0800-2000",
+        "sunday": "0800-2000"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["cubana"],
+    "menu": {
+        "starter": {
+            "items": [null]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "combo 26 (tu tiempo)", "price": 5000},
+                {"name": "fricase de pollo", "price": 2000},
+                {"name": "bistec de res", "price": 3300},
+                {"name": "arroz con pollo", "price": 2000},
+                {"name": "combo 1", "price": 1500},
+                {"name": "combo 2", "price": 1800},
+                {"name": "combo 3", "price": 2000},
+                {"name": "combo 4", "price": 2000},
+                {"name": "combo 5", "price": 2300},
+                {"name": "combo 6", "price": 2600},
+                {"name": "combo 7", "price": 3000},
+                {"name": "combo 8", "price": 2000},
+                {"name": "combo 9", "price": 2000},
+                {"name": "combo 10", "price": 2100},
+                {"name": "combo 11", "price": 2000},
+                {"name": "combo 12", "price": 2000},
+                {"name": "combo 13", "price": 2000},
+                {"name": "combo 14", "price": 2000},
+                {"name": "combo 15", "price": 2000},
+                {"name": "combo 16", "price": 2300},
+                {"name": "combo 17", "price": 2000},
+                {"name": "combo 18", "price": 2000},
+                {"name": "combo 19", "price": 2300},
+                {"name": "combo 20", "price": 2300},
+                {"name": "combo 21", "price": 3000},
+                {"name": "combo 22", "price": 3000},
+                {"name": "combo 23", "price": 3000},
+                {"name": "combo 24", "price": 2000},
+                {"name": "combo 25", "price": 2500}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "arroz con leche", "price": 300},
+                {"name": "coctel de frutas", "price": 150}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "batido de helado", "price": 400}
+            ]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

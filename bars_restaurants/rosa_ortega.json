@@ -1,0 +1,154 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "la rosa de ortega",
+    "address": {
+        "city": "la habana",
+        "town": "diez de octubre",
+        "coordinates": {
+            "latitude": 23.09090965711562,
+            "longitude": -82.37153742065038
+        }
+    },
+    "contact": {
+        "facebook": "la rosa de ortega",
+        "instagram": "@la_rosa_de_ortega",
+        "whatsapp": "52464574",
+        "web": "www.larosadeortega.com",
+        "telephone": "76414329"
+    },
+    "schedule": {
+        "monday": "0730-2300",
+        "tuesday": "0730-2300",
+        "wednesday": "0730-2300",
+        "thursday": "0730-2300",
+        "friday": "0730-2300",
+        "saturday": "0730-2300",
+        "sunday": "0730-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["cubana", "criolla"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "tabla de jamón serrano y queso", "price": 3125},
+                {"name": "cóctel de camarones en lecho de vegetales", "price": 1650},
+                {"name": "carpaccio", "price": 3000},
+                {"name": "croquetas de la casa", "price": 825},
+                {"name": "ceviche de pescado en vinagreta de cachucha y culantro", "price": null},
+                {"name": "brusquetas", "price": 875},
+                {"name": "eperlán", "price": 1126},
+                {"name": "tamales criollos", "price": 500},
+                {"name": "cesta de pan", "price": 625},
+                {"name": "montadito de tamal", "price": 625},
+                {"name": "ensalada caprese", "price": 1185},
+                {"name": "sandwich de queso", "price": 1450},
+                {"name": "sandwich de jamón y queso", "price": 1625},
+                {"name": "sandwich cubano", "price": 2000},
+                {"name": "sandwich de atún", "price": 1500},
+                {"name": "sandwich de pechuga de pollo", "price": 2000},
+                {"name": "ensalada catalana", "price": 1500},
+                {"name": "ensalada silvestre", "price": 1625}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pechuga de pollo a la parmesana", "price": 2750},
+                {"name": "pechuga de pollo empardada", "price": 3000},
+                {"name": "vaca frita", "price": 2125},
+                {"name": "ropa vieja", "price": 2125},
+                {"name": "solomillo de res en salsa demiglas", "price": 5750},
+                {"name": "cerdo asado", "price": 2375},
+                {"name": "tacos de pollo en salsa barbecue", "price": 1500},
+                {"name": "camarones enchilados", "price": 2800},
+                {"name": "camarones al ajillo", "price": 2950},
+                {"name": "filete de pescado grillé", "price": 2500},
+                {"name": "filete de pescado en salsa verde", "price": 2750},
+                {"name": "filete de pescado john-bill", "price": 3125},
+                {"name": "grillada del mar", "price": 5250},
+                {"name": "pasta carbonara", "price": 1878},
+                {"name": "pasta tomate y albahaca", "price": 1200},
+                {"name": "pasta frutti di mare", "price": 2600},
+                {"name": "pasta al pesto", "price": 1500},
+                {"name": "pasta amatriciana", "price": 1750},
+                {"name": "paella del mar", "price": 2500},
+                {"name": "paella de la tierra", "price": 2125},
+                {"name": "paella mar y tierra", "price": 2675},
+                {"name": "risotto al pesto", "price": 1625},
+                {"name": "risotto de mariscos", "price": 2750}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "arroz", "price": 250},
+                {"name": "arroz moro", "price": 375},
+                {"name": "vegetales salteados en aceite de oliva", "price": 575},
+                {"name": "ensalada de vegetales frescos", "price": 625}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "copa de helado", "price": 925},
+                {"name": "tarta fría de chocolate", "price": 875}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "espresso", "price": 250},
+                {"name": "cortado", "price": 300},
+                {"name": "café con leche o chocolate", "price": 450}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua ciego montero 1.5 l", "price": 625},
+                {"name": "agua ciego montero 0.5 l", "price": 375},
+                {"name": "agua gaseada nacional", "price": 375},
+                {"name": "agua tónica nacional", "price": 500},
+                {"name": "agua tónica importada", "price": 875},
+                {"name": "refrescos importados", "price": 675},
+                {"name": "refrescos nacionales", "price": 475},
+                {"name": "refrescos piñita", "price": 626},
+                {"name": "malta", "price": 625},
+                {"name": "time flies", "price": 500},
+                {"name": "de lata", "price": 575},
+                {"name": "naturales", "price": 250},
+                {"name": "limonada", "price": 500}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "enlatada brok", "price": 425},
+                {"name": "enlatadas", "price": 575},
+                {"name": "botella", "price": 625},
+                {"name": "enlatada cristal - bucanero - corona", "price": 625},
+                {"name": "botella cristal - bucanero - corona", "price": 675}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "mojito", "price": 675},
+                {"name": "cubata", "price": 750},
+                {"name": "cuba libre", "price": 675},
+                {"name": "daiquirí", "price": 675},
+                {"name": "daiquirí frutal", "price": 750},
+                {"name": "caipirinha", "price": 550},
+                {"name": "margarita", "price": 700},
+                {"name": "screw driver", "price": 825},
+                {"name": "sangría", "price": 875},
+                {"name": "piña colada", "price": 876},
+                {"name": "gintonic", "price": 750},
+                {"name": "gintonic de coco", "price": 875},
+                {"name": "cuban flavor", "price": 875}
+            ]
+        }
+    }
+}

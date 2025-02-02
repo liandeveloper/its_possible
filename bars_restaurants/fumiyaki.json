@@ -1,0 +1,149 @@
+{
+    "establishment": ["restaurante"],
+    "name": "fuumiyaki",
+    "address": {
+        "city": "la habana",
+        "town": "plaza de la revolución",
+        "coordinates": {
+            "latitude": 23.12226101881169,
+            "longitude": -82.40508001808305
+        }
+    },
+    "contact": {
+        "facebook": "fuumiyaki.cuba",
+        "instagram": "@fuumiyaki",
+        "whatsapp": "52832188",
+        "web": "https://www.fuumiyaki.com/",
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1200-2350",
+        "tuesday": "1200-2350",
+        "wednesday": "1200-2350",
+        "thursday": "1200-2350",
+        "friday": "1200-2350",
+        "saturday": "1200-2350",
+        "sunday": "1200-2350"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["japonesa", "asiática", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "ceviche de pescado", "price": 1000},
+                {"name": "ceviche mixto", "price": 1500},
+                {"name": "gyozas", "price": 850},
+                {"name": "rice paper camarones/langosta/pulpo", "price": 1400},
+                {"name": "rice paper pescado", "price": 1400},
+                {"name": "rice paper pollo/cerdo", "price": 900},
+                {"name": "rollitos primavera", "price": 500},
+                {"name": "sashimi de pescado", "price": 1200},
+                {"name": "sopa de miso", "price": 750},
+                {"name": "tartar de pescado", "price": 1200}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "bocados de langosta en tempura", "price": 2500},
+                {"name": "bocados de tempura de camarones", "price": 2500},
+                {"name": "bocados de tempura de cerdo", "price": 1900},
+                {"name": "bocados de tempura de pescado", "price": 2200},
+                {"name": "bocados de tempura de pollo", "price": 1600},
+                {"name": "chop suey de camarones", "price": 2000},
+                {"name": "chop suey de cerdo", "price": 1800},
+                {"name": "chop suey de langosta", "price": 2000},
+                {"name": "chop suey de pollo", "price": 1500},
+                {"name": "chow mein de camarones", "price": 2000},
+                {"name": "chow mein de cerdo", "price": 1850},
+                {"name": "chow mein de langosta", "price": 2000},
+                {"name": "chow mein de pollo", "price": 1550},
+                {"name": "danza de la reina", "price": 2800},
+                {"name": "enchilado de camarones", "price": 2700},
+                {"name": "enchilado de langosta", "price": 2700},
+                {"name": "kanji bol", "price": 2200},
+                {"name": "ramen", "price": 2200},
+                {"name": "shioyaki de pescado", "price": 2500},
+                {"name": "shogayaki de cerdo", "price": 2200},
+                {"name": "tacos de camarones", "price": 1600},
+                {"name": "tacos de cerdo", "price": 1400},
+                {"name": "tacos de langosta", "price": 1500},
+                {"name": "tacos de pollo", "price": 1100},
+                {"name": "tacos de ropa vieja", "price": 1300},
+                {"name": "teriyaki de camarones", "price": 2600},
+                {"name": "teriyaki de cerdo", "price": 2000},
+                {"name": "teriyaki de langosta", "price": 2600},
+                {"name": "teriyaki de pollo", "price": 1700},
+                {"name": "yaki tori de camarones", "price": 2500},
+                {"name": "yaki tori de cerdo", "price": 1800},
+                {"name": "yaki tori de langosta", "price": 2500},
+                {"name": "yaki tori de pollo", "price": 1500},
+                {"name": "yakisoba de camarones", "price": 2000},
+                {"name": "yakisoba de cerdo", "price": 1850},
+                {"name": "yakisoba de langosta", "price": 2000},
+                {"name": "yakisoba de pollo", "price": 1550}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "ración de tarta flan", "price": 850},
+                {"name": "toffee", "price": 850}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "café expresso", "price": 200},
+                {"name": "café cortado", "price": 300},
+                {"name": "té", "price": 300}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua mineral carbonatada ciego montero", "price": 150},
+                {"name": "agua natural ciego montero", "price": 350},
+                {"name": "refresco santa isabel", "price": 350},
+                {"name": "refresco santa limón", "price": 350},
+                {"name": "refresco santa naranja", "price": 350}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza bucanero", "price": 500},
+                {"name": "cerveza cristal", "price": 500}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "mojito", "price": 700},
+                {"name": "daiquirí", "price": 700},
+                {"name": "caipirinha", "price": 750},
+                {"name": "caipiroska", "price": 750},
+                {"name": "cubanito", "price": 800},
+                {"name": "bloody mary", "price": 850},
+                {"name": "piña colada", "price": 850},
+                {"name": "mimosa", "price": 500},
+                {"name": "gin tonic", "price": 850},
+                {"name": "sangría", "price": 850},
+                {"name": "tequila sunrise", "price": 600},
+                {"name": "margarita", "price": 850},
+                {"name": "old fashion", "price": 800},
+                {"name": "sake", "price": 650},
+                {"name": "mojito sake", "price": 650},
+                {"name": "umeshu mojito", "price": 600},
+                {"name": "matcha highball", "price": 750},
+                {"name": "chuchai", "price": 650}
+            ]
+        }
+    }
+}

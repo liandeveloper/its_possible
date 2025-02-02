@@ -1,0 +1,83 @@
+{
+    "establishment": ["restaurante"],
+    "name": "salchipizza",
+    "address": {
+        "city": "la habana",
+        "town": "centro habana",
+        "coordinates": {
+            "latitude": 23.13412923367649,
+            "longitude": -82.37826298998031
+        }
+    },
+    "contact": {
+        "facebook": "salchipizza",
+        "instagram": "@salchipizza",
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0000-0000",
+        "tuesday": "1300-2300",
+        "wednesday": "1300-2300",
+        "thursday": "1300-2300",
+        "friday": "1300-2300",
+        "saturday": "1300-2300",
+        "sunday": "0000-0000"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "tabla de panes artesanales", "price": 1500},
+                {"name": "terrina de pescado", "price": 2700},
+                {"name": "tinaja de carbón con crema parmentier de verduras de estacion", "price": 2500},
+                {"name": "ensalada de cerdo guayaba y fruta bomba", "price": 2000}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "carretón de boniato, rueda de quimbombó y y látigo de carnero ahumado", "price": 3000},
+                {"name": "volcán de maíz, lava de pescado ardiente y cenizas de pulpo", "price": 3500},
+                {"name": "masa de cerdo con verduras al gratin", "price": 2300},
+                {"name": "lasaña de carne a la boloñesa", "price": 1600},
+                {"name": "señorita de cerdo con verduras al gratin", "price": 3000}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "recuerdos de la infancia", "price": 2000}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "cafe", "price": 150}
+            ]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza nacional", "price": 350},
+                {"name": "cerveza importada", "price": 400}
+            ]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

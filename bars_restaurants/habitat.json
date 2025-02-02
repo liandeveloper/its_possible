@@ -1,0 +1,100 @@
+{
+    "establishment": ["restaurante"],
+    "name": "hábitat",
+    "address": {
+        "city": "la habana",
+        "town": "plaza de la revolución",
+        "coordinates": {
+            "latitude": 23.142049436581914,
+            "longitude": -82.39508647982898
+        }
+    },
+    "contact": {
+        "facebook": "hábitat",
+        "instagram": "@habitat_calzada",
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": null,
+        "tuesday": "1000-2000",
+        "wednesday": "1000-2000",
+        "thursday": "1000-2000",
+        "friday": "1000-2000",
+        "saturday": "1000-2100",
+        "sunday": "1000-2000"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["americana", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "empanadas margaritas 4u", "price": 600}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "hamburguesa sencilla de pollo", "price": 900},
+                {"name": "hamburguesa sencilla de cerdo", "price": 900},
+                {"name": "hamburguesa sencilla de res", "price": 1100},
+                {"name": "hamburguesa mini de pollo", "price": 450},
+                {"name": "hamburguesa mini de cerdo", "price": 450},
+                {"name": "hamburguesa mini de res", "price": 550},
+                {"name": "cheese burguer de pollo", "price": 1050},
+                {"name": "cheese burguer de cerdo", "price": 1050},
+                {"name": "cheese burguer de res", "price": 1150},
+                {"name": "hamburguesota de pollo", "price": 1500},
+                {"name": "hamburguesota de cerdo", "price": 1500},
+                {"name": "hamburguesota de res", "price": 1900},
+                {"name": "pan con lechon", "price": 850},
+                {"name": "mini lechon", "price": 450},
+                {"name": "sandwich jamon y queso", "price": 700},
+                {"name": "sandwich mini j y q", "price": 400},
+                {"name": "sandwich cubano", "price": 1100}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "queso", "price": 150},
+                {"name": "jamon", "price": 150},
+                {"name": "bacon", "price": 250}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "helados", "price": 250},
+                {"name": "mantequilla de maní", "price": 400}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "expresso", "price": 150},
+                {"name": "cortado", "price": 180}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua (500ml)", "price": 220},
+                {"name": "pepsi", "price": 380},
+                {"name": "7up", "price": 380},
+                {"name": "jugo de caja", "price": 280}
+            ]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

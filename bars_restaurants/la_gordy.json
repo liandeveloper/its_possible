@@ -1,0 +1,100 @@
+{
+    "establishment": ["restaurante"],
+    "name": "la gordy",
+    "address": {
+        "city": "la habana",
+        "town": "boyeros",
+        "coordinates": {
+            "latitude": 22.967133915154772,
+            "longitude": -82.38463772280829
+        }
+    },
+    "contact": {
+        "facebook": "restaurante la gordy",
+        "instagram": null,
+        "whatsapp": "59213182",
+        "web": null,
+        "telephone": "76837364"
+    },
+    "schedule": {
+        "monday": "1100-2300",
+        "tuesday": "1100-2300",
+        "wednesday": "1100-2300",
+        "thursday": "1100-2300",
+        "friday": "1100-2300",
+        "saturday": "1100-2300",
+        "sunday": "1100-2300"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["criolla"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "tostones criollos", "price": 200},
+                {"name": "frituras de malanga", "price": 200},
+                {"name": "garbanzos fritos 'la gordy'", "price": 650},
+                {"name": "garbanzos fritos", "price": 600}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "bistec de higado", "price": 600},
+                {"name": "higado a la italiana", "price": 650},
+                {"name": "fricasé de cerdo", "price": 800},
+                {"name": "fajitas de cerdo encebolladas", "price": 850},
+                {"name": "fajitas de cerdo empanadas", "price": 850},
+                {"name": "masas de cerdo fritas", "price": 850},
+                {"name": "bistec de cerdo grillé", "price": 850},
+                {"name": "bistec de cerdo a la pila", "price": 900},
+                {"name": "bistec de cerdo empanado", "price": 950},
+                {"name": "bistec de cerdo gratinado", "price": 950},
+                {"name": "bistec uruguayo", "price": 1200},
+                {"name": "chuleta ahumada gratinada", "price": 950},
+                {"name": "chuleta ahumada", "price": 850},
+                {"name": "ropa de vieja", "price": 700},
+                {"name": "arroz moro", "price": 250},
+                {"name": "arroz frito", "price": 450},
+                {"name": "fajitas de pollo encebolladas", "price": 850},
+                {"name": "fajitas de pollo empanadas", "price": 750},
+                {"name": "pollo deshuesado grillé", "price": 650},
+                {"name": "pollo a la piña", "price": 700},
+                {"name": "pollo deshuesado empanado", "price": 750},
+                {"name": "pollo deshuesado gratinado", "price": 750},
+                {"name": "fajitas de pechuga encebolladas", "price": 850},
+                {"name": "fajitas de pechuga empanadas", "price": 950},
+                {"name": "pechuga de pollo grillé", "price": 850},
+                {"name": "pechuga de pollo a la piña", "price": 900},
+                {"name": "pechuga de pollo empanada", "price": 950},
+                {"name": "pechuga de pollo gratinada", "price": 950},
+                {"name": "pechuga gordon blue", "price": 1200}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

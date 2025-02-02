@@ -1,0 +1,93 @@
+{
+    "establishment": ["restaurante"],
+    "name": "la patrona",
+    "address": {
+        "city": "la habana",
+        "town": "san miguel del padrón",
+        "coordinates": {
+            "latitude": 23.0906213981348,
+            "longitude": -82.37667411357992
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "null-null",
+        "tuesday": "0800-2400",
+        "wednesday": "0800-2400",
+        "thursday": "0800-2400",
+        "friday": "0800-2400",
+        "saturday": "0800-2400",
+        "sunday": "0800-2400"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla"],
+    "menu": {
+        "starter": {
+            "items": [null]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "hamburguesa clasica", "price": 500},
+                {"name": "hamburguesa sencilla", "price": 700},
+                {"name": "hamburguesa grosera", "price": 1200},
+                {"name": "hamburguesa patrona", "price": 1000},
+                {"name": "bistec uruguayo", "price": 2600},
+                {"name": "ropa vieja", "price": 1400},
+                {"name": "escalope de cerdo", "price": 1800},
+                {"name": "bistec de cerdo", "price": 1600},
+                {"name": "arroz frito", "price": 1000},
+                {"name": "pizza la patrona", "price": 1800},
+                {"name": "lasaña", "price": 1250},
+                {"name": "canelones", "price": 1100},
+                {"name": "spaghetti carbonara", "price": 1500}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "flan", "price": 200},
+                {"name": "copa lolita", "price": 400},
+                {"name": "cesta helado", "price": 500},
+                {"name": "tres gracias", "price": 300}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "café express", "price": 150},
+                {"name": "cafe con crema", "price": 180},
+                {"name": "cafe la patrona", "price": 250},
+                {"name": "frapuchino", "price": 250}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "jugos", "price": 100},
+                {"name": "batidos", "price": 300},
+                {"name": "suero helado", "price": 350}
+            ]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

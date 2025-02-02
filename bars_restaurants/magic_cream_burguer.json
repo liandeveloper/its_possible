@@ -1,0 +1,101 @@
+{
+    "establishment": ["restaurante"],
+    "name": "magic's cream & burguer",
+    "address": {
+        "city": "la habana",
+        "town": "arroyo naranjo",
+        "coordinates": {
+            "latitude": 23.079473928614,
+            "longitude": -82.36211812904808
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1100-2200",
+        "tuesday": "1100-2200",
+        "wednesday": "1100-2200",
+        "thursday": "1100-2200",
+        "friday": "1100-2200",
+        "saturday": "1100-2200",
+        "sunday": "1100-2200"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["americana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "croquetas magic's", "price": 400},
+                {"name": "fritura de malanga", "price": 400},
+                {"name": "tacos de pollo", "price": 700},
+                {"name": "tacos de cerdo", "price": 800},
+                {"name": "fajas de pollo", "price": 600},
+                {"name": "bolitas de queso", "price": 500},
+                {"name": "papas fritas", "price": 500}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "hamburguesas de cerdo", "price": 430},
+                {"name": "hamburguesas de pollo", "price": 430},
+                {"name": "hamburguesas doble", "price": 1000},
+                {"name": "hamburguesas super magic's", "price": 1500}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "bola de helado", "price": 70},
+                {"name": "jimaguas", "price": 195},
+                {"name": "ensalada de helado", "price": 350},
+                {"name": "tres gracias", "price": 245}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "malta", "price": 300},
+                {"name": "pepsi", "price": 300},
+                {"name": "refresco de lata", "price": 210}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cervezas importadas", "price": 220},
+                {"name": "cervezas nacionales", "price": 300},
+                {"name": "agrego de michelada", "price": 250}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "piña colada con alcohol", "price": 575},
+                {"name": "cuba libre", "price": 500},
+                {"name": "mojito", "price": 500},
+                {"name": "botella label 5", "price": 3500},
+                {"name": "jw red label", "price": 600},
+                {"name": "ballantine's", "price": 550},
+                {"name": "howells", "price": 300},
+                {"name": "gran marchell", "price": 300},
+                {"name": "pacto navio", "price": 700}
+            ]
+        }
+    }
+}

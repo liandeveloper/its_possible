@@ -1,0 +1,105 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "mythos",
+    "address": {
+        "city": "la habana",
+        "town": "la habana vieja",
+        "coordinates": {
+            "latitude": 23.140326626649397,
+            "longitude": -82.35251446299252
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": "@mythos.havana",
+        "whatsapp": "53616001",
+        "web": "https://elyerromenu.com/b/mythos-restaurante",
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0800-2300",
+        "tuesday": "0800-2300",
+        "wednesday": "0800-2300",
+        "thursday": "0800-2300",
+        "friday": "0800-2300",
+        "saturday": "0800-2300",
+        "sunday": "0800-2300"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["griega", "italiana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "hummus de garbanzo", "price": 700},
+                {"name": "melitzanosalata", "price": 800},
+                {"name": "tzatziki", "price": 600},
+                {"name": "papas fritas con queso feta y oregano", "price": 1300},
+                {"name": "tyropitakias", "price": 1000},
+                {"name": "aceitunas marinadas con queso feta", "price": 700},
+                {"name": "griego pobre", "price": 750},
+                {"name": "saganaki", "price": 1500},
+                {"name": "souvlaki de cerdo", "price": 2500},
+                {"name": "souvlaki de pechuga de pollo", "price": 2100},
+                {"name": "souvlaki de res", "price": 2800},
+                {"name": "souvlaki vegano", "price": 2000},
+                {"name": "souvlaki de queso feta", "price": 2500}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pastitsio", "price": 2300},
+                {"name": "imam", "price": 2000},
+                {"name": "saganaki de langosta o camaron", "price": 3500},
+                {"name": "saganaki de frutos del mar", "price": 4000},
+                {"name": "risotto de yogurt griego", "price": 3000},
+                {"name": "risotto de pulpo", "price": 3700},
+                {"name": "risotto de frutos del mar", "price": 4100},
+                {"name": "pulpo grille", "price": 4200},
+                {"name": "solomillo de cerdo en salsa de limon griega", "price": 3500},
+                {"name": "pasta mediterranea", "price": 3000},
+                {"name": "pasta de camaron al anis", "price": 3200}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "tarta de yogurt griego con reduccion de vino tinto", "price": 1000}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "freddo expresso", "price": 450},
+                {"name": "freddo capucchino", "price": 650}
+            ]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "demeter", "price": 1800},
+                {"name": "afrodita", "price": 2000},
+                {"name": "persefone", "price": 2100},
+                {"name": "hades", "price": 2500},
+                {"name": "dionisio", "price": 2800},
+                {"name": "poseidon", "price": 2500},
+                {"name": "ares", "price": 2400},
+                {"name": "apolo", "price": 2300}
+            ]
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "juanky's pan",
+    "address": {
+        "city": "la habana",
+        "town": "la lisa",
+        "coordinates": {
+            "latitude": 23.072350868212965,
+            "longitude": -82.46030204960273
+        }
+    },
+    "contact": {
+        "facebook": "juanky's pan",
+        "instagram": "@juankys_pan",
+        "whatsapp": null,
+        "web": "https://lalisa.juankyspan.com",
+        "telephone": "72718794"
+    },
+    "schedule": {
+        "monday": "1200-2400",
+        "tuesday": "1200-2400",
+        "wednesday": "1200-2400",
+        "thursday": "1200-2400",
+        "friday": "1200-2400",
+        "saturday": "1200-0200",
+        "sunday": "1200-2400"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["cubana", "americana", "italiana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "croquetas de jamon", "price": 570},
+                {"name": "entremes de jamon y queso", "price": 765},
+                {"name": "huevos rotos", "price": 905},
+                {"name": "mixto de maria", "price": 2200},
+                {"name": "punetazos de cerdo c/ queso", "price": 895},
+                {"name": "punetazos de cerdo c/ queso y bacon", "price": 1030},
+                {"name": "punetazos de cerdo c/ bacon", "price": 955}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "tacos de ropa vieja de carnero", "price": 2055},
+                {"name": "tacos de ropa vieja de cerdo", "price": 1400},
+                {"name": "hamburguesa a caballo de cerdo", "price": 733},
+                {"name": "big cheese burger de cerdo", "price": 890},
+                {"name": "big tasty cerdo", "price": 870},
+                {"name": "hamburguesa de cerdo con atun", "price": 1000},
+                {"name": "hamburguesa de cerdo con bacon", "price": 995},
+                {"name": "hamburguesa de cerdo con jamon y queso", "price": 1000},
+                {"name": "doble hamburguesa de cerdo", "price": 1050},
+                {"name": "hamburguesa de cerdo de doble queso", "price": 895},
+                {"name": "hamburguesa don juan cerdo", "price": 1130},
+                {"name": "hamburguesa don pascual cerdo", "price": 1375},
+                {"name": "especial de cerdo", "price": 800},
+                {"name": "hamburguesa guajira de cerdo", "price": 2715},
+                {"name": "juanky's combo de cerdo con queso + jugo", "price": 1094},
+                {"name": "mix sin pan de cerdo", "price": 830},
+                {"name": "pina caramelo de cerdo", "price": 1055},
+                {"name": "premium de champinon cerdo", "price": 730},
+                {"name": "hamburguesa sencilla de cerdo", "price": 838},
+                {"name": "hamburguesa taquena de cerdo", "price": 230},
+                {"name": "juankymon", "price": 594},
+                {"name": "media noche", "price": 454},
+                {"name": "media noche sin queso", "price": 760},
+                {"name": "sandwich de atun", "price": 780},
+                {"name": "sandwich de queso", "price": 560},
+                {"name": "sandwich hawaiano", "price": 1360},
+                {"name": "spaghetti de bacon con queso", "price": 470},
+                {"name": "spaghetti base", "price": 1195},
+                {"name": "spaghetti con carne de cerdo", "price": 1390},
+                {"name": "spaghetti de chorizo con queso", "price": 695},
+                {"name": "spaghetti de jamon con queso", "price": 985}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "helado montado", "price": 580}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "belga star", "price": 300},
+                {"name": "refresco de cola", "price": 300},
+                {"name": "refresco de limon", "price": 300},
+                {"name": "refresco de naranja", "price": 300}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza stella", "price": 510}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "caipirisima", "price": 600},
+                {"name": "caipiroska", "price": 520},
+                {"name": "caipiroska absolut", "price": 680},
+                {"name": "caipiroska c/ cirok", "price": 950},
+                {"name": "cuba libre", "price": 530},
+                {"name": "cubanito", "price": 420},
+                {"name": "cubata c/ 7 anos", "price": 600},
+                {"name": "cubata c/ especial", "price": 695},
+                {"name": "cubata c/ reserva", "price": 580},
+                {"name": "gin tonic", "price": 795},
+                {"name": "gin tonic beefeater", "price": 940},
+                {"name": "gin tonic c/ tanqueray", "price": 990},
+                {"name": "sangria", "price": 600},
+                {"name": "screwdriver", "price": 500},
+                {"name": "screwdriver absolut", "price": 780},
+                {"name": "jagger", "price": 350}
+            ]
+        }
+    }
+}

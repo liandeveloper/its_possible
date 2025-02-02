@@ -1,0 +1,89 @@
+{
+    "establishment": ["restaurante"],
+    "name": "joe's burguer",
+    "address": {
+        "city": "la habana",
+        "town": "diez de octubre",
+        "coordinates": {
+            "latitude": 23.08829101929028,
+            "longitude": -82.3777419915061
+        }
+    },
+    "contact": {
+        "facebook": "joes burguer shack",
+        "instagram": "@joes_burguer00",
+        "whatsapp": null,
+        "web": null,
+        "telephone": "76400715"
+    },
+    "schedule": {
+        "monday": "0800-2200",
+        "tuesday": "0800-2200",
+        "wednesday": "0800-2200",
+        "thursday": "0800-2200",
+        "friday": "0800-2300",
+        "saturday": "0800-2300",
+        "sunday": "0800-2300"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["americana"],
+    "menu": {
+        "starter": {
+            "items": [null]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "hamburguesa de cerdo", "price": 500},
+                {"name": "hamburguesa de pollo", "price": 500},
+                {"name": "hamburguesa de res", "price": 700},
+                {"name": "hamburguesa doble", "price": 900},
+                {"name": "bocadito de jamón y queso", "price": 450}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "pepinillo", "price": 30},
+                {"name": "chorizo", "price": 80},
+                {"name": "jamón", "price": 100},
+                {"name": "tomate", "price": 100},
+                {"name": "queso", "price": 120},
+                {"name": "cebolla", "price": 150},
+                {"name": "huevo", "price": 150},
+                {"name": "bacon", "price": 150},
+                {"name": "lechuga", "price": 200}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "potes de helado", "price": 2000}
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "malteada", "price": 500},
+                {"name": "limonada frappé", "price": 500},
+                {"name": "batido de helado", "price": 700}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza", "price": 350}
+            ]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

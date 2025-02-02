@@ -1,0 +1,177 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "ole ole",
+    "address": {
+        "city": "la habana",
+        "town": "cotorro",
+        "coordinates": {
+            "latitude": 23.043767256568298,
+            "longitude": -82.25328207851484
+        }
+    },
+    "contact": {
+        "facebook": "oleole_oficial",
+        "instagram": "@oleole_oficial",
+        "whatsapp": "58447932",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0900-2400",
+        "tuesday": "0900-2400",
+        "wednesday": "0900-2400",
+        "thursday": "0900-2400",
+        "friday": "null",
+        "saturday": "1800-2400",
+        "sunday": "0900-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["cubana", "italiana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "tacos de res", "price": 750},
+                {"name": "tacos de cerdo", "price": 750},
+                {"name": "frituras de malanga", "price": 450},
+                {"name": "chicharritas", "price": 320},
+                {"name": "picadera", "price": 1500},
+                {"name": "brocheta olé", "price": 1200},
+                {"name": "croquetas olé olé", "price": 500},
+                {"name": "tostones tradicionales", "price": 450},
+                {"name": "ensalada mixta", "price": 350},
+                {"name": "tostones atun", "price": 1000},
+                {"name": "eperlán", "price": 1000},
+                {"name": "coctel de camarones", "price": 1350},
+                {"name": "baston de pollo", "price": 900},
+                {"name": "entremés", "price": 1000},
+                {"name": "picadera premium", "price": 1800}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pizza napolitana gouda", "price": 1100},
+                {"name": "pizza jamón gouda", "price": 1280},
+                {"name": "pizza chorizos gouda", "price": 1260},
+                {"name": "pizza doble queso gouda", "price": 1420},
+                {"name": "pizza camarones gouda", "price": 1800},
+                {"name": "pizza hawaiana gouda", "price": 1400},
+                {"name": "pizza habanera gouda", "price": 1790},
+                {"name": "pizza al tonno gouda", "price": 1400},
+                {"name": "pizza jamón piña gouda", "price": 1500},
+                {"name": "pizza napolitana", "price": 700},
+                {"name": "pizza jamón", "price": 900},
+                {"name": "pizza chorizos", "price": 900},
+                {"name": "pizza doble queso", "price": 850},
+                {"name": "pizza camarones", "price": 1600},
+                {"name": "pizza hawaiana", "price": 1000},
+                {"name": "pizza habanera", "price": 1400},
+                {"name": "pizza al tonno", "price": 1280},
+                {"name": "pizza jamón piña", "price": 1300},
+                {"name": "spaghetti napolitanos queso gouda", "price": 720},
+                {"name": "spaghetti jamón queso gouda", "price": 900},
+                {"name": "spaghetti al pomodoro queso gouda", "price": 750},
+                {"name": "spaghetti a la amatriciana queso gouda", "price": 1250},
+                {"name": "spaghetti doble queso gouda", "price": 1000},
+                {"name": "spaghetti de camarón queso gouda", "price": 1430},
+                {"name": "spaghetti a la arabiata queso gouda", "price": 770},
+                {"name": "spaghetti napolitanos", "price": 600},
+                {"name": "spaghetti jamón", "price": 800},
+                {"name": "spaghetti al pomodoro", "price": 650},
+                {"name": "spaghetti a la amatriciana", "price": 1100},
+                {"name": "spaghetti doble queso", "price": 800},
+                {"name": "spaghetti de camarón", "price": 1380},
+                {"name": "spaghetti a la arabiata", "price": 670},
+                {"name": "filete de pescado a la grille", "price": 1300},
+                {"name": "filete de pescado encebollado", "price": 1500},
+                {"name": "pescado frito al plato", "price": 1200},
+                {"name": "filete de pescado a la vizcaína", "price": 1700},
+                {"name": "rueda de pescado marlin", "price": 1650},
+                {"name": "lomo de pescado a la grille", "price": 1600},
+                {"name": "lomo de pescado encebollado", "price": 1700},
+                {"name": "lomo de pescado a la vizcaína", "price": 1750},
+                {"name": "langosta a la grille", "price": 2000},
+                {"name": "langosta enchilada", "price": 2200},
+                {"name": "langosta al ajillo", "price": 2470},
+                {"name": "mariscada", "price": 4500},
+                {"name": "camarón enchilado", "price": 2200},
+                {"name": "camarón al ajillo", "price": 2200},
+                {"name": "camarón a la grille", "price": 1800},
+                {"name": "bistec de ceda grille", "price": 1600},
+                {"name": "bistec de ceda encebollada", "price": 1600},
+                {"name": "masa de ceda frita", "price": 2300},
+                {"name": "escalope de ceda a la milanesa", "price": 2300},
+                {"name": "solomillo cerdo", "price": 2900},
+                {"name": "castilla de cerdo ahumada", "price": 3000},
+                {"name": "chuleta cerdo grille", "price": 2200},
+                {"name": "loma cerdo grille", "price": 2100},
+                {"name": "pollo frita", "price": 1000},
+                {"name": "bistec de pollo grille", "price": 900},
+                {"name": "bistec de pollo encebollado", "price": 950},
+                {"name": "suprema pollo milanesa", "price": 2200},
+                {"name": "pechuga grille", "price": 1200}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "arroz blanco", "price": 120},
+                {"name": "arroz moro", "price": 220}
+            ]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua chiquita", "price": 280},
+                {"name": "energizante chacal", "price": 280},
+                {"name": "energizante tigon", "price": 210},
+                {"name": "refrescos", "price": 220},
+                {"name": "malta licre", "price": 300},
+                {"name": "malta hiper", "price": 280},
+                {"name": "jugo cajita", "price": 180},
+                {"name": "limonada frappe", "price": 400}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "cerveza bucanero max", "price": 300},
+                {"name": "cerveza bucanero roja", "price": 300},
+                {"name": "cerveza cristal extra", "price": 280},
+                {"name": "cerveza caiman", "price": 210},
+                {"name": "cerveza sureña", "price": 210},
+                {"name": "cerveza tangua", "price": 210},
+                {"name": "cerveza gierwalk", "price": 210},
+                {"name": "cerveza holandia", "price": 210},
+                {"name": "cerveza cristal bot", "price": 300},
+                {"name": "cerveza cristal verde", "price": 300}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "caipiriña", "price": 450},
+                {"name": "caipiroska", "price": 700},
+                {"name": "caipirisima", "price": 500},
+                {"name": "cubata", "price": 500},
+                {"name": "cuba libre", "price": 500},
+                {"name": "mojito", "price": 550},
+                {"name": "mojito de fresa", "price": 600},
+                {"name": "mojito de piña", "price": 600},
+                {"name": "daikiri", "price": 600},
+                {"name": "sangria", "price": 1000},
+                {"name": "pina colada", "price": 600}
+            ]
+        }
+    }
+}

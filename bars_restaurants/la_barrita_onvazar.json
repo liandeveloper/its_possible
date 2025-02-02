@@ -1,0 +1,100 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "la barrita onbazar",
+    "address": {
+        "city": "la habana",
+        "town": "cerro",
+        "coordinates": {
+            "latitude": 23.121985720348754,
+            "longitude": -82.3738952629934
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": "@la_barrita_onbazar",
+        "whatsapp": "54494741",
+        "web": "labarrita.onbazar.net",
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0900-2300",
+        "tuesday": "0900-2300",
+        "wednesday": "0900-2300",
+        "thursday": "0900-2300",
+        "friday": "0900-0100",
+        "saturday": "0900-0100",
+        "sunday": "0900-0100"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["italiana", "americana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "tostones rellenos", "price": 1300},
+                {"name": "jamon, queso y aceitunas", "price": 750},
+                {"name": "mixta", "price": 1600},
+                {"name": "brochetas", "price": 2000},
+                {"name": "croquetas", "price": 650},
+                {"name": "pollo frito", "price": 1500},
+                {"name": "pollo chiflado", "price": 1650}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pizza de napolitana", "price": 850},
+                {"name": "pizza de chorizo", "price": 1000},
+                {"name": "pizza de jamon", "price": 1000},
+                {"name": "pizza de hawaiana", "price": 1150},
+                {"name": "pizza de cebolla", "price": 1000},
+                {"name": "spaghetti", "price": 850},
+                {"name": "spaghetti de jamon", "price": 1100},
+                {"name": "spaghetti de chorizo", "price": 1000},
+                {"name": "hamburguesa", "price": 1200},
+                {"name": "hamburguesa jamon y queso", "price": 1650},
+                {"name": "hamburguesa onbazar", "price": 2700}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "jamon", "price": 150},
+                {"name": "cebolla", "price": 150},
+                {"name": "chorizo", "price": 150},
+                {"name": "hawaiana", "price": 250},
+                {"name": "doble queso", "price": 250}
+            ]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [
+                {"name": "cafe expreso", "price": 180},
+                {"name": "cafe cortado", "price": 220},
+                {"name": "capuchino", "price": 450},
+                {"name": "cafe bombon", "price": 450}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "malteada", "price": 500}
+            ]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "piña colada (alcohol)", "price": 750}
+            ]
+        }
+    }
+}

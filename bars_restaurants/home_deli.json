@@ -1,0 +1,97 @@
+{
+    "establishment": ["restaurante"],
+    "name": "home deli",
+    "address": {
+        "city": "la habana",
+        "town": "playa",
+        "coordinates": {
+            "latitude": 23.102013500945667,
+            "longitude": -82.43068481917766
+        }
+    },
+    "contact": {
+        "facebook": "home deli",
+        "instagram": "@homedelicuba",
+        "whatsapp": "59429273",
+        "web": "https://homedelimercado.com",
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0900-2100",
+        "tuesday": "0900-2100",
+        "wednesday": "0900-2100",
+        "thursday": "0900-2100",
+        "friday": "0900-2100",
+        "saturday": "0900-2100",
+        "sunday": "0900-2100"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["italiana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "tabla mixta", "price": null},
+                {"name": "chips mariflye", "price": 380},
+                {"name": "focaccina", "price": 400}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "pizza margarita", "price": 1900},
+                {"name": "pizza baby", "price": 1100},
+                {"name": "sandwich de queso gouda", "price": 1400},
+                {"name": "sandwich de jamon serrano", "price": 1600},
+                {"name": "sandwich de chorizo iberico", "price": 1300},
+                {"name": "sandwich de mortadella", "price": 1300},
+                {"name": "sandwich de jamon york", "price": 1300}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "serrano", "price": 850},
+                {"name": "chorizo iberico", "price": 550},
+                {"name": "pepperoni", "price": 700},
+                {"name": "jamon york", "price": 720},
+                {"name": "mozarella", "price": 980},
+                {"name": "gouda", "price": 700}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "copa de helado", "price": 950}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "expresso", "price": 250},
+                {"name": "cortado", "price": 320},
+                {"name": "americano", "price": 300},
+                {"name": "con leche", "price": 450}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "batido de frutas", "price": 350},
+                {"name": "batido de helado", "price": 550}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "vaso de cerveza", "price": 220},
+                {"name": "jarra de cerveza", "price": 380}
+            ]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

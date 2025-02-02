@@ -1,0 +1,120 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "sport bar",
+    "address": {
+        "city": "la habana",
+        "town": "plaza de la revolución",
+        "coordinates": {
+            "latitude": 23.12739793607911,
+            "longitude": -82.3996550067848
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": "@sportbar_23y12",
+        "whatsapp": "50974447",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0000-2400",
+        "tuesday": "0000-2400",
+        "wednesday": "0000-2400",
+        "thursday": "0000-2400",
+        "friday": "0000-2400",
+        "saturday": "0000-2400",
+        "sunday": "0000-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["italiana", "mexicana", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "brusquetas", "price": 500},
+                {"name": "croquetas del día", "price": 550},
+                {"name": "fritura de malanga", "price": 450},
+                {"name": "papas fritas", "price": 550},
+                {"name": "picadera 23 y 12", "price": 2500}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "emparedado de atún", "price": 1400},
+                {"name": "emparedado de pollo", "price": 1400},
+                {"name": "emparedado de lechón", "price": 1600},
+                {"name": "emparedado de jamón y queso", "price": 1000},
+                {"name": "emparedado de 23 y 12", "price": 2000},
+                {"name": "hamburguesa clásica de cerdo", "price": 1450},
+                {"name": "tacos de pollo, 3 unidades", "price": 2000},
+                {"name": "tacos de pollo, 8 unidades", "price": 3000},
+                {"name": "tacos de cerdo, 3 unidades", "price": 2500},
+                {"name": "tacos de camarón, 3 unidades", "price": 2500},
+                {"name": "pizza napoles", "price": 1250},
+                {"name": "pasta boloñesa", "price": 1800},
+                {"name": "pasta pesto", "price": 950},
+                {"name": "pasta napoles", "price": 1200},
+                {"name": "pasta al ajillo", "price": 1000}
+            ]
+        },
+        "sides": [null],
+        "desserts": [null],
+        "coffee": {
+            "items": [
+                {"name": "café américano", "price": 250},
+                {"name": "café espresso", "price": 250},
+                {"name": "café espresso c/ coffemate", "price": 300},
+                {"name": "café cortadito", "price": 300},
+                {"name": "café bombom", "price": 400},
+                {"name": "café cappuccino", "price": 500},
+                {"name": "café affocato", "price": 500},
+                {"name": "café frapuccino", "price": 550},
+                {"name": "café frapuccino 23 y 12", "price": 650}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "agua nacional", "price": 250},
+                {"name": "agua importada", "price": 450},
+                {"name": "refresco nacional", "price": 280},
+                {"name": "refresco importado", "price": 300},
+                {"name": "malta", "price": 400},
+                {"name": "energizante", "price": 600},
+                {"name": "limonada natural", "price": 400},
+                {"name": "limonada c/ hierba buena", "price": 425},
+                {"name": "jugo natural", "price": 350},
+                {"name": "jugo natural", "price": 350},
+                {"name": "batido de frutas", "price": 500},
+                {"name": "suero de helado", "price": 650}
+            ]
+        },
+        "alcoholic": {
+            "items": [
+                {"name": "cerveza cristal", "price": 400},
+                {"name": "cerveza cristal extra", "price": 500},
+                {"name": "cerveza bucanero", "price": 400},
+                {"name": "cerveza bucanero max", "price": 500},
+                {"name": "cerveza dispensada", "price": 350}
+            ]
+        },
+        "special_offers": [
+            {"name": "malteada", "price": 600},
+            {"name": "cr7", "price": 700},
+            {"name": "messi", "price": 600},
+            {"name": "lakers", "price": 600},
+            {"name": "habana mule", "price": 600},
+            {"name": "canchancara habana", "price": 600},
+            {"name": "michelada 23 y 12", "price": 500},
+            {"name": "zombie", "price": 650},
+            {"name": "vampiro", "price": 700}
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "establishment": ["restaurante"],
+    "name": "martínez club",
+    "address": {
+        "city": "la habana",
+        "town": "cotorro",
+        "coordinates": {
+            "latitude": 23.047306531006058,
+            "longitude": -82.2683502866321
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "0900-2100",
+        "tuesday": "0900-2100",
+        "wednesday": "0900-2100",
+        "thursday": "0900-2100",
+        "friday": "0900-2100",
+        "saturday": "0900-2100",
+        "sunday": "0900-2100"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["americana", "italiana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "fritura de malanga", "price": 300},
+                {"name": "ensalada fría", "price": 150},
+                {"name": "croquetas", "price": 300},
+                {"name": "tostones al ajillo", "price": 300}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "hamburguesa simple", "price": 230},
+                {"name": "hamburguesa con mayonesa", "price": 280},
+                {"name": "hamburguesa con jamón", "price": 350},
+                {"name": "hamburguesa con chorizo", "price": 350},
+                {"name": "hamburguesa con cebolla", "price": 330},
+                {"name": "hamburguesa con queso blanco", "price": 330},
+                {"name": "hamburguesa con queso gouda", "price": 430},
+                {"name": "pollo chiflado", "price": 700},
+                {"name": "masa de cerdo frita", "price": 1100},
+                {"name": "pizza con queso blanco", "price": 200},
+                {"name": "pizza con queso gouda", "price": 350},
+                {"name": "pizza familiar con queso blanco", "price": 450},
+                {"name": "pizza familiar con queso gouda", "price": 650},
+                {"name": "spaguetti con queso blanco", "price": 350},
+                {"name": "spaguetti con queso gouda", "price": 500}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [null]
+        },
+        "coffee": {
+            "items": [
+                {"name": "expresso", "price": 20}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "refresco", "price": 200},
+                {"name": "malteada", "price": 330},
+                {"name": "jugo", "price": 50}
+            ]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

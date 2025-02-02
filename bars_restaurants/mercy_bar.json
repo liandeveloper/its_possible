@@ -1,0 +1,128 @@
+{
+    "establishment": ["bar", "restaurante"],
+    "name": "mercy bar",
+    "address": {
+        "city": "la habana",
+        "town": "playa",
+        "coordinates": {
+            "latitude": 23.117726284857962,
+            "longitude": -82.4422860238811
+        }
+    },
+    "contact": {
+        "facebook": "mercy bar-café",
+        "instagram": "@mercybarcafe",
+        "whatsapp": "59361254",
+        "web": "linktr.ee/mercybarcafe",
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1200-2400",
+        "tuesday": "1200-2400",
+        "wednesday": "1200-2400",
+        "thursday": "1200-2400",
+        "friday": "1200-2400",
+        "saturday": "1200-2400",
+        "sunday": "1200-2400"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": true,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": null
+    },
+    "specialties": ["italiana", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "pan baguette", "price": 250},
+                {"name": "croquetas del dia (8u)", "price": 800},
+                {"name": "ensalada de vegetales", "price": 500},
+                {"name": "mariquitas de pollo", "price": 1200},
+                {"name": "bolitas de queso (8u)", "price": 950},
+                {"name": "yuca rellena", "price": 1500},
+                {"name": "tacos del dia (3u)", "price": 1500},
+                {"name": "pollo picaro", "price": 1600},
+                {"name": "tabla de embutidos", "price": 1900},
+                {"name": "tacos mercy", "price": 2100},
+                {"name": "tabla de queso", "price": 2600},
+                {"name": "eperlan", "price": 2600},
+                {"name": "ceviche", "price": 2500},
+                {"name": "pescadilla", "price": 2800},
+                {"name": "entrepan con atun", "price": 1200},
+                {"name": "entrepan cubano", "price": 1400},
+                {"name": "entrepan serrano", "price": 2200}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "arroz frito", "price": 1350},
+                {"name": "garbanzo frito", "price": 1400},
+                {"name": "pollo asado", "price": 1700},
+                {"name": "fajitas de cerdo", "price": 1800},
+                {"name": "masas de cerdo", "price": 1800},
+                {"name": "lomo ahumado", "price": 2100},
+                {"name": "ropa vieja de res", "price": 2600},
+                {"name": "filete de pescado", "price": 2600},
+                {"name": "gordon blue de cerdo", "price": 3200},
+                {"name": "mariscos al gusto", "price": 3500},
+                {"name": "mixto mercy", "price": 3450},
+                {"name": "brochetas al hornillo", "price": 2900},
+                {"name": "risotto", "price": 2900},
+                {"name": "estofado de cordero", "price": 3000},
+                {"name": "rabo encendido", "price": 3000},
+                {"name": "pescado frito entero", "price": 3300},
+                {"name": "parrillada criolla", "price": 4700},
+                {"name": "parrillada marinera", "price": 7300},
+                {"name": "parrillada mixta", "price": 8700},
+                {"name": "canelon de pollo", "price": 1400},
+                {"name": "lasagna de jamon", "price": 1600},
+                {"name": "pasta mercy", "price": 2800},
+                {"name": "pizza napolitana", "price": 1300},
+                {"name": "pizza de jamon", "price": 1500},
+                {"name": "pizza de chorizo", "price": 150},
+                {"name": "pizza hawaiana", "price": 1500},
+                {"name": "pizza de vegetales", "price": 1500},
+                {"name": "pizza de aceitunas", "price": 1500},
+                {"name": "pizza de atun", "price": 1600},
+                {"name": "pizza familiar", "price": 2200},
+                {"name": "pizza mercy", "price": 3000},
+                {"name": "pizza serrano", "price": 3200}
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                {"name": "tarta nata", "price": 600},
+                {"name": "bola jimagua", "price": 750},
+                {"name": "dulce de tres leche", "price": 900}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "te frio o caliente", "price": 200},
+                {"name": "expresso", "price": 400},
+                {"name": "cortado", "price": 500},
+                {"name": "americano", "price": 400},
+                {"name": "capuchino", "price": 700},
+                {"name": "frapuchino", "price": 700},
+                {"name": "carajillo", "price": 700}
+            ]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

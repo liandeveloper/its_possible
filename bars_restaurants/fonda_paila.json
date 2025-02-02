@@ -1,0 +1,116 @@
+{
+    "establishment": ["restaurante"],
+    "name": "fonda la paila",
+    "address": {
+        "city": "la habana",
+        "town": "plaza de la revolución",
+        "coordinates": {
+            "latitude": 23.139257303539583,
+            "longitude": -82.38130662264366
+        }
+    },
+    "contact": {
+        "facebook": "lapaila25ym",
+        "instagram": "@lapaila_25ym",
+        "whatsapp": "53388837",
+        "web": null,
+        "telephone": null
+    },
+    "schedule": {
+        "monday": "1200-2400",
+        "tuesday": "1200-2400",
+        "wednesday": "1200-2400",
+        "thursday": "1200-2400",
+        "friday": "1200-2400",
+        "saturday": "1200-2400",
+        "sunday": "1200-2400"
+    },
+    "services": {
+        "delivery": false,
+        "to_take": false,
+        "reserve": true
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["caribeña", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                { "name": "cesta de pan", "price": 600 },
+                { "name": "frituras de malanga", "price": 1000 },
+                { "name": "croquetas de la casa", "price": 1350 },
+                { "name": "pan con lechón", "price": 1850 },
+                { "name": "tacos guajiros", "price": 2200 },
+                { "name": "tacos de camarón", "price": 2200 },
+                { "name": "tostones 25 y m", "price": 1850 },
+                { "name": "bastones fritos", "price": 2500 },
+                { "name": "cóctel de langosta", "price": 2000 },
+                { "name": "cóctel de camarón", "price": 1900 },
+                { "name": "ceviche criollo", "price": 2000 },
+                { "name": "charcutería criolla", "price": 3000 },
+                { "name": "tabla la paila", "price": 4500 },
+                { "name": "papas prefritas con chorizo y queso", "price": 1500 },
+                { "name": "bastones fritos de pescado", "price": 3000 },
+                { "name": "tabla de jamón serrano", "price": 3500 },
+                { "name": "tabla de salmón", "price": 3000 }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                { "name": "arroz con pollo a la cubana", "price": 3000 },
+                { "name": "pollo campestre", "price": 2300 },
+                { "name": "pechuga grillé", "price": 2500 },
+                { "name": "pechuga salteada", "price": 2500 },
+                { "name": "ropa vieja criolla", "price": 3000 },
+                { "name": "vaca frita", "price": 3000 },
+                { "name": "masas a la paila", "price": 3000 },
+                { "name": "chuleta a la parrilla", "price": 3000 },
+                { "name": "costillas bbq", "price": 3500 },
+                { "name": "brocheta criolla", "price": 3000 },
+                { "name": "lonjas de cerdo", "price": 2850 },
+                { "name": "lomo de cerdo mechado", "price": 3300 },
+                { "name": "pescado al carbón", "price": 3000 },
+                { "name": "pescado sauté papillote", "price": 3600 },
+                { "name": "camarón a su elección", "price": 3500 },
+                { "name": "langosta al carbón", "price": 3600 },
+                { "name": "langosta enchilada", "price": 3800 },
+                { "name": "langosta termidor", "price": 4000 },
+                { "name": "grillada mixta", "price": 6500 },
+                { "name": "pulpo a su elección", "price": 4200 },
+                { "name": "grillada del mar", "price": 5900 },
+                { "name": "grillada de la tierra", "price": 5800 },
+                { "name": "pasta frutti di mare", "price": 3500 },
+                { "name": "lechón ahumado", "price": 3300 }
+            ]
+        },
+        "sides": {
+            "items": [null]
+        },
+        "desserts": {
+            "items": [
+                { "name": "helados de crema de fresa", "price": 550 },
+                { "name": "tarta de chocolate", "price": 650 },
+                { "name": "postre de paila", "price": 750 },
+                { "name": "cheesecake de fruta", "price": 950 },
+                { "name": "flan de la casa", "price": 500 },
+                { "name": "copa lolita", "price": 750 },
+                { "name": "torrejas de la casa con helado", "price": 500 }
+            ]
+        },
+        "coffee": {
+            "items": [null]
+        },
+        "beverages": {
+            "items": [null]
+        },
+        "beers": {
+            "items": [null]
+        },
+        "cocktails": {
+            "items": [null]
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "establishment": ["restaurante"],
+    "name": "ranchon hanoi",
+    "address": {
+        "city": "la habana",
+        "town": "habana del este",
+        "coordinates": {
+            "latitude": 23.157394129476703,
+            "longitude": -82.28044181790841
+        }
+    },
+    "contact": {
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "web": null,
+        "telephone": "77630542"
+    },
+    "schedule": {
+        "monday": "null-null",
+        "tuesday": "1200-2300",
+        "wednesday": "1200-2300",
+        "thursday": "1200-2300",
+        "friday": "1200-2300",
+        "saturday": "1200-2300",
+        "sunday": "1200-2300"
+    },
+    "services": {
+        "delivery": true,
+        "to_take": false,
+        "reserve": false
+    },
+    "payment": {
+        "cash": true,
+        "transfer": true,
+        "credit_card": false
+    },
+    "specialties": ["criolla", "cubana"],
+    "menu": {
+        "starter": {
+            "items": [
+                {"name": "dados de jamon", "price": 300},
+                {"name": "dados de queso gouda", "price": 450},
+                {"name": "entremes de jamon y queso gouda", "price": 700},
+                {"name": "entremes de chorizo y queso gouda", "price": 700},
+                {"name": "entremes surtido", "price": 1200},
+                {"name": "coctel de camaron", "price": 950},
+                {"name": "coctel de langosta", "price": 950},
+                {"name": "ensalada fria de jamon", "price": 360},
+                {"name": "ensalada fria de atun", "price": 400},
+                {"name": "vianda frita", "price": 250},
+                {"name": "croquetas de la casa", "price": 300},
+                {"name": "baston de pollo", "price": 500},
+                {"name": "eperlan de pescado", "price": 900},
+                {"name": "toston con mojo criollo", "price": 250},
+                {"name": "toston estilo ranchon", "price": 580},
+                {"name": "toston relleno con jamon y queso gouda", "price": 600}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {"name": "spaguetti napolitanos", "price": 650},
+                {"name": "pizza napolitana", "price": 700},
+                {"name": "bistec de cerdo", "price": 1350},
+                {"name": "fajitas de cerdo", "price": 1350},
+                {"name": "bistec de cerdo napado con queso", "price": 1700},
+                {"name": "bistec de cerdo a la princesa", "price": 1950},
+                {"name": "fricase de cerdo", "price": 1500},
+                {"name": "masas de cerdo fritas", "price": 1450},
+                {"name": "lomo de cerdo ahumado", "price": 1450},
+                {"name": "ropa vieja", "price": 1100},
+                {"name": "fricase de cordero", "price": 1650},
+                {"name": "bistec de pollo al queso", "price": 1690},
+                {"name": "pollo san carlos con jamon gratinado con queso", "price": 1850},
+                {"name": "pollo al gusto", "price": 1000},
+                {"name": "higado de res a la italiana", "price": 900},
+                {"name": "filete de pescado", "price": 1700},
+                {"name": "ruedas de pescado", "price": 1650},
+                {"name": "filete de pescado gratinado al queso", "price": 1950},
+                {"name": "filete de pescado john bill", "price": 2400},
+                {"name": "eperlan de pescado", "price": 1800},
+                {"name": "pescado entero", "price": 1500},
+                {"name": "langosta grille", "price": 1800},
+                {"name": "enchilado de langosta", "price": 1900},
+                {"name": "camaron grille", "price": 1800},
+                {"name": "enchilado de camaron", "price": 1900},
+                {"name": "todo mar", "price": 2600},
+                {"name": "mar y tierra", "price": 2300}
+            ]
+        },
+        "sides": {
+            "items": [
+                {"name": "arroz blanco", "price": 100},
+                {"name": "arroz congri", "price": 150},
+                {"name": "vianda hervida", "price": 150},
+                {"name": "ensalada de estacion", "price": 150}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {"name": "flan", "price": 250},
+                {"name": "copa lolita de helado", "price": 425},
+                {"name": "jimaguas de helado", "price": 200},
+                {"name": "3 gracias", "price": 270},
+                {"name": "ensalada de helado", "price": 400}
+            ]
+        },
+        "coffee": {
+            "items": [
+                {"name": "cafe cortadito", "price": 250},
+                {"name": "cafe expresso", "price": 100}
+            ]
+        },
+        "beverages": {
+            "items": [
+                {"name": "limonada clarete", "price": 500}
+            ]
+        },
+        "beers": {
+            "items": [
+                {"name": "michelada", "price": 500},
+                {"name": "chelada", "price": 400}
+            ]
+        },
+        "cocktails": {
+            "items": [
+                {"name": "cuba libre", "price": 380},
+                {"name": "cubata", "price": 400},
+                {"name": "mojito", "price": 400},
+                {"name": "ron coffin", "price": 400},
+                {"name": "mary pickfor", "price": 400},
+                {"name": "habana especial", "price": 400},
+                {"name": "daiquiri", "price": 350},
+                {"name": "daiquiri rebelde", "price": 380},
+                {"name": "pina colada", "price": 500},
+                {"name": "caipirina", "price": 350},
+                {"name": "caipiroska", "price": 350},
+                {"name": "caipirisima", "price": 350},
+                {"name": "sangria", "price": 500}
+            ]
+        }
+    }
+}
