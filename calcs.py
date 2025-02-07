@@ -9,5 +9,13 @@ def total(list):
     for i in list:
         if i is not None:
             total += i
-
     return total
+
+def average(list):
+    total = 0
+    count = 0
+    for i in list:
+        if i is not None:
+            total += i
+            count += 1
+    return total / count

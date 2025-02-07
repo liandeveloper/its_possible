@@ -30,3 +30,10 @@ def boolean(df, bool, town, string):
         df[bool].apply(lambda x: x == True) &
         df[town].apply(lambda x: x == string)
     ]
+
+def counts(df, func, towns):
+    list = []
+    for i in towns:
+        count = len(func(df, i.lower()))
+        list.append(count)
+    return list
